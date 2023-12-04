@@ -1,10 +1,10 @@
-# Frecuencias para Walkie-Talkies
+# Frecuencias para radio
 
-Bienvenidos a la página oficial de Frecuencias para Walkie-Talkies en GitHub Pages. Este proyecto es una fuente dedicada a proporcionar listados actualizados y detallados de frecuencias para usuarios de walkie-talkies en todo el mundo.
+Este proyecto es una fuente dedicada a proporcionar listados actualizados y detallados de frecuencias para usuarios de walkie-talkies en todo el mundo.
 
 ## Acerca del Proyecto
 
-Este proyecto tiene como objetivo compilar y mantener un recurso integral para los entusiastas y profesionales de los walkie-talkies. Aquí encontrarás listas de frecuencias, guías de uso, información legal y más.
+Este proyecto tiene como objetivo compilar y mantener un recurso integral para los entusiastas y profesionales de los radio. Aquí encontrarás listas de frecuencias, guías de uso, información legal y más.
 
 ### Listados de Frecuencias
 
