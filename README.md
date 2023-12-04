@@ -9,6 +9,7 @@ Este proyecto tiene como objetivo compilar y mantener un recurso integral para l
 ### Listados de Frecuencias
 
 - [PMR446](/frecuencias/pmr446.md)
+- [MARITIMAS](/frecuencias/maritimas.md)
 
 ### Guías y Recursos
 
