@@ -1,0 +1,110 @@
+[
+    {
+      "channel": "6",
+      "frequency": "156.400",
+      "use": "Communications between ships and aircraft in SAR operations"
+    },
+    {
+      "channel": "8",
+      "frequency": "156.625",
+      "use": "Communications between ships for non-safety purposes"
+    },
+    {
+      "channel": "9",
+      "frequency": "156.450",
+      "use": "Used to communicate with marinas and sports ports in Spain"
+    },
+    {
+      "channel": "10",
+      "frequency": "156.500",
+      "use": "SAR operations in Europe and Canada; Maritime Rescue in Spain"
+    },
+    {
+      "channel": "11",
+      "frequency": "156.550",
+      "use": "Port authorities in Spain"
+    },
+    { "channel": "12", "frequency": "156.600", "use": "Pilots in Spain" },
+    {
+      "channel": "13",
+      "frequency": "156.650",
+      "use": "Safety communications in navigation between ships"
+    },
+    { "channel": "14", "frequency": "156.700", "use": "Pilots" },
+    {
+      "channel": "15",
+      "frequency": "156.750",
+      "use": "D.G.M:M or on-board communications (1W)"
+    },
+    {
+      "channel": "16",
+      "frequency": "156.800",
+      "use": "Distress, urgency, safety communications, and calls"
+    },
+    {
+      "channel": "17",
+      "frequency": "156.850",
+      "use": "On-board communications, between ships, and oil companies (1W) in Spain"
+    },
+    {
+      "channel": "67",
+      "frequency": "156.375",
+      "use": "SAR operations in Europe and Canada; oil companies in Spain"
+    },
+    {
+      "channel": "68",
+      "frequency": "156.425",
+      "use": "LSD, distress, urgency, safety, and calling"
+    },
+    {
+      "channel": "69",
+      "frequency": "156.475",
+      "use": "Shipping agents in Spain"
+    },
+    { "channel": "70", "frequency": "156.525", "use": "Various activities" },
+    {
+      "channel": "71",
+      "frequency": "156.575",
+      "use": "Customs Surveillance Services in Spain"
+    },
+    {
+      "channel": "72",
+      "frequency": "156.625",
+      "use": "Maritime Rescue in Spain"
+    },
+    {
+      "channel": "73",
+      "frequency": "156.675",
+      "use": "SAR operations in Europe and Canada; Customs Surveillance Service in Spain"
+    },
+    {
+      "channel": "74",
+      "frequency": "156.725",
+      "use": "Maritime Rescue in Spain"
+    },
+    {
+      "channel": "75",
+      "frequency": "156.775",
+      "use": "Guard and distress channel (1W)"
+    },
+    {
+      "channel": "76",
+      "frequency": "156.825",
+      "use": "Guard and distress channel (1W)"
+    },
+    {
+      "channel": "77",
+      "frequency": "156.875",
+      "use": "Fishermen's guilds in Spain"
+    },
+    {
+      "channel": "87",
+      "frequency": "157.375",
+      "use": "Free in Spain"
+    },
+    {
+      "channel": "88",
+      "frequency": "157.425",
+      "use": "Free in Spain"
+    }
+]
