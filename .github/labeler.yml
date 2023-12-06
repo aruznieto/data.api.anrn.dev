@@ -1,0 +1,17 @@
+airports:
+- changed-files:
+  - any-glob-to-any-file: airports/**
+
+maritime:
+- changed-files:
+  - any-glob-to-any-file: maritims/**
+
+pmr:
+- changed-files:
+  - any-glob-to-any-file: pmr/**
+
+feature:
+ - head-branch: ['^feature', 'feature']
+
+release:
+ - base-branch: 'main'
