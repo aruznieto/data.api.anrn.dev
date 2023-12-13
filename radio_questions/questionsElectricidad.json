@@ -117,7 +117,7 @@
             "Disminuye la temperatura del conductor",
             "Aumenta el número de átomos por centímetro cuadrado"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "¿Qué se entiende por 'amplitud' de una señal sinusoidal?:",
@@ -167,7 +167,7 @@
             "Se evita con una antena omnidireccional",
             "La intensidad de una señal emitida sufre variaciones en un  período de tiempo pudiendo llegar a no detectarse en el receptor"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "A una potencia de valor 1000 mW le corresponde un valor en dB de:",
@@ -197,7 +197,7 @@
             "AM y FM",
             "No se puede utilizar como receptor, al no disponer de etapa de frecuencia intermedia"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Una etapa de frecuencia intermedia en un receptor superheterodino, básicamente, se compone de:",
@@ -237,7 +237,7 @@
             "La corriente eléctrica",
             "La tensión eléctrica"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "La R.O.E. de una instalación de una antena de radioaficionado se expresa con la fórmula:",
@@ -457,7 +457,7 @@
             "P1, P2, P3, P4",
             "1, 2, 3, 4"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "El multiplicador de frecuencia se emplea para:",
@@ -637,7 +637,7 @@
             "Inversamente proporcional al producto de la inductancia de la bobina por la capacidad del condensador",
             "Cero"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "En un circuito con dos resistencias en paralelo, la intensidad total será:",
@@ -727,7 +727,7 @@
             "A las partes imaginarias de las frecuencias",
             "A las simetrías de de cada frecuencia"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "La etapa de detección de un receptor se emplea para:",
@@ -757,7 +757,7 @@
             "Control automático de nivel o ALC",
             "Control automático de saturación o CAS"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "La ley de Coulomb dice que la fuerza entre dos cargas eléctricas es:",
@@ -967,7 +967,7 @@
             "Clase C",
             "La distorsión es independiente de la clase de amplificador"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Se conoce como 'frecuencia de corte' de una guía de onda a:",
@@ -1107,7 +1107,7 @@
             "Faradio: Cantidad de carga",
             "Hertzio: Frecuencia"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "El silenciador (squelch) de un receptor permite:",
@@ -1117,7 +1117,7 @@
             "Suprimir el audio si no hay señal de RF",
             "Aumentar la selectividad del receptor"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Un amperio es la intensidad de corriente que corresponde al paso por un conductor, durante un segundo, de una carga de un culombio.",
@@ -1157,7 +1157,7 @@
             "Conectar un diodo detector entre los terminales del altavoz",
             "Utilizar para su conexión cable blindado"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "La toma de tierra de una estación:",
@@ -1217,7 +1217,7 @@
             "El decibelio",
             "El vatio"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "En sistemas de transmisión analógicos, las señales:",
@@ -1347,7 +1347,7 @@
             "Caracterizar etapas de radiofrecuencia",
             "Recibir en banda lateral única"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "El valor de la resistencia total  resultante de asociar varias resistencias en serie:",
@@ -1377,7 +1377,7 @@
             "150 kHz",
             "La 1 MHz"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "El índice de modulación caracteriza a:",
@@ -1437,7 +1437,7 @@
             "La ubicación de las antenas transmisora y receptora",
             "Todos los anteriores"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "Una resistencia en SHUNT irá colocada:",
@@ -1487,7 +1487,7 @@
             "Tensión",
             "Intensidad"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "¿Hay alguna limitación para las radiaciones espurias en el servicio de radioaficionados, en la banda HF?:",
@@ -1677,7 +1677,7 @@
             "La tensión de un conjunto conectadas en serie es la suma de las tensiones de cada una de ellas",
             "Transforman la energía eléctrica en magnética"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Los sintetizadores digitales de señal (DDS) se emplean como:",
@@ -1687,7 +1687,7 @@
             "Filtros de rechazo digitales",
             "Moduladores de banda lateral"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "De menor a mayor altura, indique el orden correcto de las capas de la atmosfera:",
@@ -1717,7 +1717,7 @@
             "El de clase B ya no se utiliza",
             "El de clase A tiene una distorsión elevada"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "En un circuito eléctrico de corriente continua:",
@@ -1837,7 +1837,7 @@
             "F1F",
             "AM"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Cuando se produce una interferencia perjudicial que afecta a la seguridad de la vida humana:",
@@ -1897,7 +1897,7 @@
             "Vertical con plano de tierra",
             "Parabólica"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "En un circuito electrónico, un transistor no se puede emplear como:",
@@ -1907,7 +1907,7 @@
             "Mezclador",
             "Balun"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "La polarización de una antena es:",
@@ -1927,7 +1927,7 @@
             "La potencia reflejada es igual a la potencia directa",
             "Sólo existe potencia reflejada siendo nula la potencia directa"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Si en el siguiente esquema el conjunto L-C resuena a la frecuencia del transmisor, se       puede afirmar que la potencia medida por el vatímetro será:",
@@ -2047,7 +2047,7 @@
             "Aumentar el peso y resistencia del equipo",
             "Limitar radiaciones indeseadas"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "El esquema de un receptor básico para banda lateral única se corresponde con la figura:",
@@ -2257,7 +2257,7 @@
             "El receptor A es más sensible que el receptor B",
             "El receptor B es más estable que el receptor A"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Referido al parámetro “ROE” de una estación transmisora, señale la opción que es correcta:",
@@ -2417,7 +2417,7 @@
             "El nivel de la señal del canal adyacente",
             "La capacidad de rechazar frecuencias superiores a la frecuencia intermedia"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Una resistencia en SHUNT se puede utilizar para:",
@@ -2467,7 +2467,7 @@
             "Solo tienen reflector y dipolo",
             "Solo tienen dipolo y directores"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Una antena dipolo con trampas:",
