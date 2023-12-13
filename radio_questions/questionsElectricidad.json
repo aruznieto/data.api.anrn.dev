@@ -27,7 +27,7 @@
             "La relación entre la onda estacionaria y el ancho de banda del circuito",
             "Inexistente"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "El siguiente esquema eléctrico corresponde a:",
@@ -37,7 +37,7 @@
             "Un oscilador local",
             "Una fuente de alimentación"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "Los transceptores con cambio de frecuencia de emisión, utilizan:",
@@ -137,7 +137,7 @@
             "Para reducir el rizado de la señal de salida y obtener un valor más constante de esta",
             "Para igualar la señal de salida a la de entrada"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Para medir la potencia de una señal eléctrica, se emplea un:",
@@ -187,7 +187,7 @@
             "10 V",
             "3.14 V"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "El siguiente esquema se puede emplear como receptor de:",
@@ -277,7 +277,7 @@
             "Electromagnética",
             "Acústica"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "El periodo de una onda sinusoidal:",
@@ -377,7 +377,7 @@
             "La etapa de potencia",
             "Un filtro paso bajo o paso banda"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "Las emisiones situadas fuera de la banda necesaria están constituidas por:",
@@ -447,7 +447,7 @@
             "Directiva",
             "Vertical de λ/4"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Las capas ionizadas de la atmósfera se denominan:",
@@ -537,7 +537,7 @@
             "A menor frecuencia mayor deberá de ser la altura de las antenas",
             "A menor alcance mayor será la polarización de la señal"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "El valor de la tolerancia de una resistencia viene indicada por la:",
@@ -577,7 +577,7 @@
             "Tienen tres terminales",
             "Disponen de rejilla"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "¿Qué es un diodo?",
@@ -787,7 +787,7 @@
             "Dejar de emitir",
             "Comunicárselo al aeropuerto"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "En un receptor, la capacidad de mantener la frecuencia sintonizada se denomina:",
@@ -797,7 +797,7 @@
             "Selectividad",
             "Estabilidad"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "En un transformador eléctrico, ¿qué se conoce como “relación de transformación”?:",
@@ -857,7 +857,7 @@
             "El número de vatios necesarios para mantener una buena comunicación",
             "El número de kilohercios que ocupa la banda de trabajo del equipo"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Según las leyes básicas de la electricidad, ¿cuál de las siguientes fórmulas es incorrecta?:",
@@ -1097,7 +1097,7 @@
             "Iguales",
             "Nulos"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Señale cual de las unidades de medida/magnitud siguientes es incorrecta:",
@@ -1277,7 +1277,7 @@
             "Intensidad de corriente eléctrica",
             "Tensión eléctrica"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "El producto de 13 voltios por 1 amperio son:",
@@ -1407,7 +1407,7 @@
             "F=14,2 MHz",
             "F=13,5 MHz"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "La etapa de FI en un receptor debe estar conectada:",
@@ -1787,7 +1787,7 @@
             "En mixto, no se pueden colocar",
             "En serie, la resistencia total siempre es mayor que cualquiera de ellas"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "¿Qué es un 'resonador de cuarzo'?:",
@@ -1977,7 +1977,7 @@
             "La tensión de entrada",
             "El número de espiras del primario y del secundario"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "Para que un transformador reduzca la tensión, es necesario que:",
@@ -2067,7 +2067,7 @@
             "40 m",
             "80 m"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Al objeto de evitar que el transceptor introduzca señales de radiofrecuencia en la red de suministro eléctrico, se emplea:",
@@ -2257,7 +2257,7 @@
             "Es un indicador del grado de adaptación de impedancias entre el transmisor y la antena",
             "Cuanto mas elevado sea su valor, mayor rendimiento se obtiene en la transmisión"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "En los modernos transceptores el uso de procesadores digitales de señal (DSP) permite entre otras cosas:",
