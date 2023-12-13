@@ -150,14 +150,14 @@
         "correct": -1
     },
     {
-        "question": "De la batería de un portátil, donde figure la siguiente inscripción  “DC 7.4 v - 1500 mAh”, se puede afirmar que podrá proporcionar:",
+        "question": "De la batería de un portátil, donde figure la siguiente inscripción  'DC 7.4 v - 1500 mAh', se puede afirmar que podrá proporcionar:",
         "answers": [
             "7,4  voltios y 1,5 amperios durante una hora",
             "1,5  voltios y 7,4 amperios durante una hora",
             "7,4  voltios y 1500 amperios durante una hora",
             "7,4  voltios y 1500 amperios durante media hora"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Para el desvanecimiento o fading, es correcto afirmar que:",
@@ -217,7 +217,7 @@
             "Elementos que sobran",
             "Elementos que viven a costa de los demás"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "¿Cual es la “condición de resonancia” para un circuito resonante?:",
@@ -367,7 +367,7 @@
             "Para distancias cortas",
             "No se pueden utilizar"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "¿Qué se debería encontrar siempre antes de la toma de antena en un emisor?:",
@@ -507,7 +507,7 @@
             "Es un ondulador para hacer señales cuadradas",
             "Es un duplicador de frecuencias digitales"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Si en el vatímetro de la figura conectado entre un transmisor y una antena, se observa la siguiente lectura de potencia directa y reflejada, se puede afirmar que:",
@@ -707,7 +707,7 @@
             "Un dispositivo que permite el paso de la comente eléctrica en un único sentido",
             "Una antena de TV"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "En el siguiente esquema, el transmisor, la línea de alimentación y la antena tienen la misma impedancia a la frecuencia de trabajo, por lo que el vatímetro indicará que:",
@@ -1207,7 +1207,7 @@
             "200 MHz",
             "10 MHz"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "La unidad de potencia eléctrica es:",
@@ -1257,7 +1257,7 @@
             "Se comunica al presidente de la comunidad",
             "Se debe apagar la instalación de ICT"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "¿Qué es el 'fading'?:",
@@ -1348,16 +1348,6 @@
             "Recibir en banda lateral única"
         ],
         "correct": 2
-    },
-    {
-        "question": "El valor de la resistencia total  resultante de asociar varias resistencias en serie:",
-        "answers": [
-            "Es mayor que el valor de cualquiera de las resistencias",
-            "Es igual al valor de la mayor de las resistencias",
-            "Es menor que cualquiera las resistencias",
-            "Es igual al valor de la menor de las resistencias"
-        ],
-        "correct": -1
     },
     {
         "question": "La característica de un filtro denominada como “frecuencia de corte” es:",
@@ -1502,12 +1492,12 @@
     {
         "question": "¿Qué expresión es la correcta para indicar la “Capacidad resultante” (C), en el siguiente circuito?:",
         "answers": [
-            " ",
-            " ",
-            " ",
+            "C = C1+C2+C3",
+            "C = 1/C1+1/C2+1/C3",
+            "C = 2/1/C1+2/1/C2+2/1/C3",
             "Ninguna de las anteriores"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Las radiaciones espurias de los transmisores:",
@@ -1537,7 +1527,7 @@
             "Acoplamiento magnético de alta frecuencia",
             "Componentes de campo ajustados a impedancia nula"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Para realizar medidas de intensidad de campo radiado por una antena se emplea:",
@@ -1734,10 +1724,10 @@
         "answers": [
             "250",
             "15",
-            "2´5",
+            "2'5",
             "35"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "La oposición que presenta una bobina de inductancia L al paso de una corriente   alterna se llama reactancia inductiva, y:",
@@ -1930,14 +1920,14 @@
         "correct": 1
     },
     {
-        "question": "Si en el siguiente esquema el conjunto L-C resuena a la frecuencia del transmisor, se       puede afirmar que la potencia medida por el vatímetro será:",
+        "question": "Si en el siguiente esquema el conjunto L-C resuena a la frecuencia del transmisor, se puede afirmar que la potencia medida por el vatímetro será:",
         "answers": [
             "Igual a la del transmisor",
             "La mitad de la disipada en el circuito L-C",
             "Mínima",
             "El doble de la disipada en el circuito L-C"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "En una onda electromagnética, ¿qué caracteriza su polarización?",
@@ -1947,7 +1937,7 @@
             "La potencia del transmisor",
             "La carga atmosférica del camino recorrido por la onda"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Un transistor bipolar puede ser de tipo:",
@@ -1997,7 +1987,7 @@
             "No tenga tensión en el primario",
             "El transformador sea muy pequeño"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "En una emisión de banda lateral única (SSB):",
@@ -2027,7 +2017,7 @@
             "De envolvente",
             "De portadora"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "La velocidad de propagación de las ondas electromagnéticas en el vacio es de:",
@@ -2187,7 +2177,7 @@
             "Poco estable no utilizándose en la actualidad",
             "Modulada en banda lateral única"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "¿Qué se consigue con el efecto llamado 'dispersión troposférica' en la propagación de las ondas electromagnéticas?:",
@@ -2197,7 +2187,7 @@
             "Reflexiones en la ionosfera",
             "Mayor alcance que el meramente visual entre las antenas transmisora y receptora"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "En el siguiente esquema eléctrico el diodo está actuando como:",
@@ -2327,7 +2317,7 @@
             "Determinar la ROE",
             "Ser utilizado para comunicaciones de corta distancia"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Qué circuito, dentro del cuadro discontinuo, se emplea para conectar un cable coaxial a un dipolo: ",
@@ -2372,12 +2362,12 @@
     {
         "question": "Señale la conexión correcta entre los chasis metálicos de los equipos:",
         "answers": [
-            " ",
-            " ",
-            " ",
-            " "
+            "Los 3 a tierra",
+            "Los 3 a 220V + Fase",
+            "Los 3 a 220V + Neutro",
+            "Los 3 a 12V CC"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "La capacidad de un condensador depende:",
@@ -2387,7 +2377,7 @@
             "Del material dieléctrico de los conductores que forman las placas",
             "De la potencia que disipa en corriente continúa"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "El amperímetro se debe conectar:",
@@ -2518,5 +2508,15 @@
             "Es independiente de la frecuencia"
         ],
         "correct": -1
+    },
+    {
+        "question": "El valor de la resistencia total resultante de asociar varias resistencias en serie:",
+        "answers": [
+            "Es mayor que el valor de cualquiera de las resistencias",
+            "Es igual al valor de la mayor de las resistencias",
+            "Es menor que cualquiera las resistencias",
+            "Es igual al valor de la menor de las resistencias"
+        ],
+        "correct": 0
     }
 ]
