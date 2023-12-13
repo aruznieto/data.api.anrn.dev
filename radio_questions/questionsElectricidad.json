@@ -107,7 +107,7 @@
             "Directamente proporcional a la frecuencia de las ondas",
             "Constante"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "Si se reduce la sección de un conductor:",
@@ -207,7 +207,7 @@
             "Demoduladores y redes inductivas",
             "Amplificadores y filtros"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "En una antena yagi existen los llamados 'elementos parásitos', ¿qué son estos elementos?:",
@@ -347,7 +347,7 @@
             "Ancho de banda",
             "Potencia"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "Un termistor NTC es:",
@@ -557,7 +557,7 @@
             "MF",
             "HF"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Los receptores de conversión directa:",
@@ -567,7 +567,7 @@
             "Incorporan dos osciladores locales con acoplo directo",
             "Convierten la señal recibida a una de frecuencia fija denominada frecuencia imagen"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Los transistores bipolares son dispositivos que:",
@@ -627,7 +627,7 @@
             "Un Megaohmio",
             "Diez mil ohmios"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "A la frecuencia de resonancia las reactancias inductiva y capacitiva de un circuito se igualan, el cuadrado de esta frecuencia es:",
@@ -767,7 +767,7 @@
             "Inversamente proporcional a las cargas",
             "Directamente proporcional al producto de las cargas"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "Los condensadores de tipo electrolítico:",
@@ -847,7 +847,7 @@
             "Limitar el desplazamiento doppler de la señal transmitida",
             "Anular las pérdidas de la línea de transmisión entre la etapa final de potencia y la antena"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "El ancho de banda ocupado es:",
@@ -1007,7 +1007,7 @@
             "dBV/m",
             "dBW/ m2"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Un elevado nivel de intensidad de campo eléctrico puede producir:",
@@ -1037,7 +1037,7 @@
             "Interferencia indeseadas",
             "La energía de radiofrecuencia que retorna por el cable de bajada"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "En un amplificador de ganancia 20 dB, con impedancia de entrada igual a la de salida, y una potencia de entrada de 0,2 vatios, ¿cuánto vale la potencia de salida?:",
@@ -1057,7 +1057,7 @@
             "Los conmutadores en la posición 1 ó 2, las dos posiciones son válidas",
             "Ninguna de las anteriores ya que la potencia sólo se puede medir con un vatímetro"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Qué falta en el siguiente diagrama de bloques para que actúe como un receptor de FM:",
@@ -1082,12 +1082,12 @@
     {
         "question": "Señale el circuito eléctrico equivalente de una antena en resonancia:",
         "answers": [
-            " ",
-            " ",
-            " ",
-            " "
+            "R",
+            "L+C",
+            "L+R+C",
+            "R+Diodo"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "En la propagación de ondas electromagnéticas por reflexión ionosférica, para la banda de 3,5 MHz, durante el día frente a la noche, se consiguen alcances:",
@@ -1197,7 +1197,7 @@
             "Amplificadores lineales de potencia",
             "Receptores convencionales"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Si a la entrada de un mezclador se aplican las frecuencias 14 MHz y 4 MHz, indique qué frecuencia dará a la salida:",
@@ -1297,7 +1297,7 @@
             "Proteger al operador de descargas",
             "No es necesario conectarlo a tierra"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Para un acoplamiento óptimo entre transmisor y antena, la línea de transmisión debe tener una impedancia:",
@@ -1367,7 +1367,7 @@
             "La frecuencia que delimita la banda de paso o no paso por el filtro",
             "Un dato irrelevante para  el filtro"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "En los equipos de radioaficionado, el modo de modulación conocido como NBFM (Narrow Band Frequency Modulation) ¿Qué excursión de frecuencia máxima permite?:",
@@ -1407,7 +1407,7 @@
             "El demodulador",
             "El amplificador de audiofrecuencia"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Calcular la frecuencia F sintonizada en el receptor para el siguiente esquema:",
@@ -1457,7 +1457,7 @@
             "Control automático de frecuencia",
             "Control automático de audio"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Un termistor  PTC es aquel que:",
@@ -1527,7 +1527,7 @@
             "Energía cinética en energía potencial",
             "Ninguna de las anteriores respuestas es válida"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Una instalación radioeléctrica con desadaptación de impedancias entre el transmisor y la antena podrá producir:",
@@ -1547,7 +1547,7 @@
             "Un medidor de campo",
             "Un acoplador de antenas"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "La diferencia de potencial eléctrico se mide en: ",
@@ -1587,7 +1587,7 @@
             "Implica la posible producción de interferencias",
             "Solo hay que tenerlo en cuenta en las bandas de VHF y superiores"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "¿Qué banda de frecuencias presenta mejores condiciones para la propagación por reflexión ionosférica?",
@@ -1597,7 +1597,7 @@
             "SHF",
             "EHF"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Se denomina receptor superheterodino de doble conversión al:",
@@ -1647,7 +1647,7 @@
             "HF",
             "UHF"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "La sensibilidad de un receptor indica:",
@@ -1787,7 +1787,7 @@
             "VLF",
             "VHF y superiores"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "Las resistencias conectadas:",
@@ -1877,7 +1877,7 @@
             "Selectividad",
             "Modulación cruzada"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Un transformador está formado por al menos:",
@@ -2067,7 +2067,7 @@
             "Sí, siempre",
             "Sólo se atenúan si hay lluvia"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Un dipolo de media onda, para la banda de 40 metros, debe tener una longitud aproximada de:",
@@ -2307,7 +2307,7 @@
             "Permite mantener una relación señal ruido constante",
             "Elimina la portadora en los transmisores de banda lateral única"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Se denomina rendimiento de un transmisor:",
@@ -2357,7 +2357,7 @@
             "Obtener la frecuencia intermedia en los receptores de FM",
             "Limitar los niveles de la señal antes de su amplificación"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "La relación señal/ruido en un receptor:",
@@ -2367,7 +2367,7 @@
             "No tiene sentido. En los receptores de alta calidad no hay ruido",
             "Depende de la potencia del equipo y se expresa en dBm"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Señale la conexión correcta entre los chasis metálicos de los equipos:",
@@ -2407,7 +2407,7 @@
             "Un amplificador lineal",
             "Cable coaxial de 75Ω"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "En un receptor se denomina selectividad a:",
