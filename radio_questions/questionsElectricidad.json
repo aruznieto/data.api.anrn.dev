@@ -48,7 +48,7 @@
             "Filtros de cristal",
             "Redes de desplazamiento de fase"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Los transmisores de radiofrecuencia producen una emisión de energía denominada:",
@@ -178,7 +178,7 @@
             "-3dBm",
             "0 dBm"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "¿Qué valor de los siguientes corresponde a la “tensión eficaz” de la señal representada?:",
@@ -683,14 +683,14 @@
         "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545635.910535.png"
     },
     {
-        "question": "Señale el  diagrama de radiación correspondiente a una antena Yagi:",
+        "question": "Señale el diagrama de radiación correspondiente a una antena Yagi:",
         "answers": [
             " ",
             " ",
             " ",
-            " "
+            "Para un lado"
         ],
-        "correct": -1,
+        "correct": 3,
         "answerImage": [
             "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545626.70981.png",
             "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545626.868824.png",
@@ -968,7 +968,7 @@
             "El índice de modulación es inferior a 100%",
             "El índice modulación es superior al 100%"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "La siguiente gráfica de espectro a la salida de un trasmisor corresponde a una señal con modulación de:",
@@ -1090,7 +1090,7 @@
             "Un oscilador",
             "Un detector de envolvente"
         ],
-        "correct": -1,
+        "correct": 2,
         "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545625.810034.png"
     },
     {
@@ -2150,7 +2150,7 @@
             "El tiempo que transcurre entre dos valores máximos consecutivos",
             "Siempre vale cero"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Las etapas desde la antena hasta el altavoz de un receptor superheterodino son por el siguiente orden:",
@@ -2491,7 +2491,7 @@
             "Proteger aparatos de medida",
             "Nada de lo anterior"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "En una antena dipolo con trampas multibanda, las trampas están formadas por:",
