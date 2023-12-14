@@ -17,7 +17,7 @@
             "100",
             "40"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "El “Factor de calidad, Q” de un circuito resonante es:",
@@ -716,7 +716,7 @@
             "Sólo se emplea para trayectos marítimos",
             "Es el medio de propagación característico en las grandes ciudades"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Se conoce con el nombre genérico de 'diodo' a:",
@@ -2160,7 +2160,7 @@
             "Detector, limitador, amplificador de RF, mezclador, amplificador de audio",
             "Amplificador de FI, detector, mezclador, amplificador de audio"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Unidades eléctricas:",
@@ -2552,7 +2552,7 @@
             "Un aislante",
             "Un condensador con polaridad"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "El máximo de radiación del diagrama de una antena vertical se produce:",
