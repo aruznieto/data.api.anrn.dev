@@ -78,7 +78,7 @@
             "La longitud de onda multiplicada por la frecuencia",
             "300.000 Km/seg"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "¿Cual es la impedancia de salida típica en los transmisores de radioaficionado?:",
@@ -88,7 +88,7 @@
             "50 ohmios",
             "125 ohmios"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Indique cual de las siguientes respuestas es falsa:",
@@ -128,7 +128,7 @@
             "Es el valor de la frecuencia de la señal",
             "Es el valor indicativo de la diferencia de fase de la sinusoide"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "¿Para qué se ponen 'circuitos de filtrado' en la salidas de las fuentes de alimentación?:",
@@ -230,7 +230,7 @@
             "Que las impedancias capacitiva e inductiva se igualen",
             "Que el circuito sea de corriente continua"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Un polímetro, también denominado multímetro o tester, NO sirve para medir:",
@@ -669,7 +669,7 @@
             "Mecánico",
             "Fotovoltaico"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "En el siguiente diagrama de radiación de una antena, la diferencia en decibelios entre los puntos 1 y 2, se denomina:",
