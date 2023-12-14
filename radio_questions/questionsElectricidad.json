@@ -57,7 +57,7 @@
             "Intensidad de campo",
             "Rayos gamma"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Si un equipo está marcado con las siglas 'EMC' significa:",
@@ -327,7 +327,7 @@
             "La mayor de las capacidades individuales",
             "La suma de las capacidades individuales"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "La variación momentánea de la intensidad de campo recibida se conoce como:",
@@ -397,7 +397,7 @@
             "Carga eléctrica",
             "No almacena nada"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "En una antena directiva tipo Yagui los elementos parásitos:",
@@ -467,7 +467,7 @@
             "Amplificar el nivel en frecuencia intermedia",
             "Incrementar el margen de sintonía de un amplificador"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Relativo a la propagación de las ondas electromagnéticas, se llama 'frecuencia crítica':",
@@ -667,7 +667,7 @@
             "Directividad",
             "Impedancia"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Señale el  diagrama de radiación correspondiente a una antena Yagi:",
@@ -817,7 +817,7 @@
             "Exista adaptación de las impedancias",
             "Haya ondas estacionarias"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "En armónicos producidos por circuitos no lineales:",
@@ -827,7 +827,7 @@
             "Los de segundo orden siempre son despreciables",
             "Los equipos modernos nunca producen armónicos"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Si aumenta la temperatura en un conductor:",
@@ -877,7 +877,7 @@
             "Suprimir ruidos de emisoras no deseadas",
             "Anula la salida del receptor cuando se recibe una señal con ruido muy alto"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Las componentes espectrales de una determinada emisión se ven con:",
@@ -997,7 +997,7 @@
             "La frecuencia de trabajo del oscilador local",
             "La frecuencia de valor constante utilizada en los receptores superheterodinos"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "Para medir intensidad del campo eléctrico se utilizan unidades de:",
@@ -1047,7 +1047,7 @@
             "20 W",
             "20,2 W"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Para medir la potencia disipada en la resistencia del circuito de la figura, se deben seleccionar:",
@@ -1167,7 +1167,7 @@
             "Debe conectarse a cada uno de los chasis metálicos de los equipos",
             "Debe conectarse siempre a la conducción de agua"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Una señal radioeléctrica se puede caracterizar por su:",
@@ -1227,7 +1227,7 @@
             "No varían con el tiempo",
             "No existen"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "La energía almacenada en un condensador C se expresa por la fórmula:",
@@ -1327,7 +1327,7 @@
             "La capacidad que tiene para separar dos señales de frecuencias próximas",
             "La diferencia que existe entre la señal sintonizada y el ruido"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Señale la configuración de conexión de equipos correcta:",
@@ -1547,7 +1547,7 @@
             "Microfaradios",
             "Voltios"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "En una antena pasiva, se puede afirmar que:",
@@ -1627,7 +1627,7 @@
             "Un voltio es una unidad de intensidad de campo eléctrico",
             "Un voltio no se puede medir nunca"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "La radiodifusión sonora con Modulación de Frecuencia (FM), ¿qué banda de frecuencias utiliza?:",
@@ -1817,7 +1817,7 @@
             "A es la amplitud y B es la potencia de la señal",
             "A es la amplitud y B es el periodo de la señal"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "¿Qué símbolo va asociado a la modulación de frecuencia en fonía?:",
@@ -1837,7 +1837,7 @@
             "Se debe dejar de emitir hasta resolver el problema",
             "Se debe emitir con menor potencia"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Una antena dipolo doblado, en resonancia, presenta una impedancia respecto de la dipolo simple:",
@@ -2117,7 +2117,7 @@
             "La propiedad por la que reproduce la modulación emitida sin distorsión",
             "No es correcta ninguna de las anteriores respuestas"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "El factor de calidad Q de un circuito, es la relación que hay entre la frecuencia de resonancia f y su ancho de banda B y se expresa con la fórmula:",
@@ -2137,7 +2137,7 @@
             "Potencia eléctrica",
             "Longitud de onda"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Cuando la impedancia de la antena, de la línea de transmisión y de salida del emisor, coinciden:",
