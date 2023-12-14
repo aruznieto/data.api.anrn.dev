@@ -257,7 +257,7 @@
             "1000 voltios",
             "100 voltios"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "En la conexión de resistencias en un circuito:",
@@ -267,7 +267,7 @@
             "Sólo se pueden conectar en serie",
             "Sólo se pueden conectar en paralelo"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Las ondas de radio son de naturaleza:",
@@ -297,7 +297,7 @@
             "Un condensador variable controlado por tensión",
             "Un filtro de frecuencia de corte variable"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "El ancho del haz de la antena:",
@@ -437,7 +437,7 @@
             "Es la suficiente para permitir la transmisión a la velocidad y calidad requeridas",
             "Es aquella que contiene el 99% de la potencia emitida por el transmisor"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "El diagrama de radiación de la figura, corresponde a una antena de tipo:",
@@ -517,7 +517,7 @@
             "No existe onda estacionaria en la línea",
             "El valor de la R.O.E. es 1"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "¿Qué potencia se disipará en una resistencia de 30 ohmios por la que circula una corriente eléctrica de 2 amperios?",
@@ -597,7 +597,7 @@
             "Una antena dipolo con circuitos resonantes instalados simétricamente, en cada rama, desde el centro, para su utilización en una banda de frecuencias más amplia",
             "Una varilla con varios tramos"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Modulación de señales radioeléctricas:",
@@ -807,7 +807,7 @@
             "La separación entre la entrada y la salida",
             "La relación entre el número de espiras del primario y el número de espiras del secundario"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "La transferencia máxima de potencia entre dos circuitos se dará cuando:",
@@ -1177,7 +1177,7 @@
             "Resistividad y refracción",
             "Dispersión por propagación"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Si se desea medir la frecuencia de un transmisor no se puede emplear:",
@@ -1237,7 +1237,7 @@
             "½V/C",
             "½C.V²"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "La forma más común de propagación en VHF y UHF es por:",
@@ -1287,7 +1287,7 @@
             "13 ohmios",
             "13 faradios"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "El transceptor debe estar conectado a tierra para:",
@@ -1307,7 +1307,7 @@
             "Inferior a la del transmisor",
             "Igual a la de la antena y a la del transmisor"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "El riesgo de producir interferencias, al aumentar la potencia de transmisión, es:",
@@ -1417,7 +1417,7 @@
             "A la salida del mezclador",
             "Al oscilador local"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Indique que factores influyen en cualquier comunicación radioeléctrica:",
@@ -1597,7 +1597,7 @@
             "Receptor con dos entradas de antenas",
             "Receptor con dos amplificadores de RF"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Para tratar de minimizar la producción de interferencias con una estación de radioaficionado, debe procurarse:",
@@ -1907,7 +1907,7 @@
             "El cociente entre la ganancia y la directividad",
             "La orientación del campo magnético transmitido"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Si en el siguiente esquema el transmisor, la línea de alimentación y la antena tienen la misma impedancia a la frecuencia de trabajo, se puede afirmar que:",
@@ -2007,7 +2007,7 @@
             "Q/s",
             "V/m"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "Los detectores de señal pueden ser asíncronos o síncronos. A los primeros también se les conoce como:",
@@ -2027,7 +2027,7 @@
             "300.000 m/s",
             "300.000 m/h"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Los equipos radioeléctricos deberán estar contenidos en cajas metálicas para:",
@@ -2277,7 +2277,7 @@
             "El valor de la carga del circuito",
             "Inexistente"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "¿Cuál es el tipo de conductor más inmune a las interferencias radiadas?:",
@@ -2497,7 +2497,7 @@
             "Dos acopladores de antena sintonizados a la frecuencia de trabajo",
             "Un receptor de reserva conectado en paralelo con la antena"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "En un sistema de radiocomunicación, el llamado “ruido blanco”:",
