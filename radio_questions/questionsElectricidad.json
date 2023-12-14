@@ -290,7 +290,7 @@
             "Es el tiempo que transcurre entre dos mínimos consecutivos",
             "No se puede calcular"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Un diodo varicap equivale a:",
@@ -798,7 +798,7 @@
             "Se utilizan en las fuentes de alimentación para rectificar la tensión alterna",
             "Funcionan por el principio de electrólisis"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Si al emitir en la banda de 2 metros se tiene conocimiento de que se producen interferencias al Servicio Móvil Aeronáutico, deberá:",
@@ -1049,7 +1049,7 @@
             "No requerir en el receptor la sincronización con el transmisor, por ser asíncronos",
             "Realimentar la señal de salida con parte de la señal de entrada"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Los armónicos son:",
@@ -1349,7 +1349,7 @@
             "Igual",
             "No existe"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Se conoce como 'selectividad' de un receptor:",
@@ -1800,7 +1800,7 @@
             "Un circuito atenuador de la señal portadora que mejora la relación señal/ruido",
             "Un oscilador de cuarzo"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "En un transformador con relación 2:1 se puede afirmar que:",
@@ -1932,7 +1932,7 @@
             "Bobinas con rectificadores de onda completa",
             "Dos bobinas acopladas"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "Una antena YAGI es:",
@@ -2230,7 +2230,7 @@
             "Como amplificador a la frecuencia de resonancia del circuito LC",
             "Como oscilador a la frecuencia de resonancia del circuito LC"
         ],
-        "correct": -1,
+        "correct": 0,
         "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545628.820719.png"
     },
     {
@@ -2461,7 +2461,7 @@
             "Por medio de un transformador",
             "Con una carga artificial"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Se aumenta el riesgo de causar interferencias cuando se emplea:",
@@ -2522,7 +2522,7 @@
             "Control Automático de Gálibo",
             "Certificado de Alta Garantía"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Las antenas Yagi:",
