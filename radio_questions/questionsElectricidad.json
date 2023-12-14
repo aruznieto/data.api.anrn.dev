@@ -98,7 +98,7 @@
             "La carga de un amplificador de potencia debe ser del valor especificado por el fabricante",
             "La salida de un amplificador de potencia nunca va seguida de filtros destinados a eliminar los armónicos"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "La velocidad de propagación de las ondas electromagnéticas en el vacío es:",
@@ -593,7 +593,7 @@
             "Componente eléctrico que elimina espurias",
             "Dispositivo limitador de potencia"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "¿A qué se le conoce como 'dipolo con trampas'?:",
@@ -736,7 +736,7 @@
             "La potencia reflejada es igual a la potencia directa",
             "La potencia reflejada es superior a la potencia directa"
         ],
-        "correct": -1,
+        "correct": 0,
         "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545624.755857.png"
     },
     {
@@ -1167,7 +1167,7 @@
             "Incrementar la longitud eléctrica de antena",
             "Evitar el uso del balun"
         ],
-        "correct": -1,
+        "correct": 2,
         "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545646.816739.png"
     },
     {
@@ -1554,7 +1554,7 @@
             "Deben estar 40 dB por debajo de la frecuencia fundamental",
             "Para frecuencias inferiores a 30 MHz se atenuaran al menos 40 dB"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "Una batería eléctrica es un dispositivo que convierte:",
@@ -2003,7 +2003,7 @@
             "PNN",
             "PPN"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "El siguiente circuito conectado entre el transmisor y la antena se utiliza como:",
@@ -2210,7 +2210,7 @@
             "Su impedancia dependerá de la altura",
             "Habrá que adaptarla con un balun relación 1:1"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Un medidor de Relación de Ondas Estacionarias (R.O.E.):",
