@@ -17,7 +17,7 @@
             "Igual que la permitida a las instaladas en el interior del casco urbano",
             "35 W"
         ],
-        "correct": 3
+        "correct": 1
     },
     {
         "question": "La utilización, con carácter temporal, de una estación fija de aficionado en emplazamiento fuera del distrito de residencia:",
@@ -37,7 +37,7 @@
             "MIKE, ECHO, ROMEO, OSCAR",
             "MADRID, ECHO, ROMEO, OSCAR"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "Las autorizaciones especiales para emisiones en bandas de frecuencias de uso restringido:",
@@ -57,7 +57,7 @@
             "Cuadro Normativo de Atribución de Frecuencias",
             "Cuadro Nacional de Atribución de Frecuencias"
         ],
-        "correct": 2
+        "correct": 3
     },
     {
         "question": "Los distintivos de uso temporal con sufijo de una sola letra están reservados para:",
@@ -67,7 +67,7 @@
             "Eventos que sean inaugurados o visitados por Su Majestad el Rey",
             "La participación en concursos internacionales de alta competitividad"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
         "question": "El sufijo de una letra se reservará para:",
@@ -97,7 +97,7 @@
             "Si emite únicamente en VHF",
             "No es obligatorio disponer de estación fija"
         ],
-        "correct": 2
+        "correct": 3
     },
     {
         "question": "Para la obtención de la licencia de estación de radioaficionado es necesario presentar:",
@@ -107,7 +107,7 @@
             "La cédula de habitabilidad del inmueble donde se va a instalar",
             "Documento que acredite estar inscrito en una asociación de Radioaficionado"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "En la nomenclatura de las bandas de frecuencia, la banda SHF corresponde a las frecuencias comprendidas entre:",
@@ -117,7 +117,7 @@
             "3 y 30 GHz",
             "300 y 3.000 MHz"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
         "question": "Sobre los planes de bandas de la IARU es correcto decir que:",
@@ -137,7 +137,7 @@
             "Fija de aficionado",
             "Que posee antena y fuente de energía incorporada al propio equipo"
         ],
-        "correct": 3
+        "correct": 0
     },
     {
         "question": "La transmisión del distintivo de llamada se efectuará:",
@@ -147,7 +147,7 @@
             "Únicamente si se emite desde una estación móvil",
             "Al comienzo y final de cada emisión"
         ],
-        "correct": 2
+        "correct": 3
     },
     {
         "question": "En las comunicaciones del Servicio de Aficionados, ¿cuál de las siguientes proposiciones es correcta?:",
@@ -157,7 +157,7 @@
             "La normativa vigente en materia de radioaficionados contempla un límite de edad para poder ser titular de una autorización de radioaficionado",
             "El titular de una licencia de estación fija de aficionado siempre precisa autorización previa administrativa para utilizarla como portable"
         ],
-        "correct": 3
+        "correct": 0
     },
     {
         "question": "La obtención de la autorización de radioaficionado requerirá la obtención previa de:",
@@ -167,7 +167,7 @@
             "Diploma de operador",
             "Permiso de un radio club"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "¿Cual de los siguientes sufijos podrá ser asignado a un distintivo de llamada de la autorización de radioaficionado?:",
@@ -187,7 +187,7 @@
             "No deseadas",
             "Por conversión de frecuencias"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "Como norma general las instalaciones en una estación de radioaficionado deberán ser efectuadas:",
@@ -197,7 +197,7 @@
             "por un técnico de una Asociación legalizada de Radioaficionados",
             "Por un instalador de telecomunicaciones inscrito en el  Registro de Empresas Instaladoras  de Telecomunicación"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
         "question": "Utilizar la palabra 'cambio' al finalizar una transmisión en fonía es:",
@@ -207,7 +207,7 @@
             "Necesario",
             "Sancionable según la reglamentación vigente"
         ],
-        "correct": 2
+        "correct": 0
     },
     {
         "question": "¿Un radioaficionado podrá ser autorizado a instalar una estación automática desatendida?:",
@@ -217,7 +217,7 @@
             "En ningún caso",
             "Si dispone de diploma desde hace más de 15 años"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "Los daños y perjuicios originados por una antena de una estación de radioaficionado, correrán a cargo del titular de la licencia de la estación:",
@@ -227,7 +227,7 @@
             "Únicamente los producidos al desmontar la antena",
             "Únicamente los producidos por un mantenimiento defectuoso"
         ],
-        "correct": 3
+        "correct": 1
     },
     {
         "question": "¿Qué abreviatura del código Q indica cual es la ubicación o situación?",
@@ -237,7 +237,7 @@
             "QTW",
             "QTR"
         ],
-        "correct": 2
+        "correct": 0
     },
     {
         "question": "Una estación fija de radioaficionado:",
@@ -247,7 +247,7 @@
             "No podrá ser accionada a distancia, ya que se convertiría en móvil",
             "Se encuentra dentro de la clasificación de estaciones automáticas desatendidas"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "question": "La Ley General de Telecomunicaciones tipifica como infracción grave:",
@@ -257,7 +257,7 @@
             "La emisión de señales de identificación falsas o engañosas",
             "La interceptación, sin autorización, de telecomunicaciones no destinadas al público en general"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "Los planes de banda de la IARU en las diferentes Regiones geográficas definidas por la Unión Internacional de Telecomunicaciones (UIT):",
@@ -267,7 +267,7 @@
             "Son siempre iguales los de la Región 1 a los de la Región 3",
             "No hay planes de banda en la Región 3"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "La llamada de socorro en radiotelefonía se compone de:",
@@ -277,7 +277,7 @@
             "La palabra \"help\" (tres veces), seguida de la palabra \"aquí\" o \"de\" y a continuación el distintivo de llamada u otra señal que identifique a la estación móvil en peligro (tres veces)",
             "La palabra \"mayday\" (tres veces), seguida de la palabra \"aquí\" o \"de\" y a continuación el distintivo de llamada u otra señal que identifique a la estación móvil en peligro (tres veces)"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "De acuerdo con la Ley General de Telecomunicaciones, la sanción impuesta por una falta grave prescribirá:",
@@ -287,7 +287,7 @@
             "Al mes",
             "A los tres años"
         ],
-        "correct": 3
+        "correct": 1
     },
     {
         "question": "Si observa que un distintivo de llamada va precedido del prefijo EA seguido de un determinado número (del 1 al 9):",
@@ -297,7 +297,7 @@
             "Se trata de un radioaficionado de clase A",
             "Es que un titular de licencia CEPT extranjero está emitiendo en España"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "Los planes de banda de la IARU:",
@@ -307,7 +307,7 @@
             "Son un instrumento básico para regular el uso de las bandas de frecuencias",
             "No tienen en cuenta la atribución de bandas del Reglamento de Radiocomunicaciones de la UIT"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "Entre las abreviaturas más usuales en las comunicaciones de radioaficionados se encuentra RPT que significa:",
@@ -317,7 +317,7 @@
             "Recibido",
             "Transmisor"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "Los extranjeros que acrediten la condición de residentes en España podrán ser titulares de autorizaciones de radioaficionado españolas en los siguientes casos, indique la alternativa correcta:",
@@ -327,7 +327,7 @@
             "Cuando exista Acuerdo o Convenio de reciprocidad en la materia con el país de origen del radioaficionado",
             "Siempre que el país de origen del radioaficionado aplique la Recomendación T/R 5000"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
         "question": "El distintivo de llamada AM8SOS:",
@@ -367,7 +367,7 @@
             "El titular no podrá solicitar protección contra las interferencias perjudiciales",
             "La licencia permitirá utilizar todas las bandas de frecuencias atribuidas al Servicio de Aficionados, autorizadas en su país, aunque no lo estén en el país donde va a operar la estación"
         ],
-        "correct": 2
+        "correct": 3
     },
     {
         "question": "Las Estaciones Repetidoras y Radiobalizas, deberán disponer de un sistema de alimentación ininterrumpida, para que en caso de fallo en la alimentación externa, puedan seguir funcionando por un periodo mínimo de:",
@@ -377,7 +377,7 @@
             "Ocho horas",
             "Nueve horas"
         ],
-        "correct": 3
+        "correct": 0
     },
     {
         "question": "En los planes de bandas de la IARU para la Región 1:",
@@ -387,7 +387,7 @@
             "Hay previstas frecuencias para repetidores analógicos en la banda 88,5 - 99,0 MHz",
             "No hay planes de banda de la IARU para la Región 1"
         ],
-        "correct": 2
+        "correct": 0
     },
     {
         "question": "En el alfabeto fonético internacional con que palabra se identifica la letra U:",
@@ -397,7 +397,7 @@
             "Universal",
             "Ungir"
         ],
-        "correct": 3
+        "correct": 0
     },
     {
         "question": "¿Cuándo se puede solicitar a la Dirección General de Telecomunicaciones un distintivo temporal?:",
@@ -407,7 +407,7 @@
             "Cuando un radioaficionado desee participar en concursos, experimentos, ensayos, demostraciones y otros eventos",
             "En ningún caso, teniendo en cuenta que la autorización de radioaficionado ya lleva asociado un distintivo de llamada"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "Una de las siguientes provincias españolas se encuentra adscrita al distrito 5. Indíquela:",
@@ -427,7 +427,7 @@
             "Únicamente las Asociaciones de aficionado reconocidas, tendrán acceso a cualquier tipo de repetidor",
             "Dado que el número de estaciones automáticas desatendidas es limitado, no es posible su acceso si el radioaficionado  no pertenece a un Radio Club"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "question": "Los prefijos de uso temporal ED, EE y EF:",
@@ -437,7 +437,7 @@
             "Están reservados solamente para los distritos 7, 8 y 9",
             "Se asignarán para eventos especiales de relevancia internacional"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "question": "En relación con la licencia CEPT, señale la alternativa falsa:",
@@ -447,7 +447,7 @@
             "Se concede a través del certificado HAREC",
             "En ella ha de constar, entre otros datos, el distintivo de llamada y su periodo de validez"
         ],
-        "correct": 3
+        "correct": 1
     },
     {
         "question": "Según la legislación de Telecomunicaciones, en el caso de desmontar una instalación de antenas por obras en la comunidad, cuando estas hayan terminado:",
@@ -457,7 +457,7 @@
             "Ha de pedir permiso a la comunidad de propietarios",
             "Deberá comunicarlo a la Dirección General de Telecomunicaciones y Tecnología de la Información"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "question": "La identificación de emisiones de una estación móvil marítima se efectuará añadiendo a su distintivo de llamada la expresión:",
@@ -477,7 +477,7 @@
             "Palabras del idioma en que mejor se exprese",
             "El código de deletreo ICAO"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "En comunicaciones del Servicio de Aficionados, la palabra BOJ se deletrea:",
@@ -487,7 +487,7 @@
             "Bravo, Oscar, Juliett",
             "Bravo, Ortega, Julio"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "Para instalar una antena en un edificio en régimen de propiedad horizontal:",
@@ -547,7 +547,7 @@
             "No se precisa una autorización administrativa para la utilización de un distintivo de llamada temporal",
             "Una estación portable de aficionado es a la vez estación móvil"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "La señal de socorro en radiotelefonía es:",
@@ -557,7 +557,7 @@
             "Mayday",
             "Securité"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "El certificado HAREC:",
@@ -567,7 +567,7 @@
             "Nunca se expedirá conjuntamente con el diploma de operador",
             "Permite obtener autorización  de radioaficionado en cualquier país que aplique la recomendación CPT-TR-61-02"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "¿Definiría 'estación automática desatendida' como?:",
@@ -577,7 +577,7 @@
             "Estación colectiva de aficionado, que para su funcionamiento habitual no requiere la intervención directa del operador",
             "Estación de mediciones de potencia"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
         "question": "En el alfabeto fonético internacional la letra R se codifica como:",
@@ -597,7 +597,7 @@
             "España se encuentra en la Región 1",
             "Canarias se encuentra en la Región 2"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "Los repetidores analógicos, ¿a qué velocidad deberán emitir, de forma automática, su distintivo en código Morse?:",
@@ -607,7 +607,7 @@
             "Once palabras por minuto",
             "Doce palabras por minuto"
         ],
-        "correct": 3
+        "correct": 1
     },
     {
         "question": "El siguiente gráfico se corresponde con uno de los distritos geográficos de residencia del titular de una autorización de radioaficionado,  indíquelo:",
@@ -628,7 +628,7 @@
             "Emitir anuncios relacionados con productos a utilizar en la radioafición, siempre y cuando sean con fines lucrativos",
             "Emitir con el distintivo de llamada de otro radioaficionado sin su permiso"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "De entre las diversas obligaciones del gestor de una estación desatendida NO se encuentra la de:",
@@ -638,7 +638,7 @@
             "Otorgar la autorización y conformidad del inicio del funcionamiento de la estación",
             "Verificar que el tráfico de información se realice conforme a lo previsto por la normativa vigente  al respecto"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "La obtención de la Autorización de Aficionado por un extranjero residente en España precisará:",
@@ -648,7 +648,7 @@
             "Que el país de origen del radioaficionado aplique la Recomendación T/R 5000",
             "Que se haya examinado en España exclusivamente de la Reglamentación Nacional"
         ],
-        "correct": 3
+        "correct": 0
     },
     {
         "question": "En el alfabeto fonético internacional las letras S y L se corresponden con las palabras:",
@@ -658,7 +658,7 @@
             "Sol, Lima",
             "Sierra, Lima"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
         "question": "Los equipos de radioaficionados de construcción propia:",
@@ -668,7 +668,7 @@
             "Se pueden utilizar sin efectuar ningún trámite en la Jefatura Provincial de Inspección de Telecomunicaciones",
             "Para ser utilizados deberán ser autorizados por la Jefatura Provincial de Inspección de Telecomunicaciones"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "Un mensaje de socorro NO incluirá:",
@@ -678,7 +678,7 @@
             "Indicaciones relativas a su situación y otras informaciones aclaratorias",
             "La señal de seguridad Securite"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
         "question": "En el país visitado temporalmente, el radioaficionado está obligado a:",
@@ -688,7 +688,7 @@
             "Solicitar permiso de antenas",
             "Presentar la autorización de radioaficionado, si las autoridades se lo exigen"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
         "question": "El diploma de operador de estaciones de aficionado:",
@@ -698,7 +698,7 @@
             "Certifica la capacidad de su titular para operar estaciones radioeléctricas del servicio de aficionados",
             "Habilita para hacer uso común del espectro radioeléctrico"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
         "question": "La emisión de una o varias frecuencias situada inmediatamente fuera de la anchura de banda necesaria, resultante del proceso de modulación, se denomina emisión:",
@@ -708,7 +708,7 @@
             "Armónica",
             "En dúplex"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "question": "En la instalación de una antena de radioaficionado y sus elementos anejos:",
@@ -728,7 +728,7 @@
             "Se expedirá únicamente en castellano",
             "El Reglamento de Aficionados no contempla tal extremo"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "question": "Según la Ley 9/2014, de 9 de mayo, General de Telecomunicaciones, retrasar injustificadamente la aportación de datos requeridos por la Administración cuando resulte exigible conforme a lo previsto por la normativa reguladora de las comunicaciones electrónicas es considerado como una infracción:",
@@ -748,7 +748,7 @@
             "Son establecidos sin tener en cuenta la división en Regiones de la UIT",
             "Deben ser aprobados por la Dirección General de Telecomunciaciones"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "question": "El montaje de una estación fija de aficionado:",
@@ -758,7 +758,7 @@
             "No requiere ni autorización, ni comunicación a la JPIT",
             "No está permitida"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "De acuerdo con la división de la UIT del mundo en tres Regiones:",
@@ -768,7 +768,7 @@
             "Toda España se encuentra en la Región 2",
             "La división en Regiones solo se aplica al continente americano"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "Una estación automática desatendida (repetidora):",
@@ -808,7 +808,7 @@
             "Una asociación de radioaficionados reconocida",
             "Cualquier titular de licencia CEPT"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "El montaje del sistema radiante una estación  fija de radioaficionado será realizado:",
@@ -818,7 +818,7 @@
             "Utilizando exclusivamente equipos de fabricación española",
             "Por cualquier persona"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "Qué objetivo se pretende al instalar un repetidor de radioaficionado:",
@@ -848,7 +848,7 @@
             "Todo el mundo excepto la Región 3 de la UIT",
             "Únicamente en Europa"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
         "question": "La reglamentación vigente permite el funcionamiento de radiobalizas en las bandas:",
@@ -858,7 +858,7 @@
             "144 -146 MHz",
             "87,5 -108 MHz con potencia máxima de 10 mW"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "El radioaficionado debe tener en cuenta que:",
@@ -888,7 +888,7 @@
             "Salamanca, Castellón, Cádiz",
             "Valencia, Valladolid, Vizcaya"
         ],
-        "correct": 3
+        "correct": 1
     },
     {
         "question": "La abreviatura TTT cuando es transmitida tres veces consecutivas, constituye la señal de:",
@@ -898,7 +898,7 @@
             "Repetición de transmisión",
             "Seguridad"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "¿Se puede solicitar protección contra interferencias perjudiciales al operar estaciones en otro país con licencia CEPT?:",
@@ -918,7 +918,7 @@
             "De la palabra \"urgente\" repetido tres veces",
             "De la palabra \"pan\" repetido tres veces"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
         "question": "Como norma general, la instalación de una estación de aficionado deberá ser efectuada:",
@@ -928,7 +928,7 @@
             "Exclusivamente por un técnico de una asociación legalizada de radioaficionados",
             "Por un instalador de telecomunicaciones inscrito en el  Registro de Empresas Instaladoras  de Telecomunicación"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "El Reglamento de uso del dominio público radioeléctrico por aficionados:",
@@ -938,7 +938,7 @@
             "Determina que podrá realizarse el uso con fines de lucro y de contenido económico",
             "Prevé que el CNAF podrá modificar en algún momento el carácter de uso especial de determinadas bandas, subbandas o frecuencias y establecer su atribución para otros usos"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "¿Que plazo tiene la Administración para resolver una solicitud de Autorización de radioaficionado?:",
@@ -948,7 +948,7 @@
             "Siete semanas",
             "Ocho semanas"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "question": "El acceso a los repetidores analógicos y digitales finales:",
@@ -958,7 +958,7 @@
             "Estará restringido a los titulares de licencia con antigüedad superior a 1 año",
             "Estará restringido a los titulares de distintivo de llamada con sufijo de 2 letras"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "question": "¿Cómo se deletrea la palabra FIN?:",
@@ -998,7 +998,7 @@
             "FN",
             "AR"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "El código RST se utiliza para:",
@@ -1028,7 +1028,7 @@
             "Permiten contactar con otros operadores que utilizan el mismo modo",
             "Nunca se usan en VHF"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "¿Qué sufijos de tres letras están reservados para estaciones colectivas de Asociaciones de radioaficionados y Radio Clubs respectivamente?:",
@@ -1048,7 +1048,7 @@
             "Conjunto de las emisiones no esenciales y de las emisiones fuera de banda",
             "Conjunto de emisiones de banda estrecha"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "La señal de seguridad en radiotelefonía se compone:",
@@ -1058,7 +1058,7 @@
             "De la palabra “Securité” repetida tres veces",
             "De la palabra Cuidado repetida tres veces"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
         "question": "¿En qué caso se reasignará un distintivo ya utilizado?:",
@@ -1068,7 +1068,7 @@
             "En el supuesto de que se produzca sanción por mal uso de la estación",
             "Si su titular crea interferencias"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "Para que un menor de edad pueda obtener una licencia de estación de radioaficionado, deberá:",
@@ -1088,7 +1088,7 @@
             "Se la concederá la autoridad competente del país europeo que vaya a visitar",
             "Le permite la utilización de todas las bandas atribuidas al Servicio de Aficionados autorizadas en el país donde se va a operar la estación"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "Es correcto afirmar que:",
@@ -1108,7 +1108,7 @@
             "Victoria",
             "Vid"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "Los distritos de los indicativos de llamada son:",
@@ -1128,7 +1128,7 @@
             "Mayday",
             "Pan"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "La instalación, en el exterior de los edificios, del sistema radiante de una estación de radioaficionado ¿puede ser realizada por el propio radioaficionado?:",
@@ -1168,7 +1168,7 @@
             "QTH",
             "QRH"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "En caso de cancelación de la Licencia de Estación de Aficionado, ¿puede su titular mantener instalado el sistema radiante?:",
@@ -1178,7 +1178,7 @@
             "Siempre que lo autorice la Dirección General de Telecomunicaciones",
             "Sólo en recepción, previa autorización por escrito de la propiedad del inmueble o, en su caso, de la comunidad de propietarios, remitiendo una copia de dicha autorización a la Dirección General de Telecomunicaciones"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
         "question": "El Certificado HAREC:",
@@ -1198,7 +1198,7 @@
             "Está emitiendo desde Andalucía",
             "Se trata de un distintivo solicitado por una Escuela Universitaria"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "Para la realización de obras que afecten a la instalación de una antena autorizada de radioaficionado, la Comunidad de Propietarios deberá:",
@@ -1208,7 +1208,7 @@
             "Informar, con antelación mínima de un mes, al titular de la licencia de estación si fuera necesario desmontar la antena y/o elementos anejos",
             "Solicitar permiso al titular de la licencia de estación"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
         "question": "¿Qué identifica a un radioaficionado titular de una autorización?:",
@@ -1228,7 +1228,7 @@
             "La banda nº 9",
             "La abreviatura métrica B. m."
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "Las autorizaciones especiales de uso del espectro radioeléctrico por aficionados:",
@@ -1248,7 +1248,7 @@
             "Podrá utilizarse para comunicar con radioaficionados de cualquier país, sin limitaciones",
             "Se limitará a temas relacionados con el servicio de aficionados y a observaciones de carácter personal"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "¿Qué abreviatura indica que el operador sufre una interferencia?:",
@@ -1258,7 +1258,7 @@
             "QRL",
             "QRA"
         ],
-        "correct": 3
+        "correct": 0
     },
     {
         "question": "La instalación y funcionamiento de una estación de aficionado precisará de una licencia, la cual se considerará asociada a:",
@@ -1268,7 +1268,7 @@
             "La autorización de radioaficionado de su titular",
             "Toda la gama de frecuencias que pueda utilizar"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "Los distintivos de llamada con sufijos de dos letras; marque la opción falsa:",
@@ -1288,7 +1288,7 @@
             "Su  nueva provincia de residencia pertenece a un distrito distinto",
             "Su nueva provincia de residencia se encuentra en distinta Comunidad Autónoma"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "El titular de una licencia CEPT, expedida por una Administración que haya adoptado la recomendación T/R 61-01, estará obligado a:  (indique cual de estas afirmaciones es falsa):",
@@ -1298,7 +1298,7 @@
             "Observar todas las limitaciones que le vengan impuestas en lo concerniente a las condiciones locales de naturaleza técnica o relativa a los poderes públicos",
             "Respetar las diferencias de atribuciones de frecuencias en los servicios de aficionados en las tres Regiones de la Unión Internacional de Telecomunicaciones"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "question": "La utilización de una estación de aficionado se debe ajustar a una serie de normas, entre las que se encuentra una de las que se citan a continuación, indíquela:",
@@ -1308,7 +1308,7 @@
             "No existen limitaciones de comunicación en las transmisiones entre estaciones",
             "En general se permite que entre estaciones se transmitan comunicaciones en nombre de terceras personas"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
         "question": "En la nomenclatura de las bandas de frecuencia, el símbolo LF corresponde a la banda de frecuencias:",
@@ -1328,7 +1328,7 @@
             "Nine",
             "Neun"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "Al instalar una antena de radioaficionado se tendrá en cuenta que:",
@@ -1338,7 +1338,7 @@
             "Se debe garantizar el derecho de terceros a no sufrir daños en su propiedad derivados de la instalación",
             "Los elementos radiantes nunca pueden sobrepasar el espacio de los inmuebles donde están situados"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "En relación con los distintivos de llamada, la provincia de Murcia se identifica por la cifra:",
@@ -1348,7 +1348,7 @@
             "5",
             "4"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "En el extranjero, deberemos respetar la reglamentación del país CEPT donde vayamos:",
@@ -1358,7 +1358,7 @@
             "Sólo en las bandas VHF/UHF",
             "Siempre y cuando no esté en contradicción con la nuestra"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "question": "¿Cómo se deletrea el número 7?:",
@@ -1368,7 +1368,7 @@
             "Seven",
             "Six"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "Las ondas métricas se representan por el símbolo:",
@@ -1378,7 +1378,7 @@
             "EHF",
             "VHF"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "Entre las obligaciones de un gestor de una estación desatendida no se encuentra la de:",
@@ -1388,7 +1388,7 @@
             "Otorgar la autorización y conformidad del inicio del funcionamiento de la estación",
             "Verificar que el tráfico de información se realice conforme a lo previsto por la normativa vigente  al respecto"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "De acuerdo con la Ley General de Telecomunicaciones, por comisión de infracciones graves se puede imponer al infractor una multa de hasta:",
@@ -1418,7 +1418,7 @@
             "Obligatorio",
             "Restringido, si la estación estuviera dotada de código de acceso"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "question": "Las estaciones automáticas desatendidas utilizarán el prefijo:",
@@ -1428,7 +1428,7 @@
             "ED",
             "No tienen prefijo"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
         "question": "¿Qué es la licencia CEPT?:",
@@ -1448,7 +1448,7 @@
             "Se podrán realizar obras previa autorización del titular de la antena",
             "Se podrá desmontar la antena para realizar obras previo pago de una indemnización al titular de la antena"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "¿Cuál de las siguientes alternativas es válida, en relación con la autorización administrativa del uso del espectro radioeléctrico por aficionados?:",
@@ -1458,7 +1458,7 @@
             "Cuando se conceda, a la vez se otorgará el distintivo de llamada",
             "No se exigen requisitos previos para solicitarla"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "Un radioaficionado podrá ser autorizado a instalar un repetidor:",
@@ -1468,7 +1468,7 @@
             "Únicamente en localidades de menos de 5000 habitantes",
             "Si la cota de su emplazamiento es inferior a 500 metros"
         ],
-        "correct": 3
+        "correct": 1
     },
     {
         "question": "El distintivo de llamada de una autorización de radioaficionado estará constituido por:",
@@ -1478,7 +1478,7 @@
             "6 letras atribuidas a España por la UIT",
             "Las iniciales y fecha de nacimiento del titular"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "question": "¿Cómo se deletrea la palabra REY?",
@@ -1508,7 +1508,7 @@
             "QRL",
             "QSW"
         ],
-        "correct": 3
+        "correct": 1
     },
     {
         "question": "¿A cuál de las siguientes localidades pertenece el distintivo de llamada EA9ADI?:",
@@ -1518,7 +1518,7 @@
             "Avilés (Asturias)",
             "Sabadell (Barcelona)"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
         "question": "La cancelación de la licencia de estación de aficionado se efectuará en el siguiente caso:",
@@ -1548,7 +1548,7 @@
             "Solicitar permiso de antenas",
             "Presentar la autorización de radioaficionado a petición de las autoridades"
         ],
-        "correct": 2
+        "correct": 3
     },
     {
         "question": "Toda licencia CEPT expedida por una Administración que haya adoptado la Recomendación T/R 61-01:",
@@ -1558,7 +1558,7 @@
             "Goza de equiparación a la autorización de aficionado nacional, en los términos recogidos en el Reglamento de uso del dominio público radioeléctrico por aficionados",
             "Su titular tendrá que superar un examen especial"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "Si un radioaficionado no es titular de la estación que está utilizando:",
@@ -1568,7 +1568,7 @@
             "No podrá emitir en todas las bandas de frecuencias",
             "Deberá obtener un permiso especial de la Inspección de Telecomunicaciones"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
         "question": "Se puede interferir deliberadamente a otra estación de radioaficionado:",
@@ -1578,7 +1578,7 @@
             "Si no ha emitido su indicativo",
             "Nunca"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
         "question": "La autorización administrativa de uso del espectro radioeléctrico por radioaficionados:",
@@ -1588,7 +1588,7 @@
             "Nunca podrá ser objeto de revocación",
             "Tiene naturaleza de autorización colectiva"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "question": "Por la comisión de una infracción grave tipificada en la Ley General de Telecomunicaciones se podrá imponer al infractor una multa por importe de hasta el duplo del beneficio bruto obtenido  o, en el caso de que no resulte  aplicable este criterio el límite máximo será de:",
@@ -1608,7 +1608,7 @@
             "Con motivos de actos que sean inaugurados o visitados por Su Majestad el Rey",
             "Para uso temporal en eventos de carácter autonómico o local"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "El plazo de que dispone la Administración para resolver y notificar las solicitudes de autorizaciones de radioaficionado será de:",
@@ -1638,7 +1638,7 @@
             "Puede ser necesario cambiar la cifra del distintivo y el sufijo del distintivo de llamada",
             "Deberá cambiarse siempre el prefijo del distintivo de llamada"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "La abreviatura XXX, cuando es transmitida tres veces consecutivas, constituye la señal de:",
@@ -1648,7 +1648,7 @@
             "Seguridad",
             "Socorro"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "Las estaciones automáticas desatendidas en la banda de HF tendrán una potencia de salida máxima de:",
@@ -1658,7 +1658,7 @@
             "75 W",
             "100 W"
         ],
-        "correct": 3
+        "correct": 1
     },
     {
         "question": "En comunicaciones del Servicio de Aficionados, la palabra CID se deletrea:",
@@ -1678,7 +1678,7 @@
             "Hasta tres letras que se asignarán ordenadas alfabéticamente por turno riguroso de expedición",
             "Tres letras que comiencen por la Q"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
         "question": "En el alfabeto fonético internacional la letra N se codifica como:",
@@ -1688,7 +1688,7 @@
             "Nice",
             "November"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "Si un radioaficionado se identifica como: EA4ABC/M3BVM:",
@@ -1698,7 +1698,7 @@
             "Pertenece a un corresponsal  de un diario nacional, emitiendo a un país extranjero",
             "Se trata de una estación no autorizada"
         ],
-        "correct": 2
+        "correct": 0
     },
     {
         "question": "Toda telecomunicación transmitida por medio de ondas radioeléctricas recibe el nombre de:",
@@ -1708,7 +1708,7 @@
             "Radioafición",
             "Radiocomunicación"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
         "question": "La banda de frecuencias número 8, cuyo símbolo es VHF, corresponde a las ondas:",
@@ -1748,7 +1748,7 @@
             "Especiales de relevancia internacional",
             "No especialmente significativos"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
         "question": "Los distintivos de llamada se podrán reasignar:",
@@ -1758,7 +1758,7 @@
             "A Radio Clubs o a Asociaciones con carácter experimental",
             "Por periodos, hasta un máximo de 20 días al año"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "No es un requisito que habrá de constar necesariamente en la licencia de estación de radioaficionado CEPT:",
@@ -1768,7 +1768,7 @@
             "Fecha de superación del examen",
             "Autoridad que expide la licencia"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
         "question": "Sobre los planes de banda de la IARU es correcto decir que:",
@@ -1778,7 +1778,7 @@
             "No tienen previstas frecuencias para repetidores",
             "Tienen en cuenta la atribución de bandas del Reglamento de Radiocomunicaciones de la UIT"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "De acuerdo con el Apéndice 1 del Reglamento de Radiocomunicaciones de la UIT la clase de emisión F3E corresponde a una emisión de:",
@@ -1788,7 +1788,7 @@
             "Telefonía con dos o más canales",
             "Telefonía con un solo canal"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "¿En qué bandas de frecuencias se permite emitir si se dispone de la licencia CEPT:",
@@ -1798,7 +1798,7 @@
             "En  todas las bandas de frecuencias atribuidas al Servicio de Aficionados en el país visitado",
             "Exclusivamente, en las bandas atribuidas al servicio por Satélite"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "En relación con una estación portátil de aficionado, marque la alternativa errónea:",
@@ -1808,7 +1808,7 @@
             "Posee una fuente de energía incorporada al propio equipo",
             "Es a la vez una estación portable de aficionado"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "En el alfabeto fonético internacional la letra B se codifica como:",
@@ -1838,7 +1838,7 @@
             "Las comunicaciones por radio entre radioaficionados de diferentes países se utilizarán únicamente en casos de emergencia o desastre",
             "La potencia máxima de las estaciones de aficionado será fijada por la Unión Internacional de Telecomunicaciones (UIT)"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "La Ley General de Telecomunicaciones tipifica como infracción muy grave:",
@@ -1848,7 +1848,7 @@
             "La instalación de estaciones radioeléctricas sin autorización, cuando, de acuerdo con lo dispuesto  en la normativa reguladora de las telecomunicaciones, sea necesaria",
             "No atender el requerimiento hecho por la autoridad competente para el cese de las emisiones        radioeléctricas, en los supuestos de producción de interferencias"
         ],
-        "correct": 2
+        "correct": 0
     },
     {
         "question": "A cual de las siguientes provincias pertenece el distintivo EB1VZY:",
@@ -1858,7 +1858,7 @@
             "Zaragoza",
             "Guadalajara"
         ],
-        "correct": 3
+        "correct": 1
     },
     {
         "question": "El cambio de ubicación de una antena:",
@@ -1868,7 +1868,7 @@
             "Se debe solicitar a la Dirección General de Telecomunicaciones y seguir el mismo procedimiento que si se tratase  de primera instalación",
             "Únicamente requiere ser notificado al Ayuntamiento de la localidad"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "Las utilizaciones de carácter experimental con características técnicas distintas a las especificadas en el Reglamento de uso del dominio público radioeléctrico por aficionados:",
@@ -1898,7 +1898,7 @@
             "Siempre estarán permitidas las comunicaciones por radio entre radioaficionados de diferentes países",
             "Los equipos receptores de radio no forman parte de una estación radioeléctrica"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "question": "Para la instalación de una estación fija de radioaficionado, es necesario:",
@@ -1908,7 +1908,7 @@
             "Comunicarlo por escrito al presidente de la comunidad de propietario donde se vaya a instalar",
             "Presentar una memoria descriptiva del conjunto de la estación al presidente de la comunidad de propietario donde se vaya a instalar"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
         "question": "El certificado HAREC lo hemos de relacionar con la Recomendación CEPT:",
@@ -1918,7 +1918,7 @@
             "T/R 61-02",
             "T/R 61-03"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "Los prefijos de los distintivos de llamada correspondientes a España son, entre otros:",
@@ -1938,7 +1938,7 @@
             "Hasta una nueva autorización no podrá ejercer la actividad de la radioafición",
             "Queda inhabilitado a perpetuidad a ser radioaficionado"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "En el alfabeto fonético internacional la letra Q se identifica por:",
@@ -1948,7 +1948,7 @@
             "Quebar",
             "Quebec"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "Los distintivos de llamada con sufijo de 2 letras:",
@@ -1958,7 +1958,7 @@
             "Podrán ser asignados a cualquier radioaficionado que cumpla con determinadas condiciones",
             "No pueden ser reutilizados"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "La señal de Socorro en radiotelefonía se compone de:",
@@ -1978,7 +1978,7 @@
             "Zamora",
             "Murcia"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "Que está ocurriendo si un radioaficionado se identifica como: EA3/OK2HM:",
@@ -1998,7 +1998,7 @@
             "Puede emitirse información relacionada con la actividad del servicio de aficionados",
             "A efectos de ensayos puede emitirse un distintivo de llamada engañoso"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "El prefijo “EG” de un distintivo de llamada se relaciona con:",
@@ -2018,7 +2018,7 @@
             "Gestión en materia de protección de medio ambiente",
             "Normas básicas del régimen de prensa, radio y televisión"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "El plazo del que dispone la Administración para resolver una solicitud de autorización de radioaficionado será de:",
@@ -2028,7 +2028,7 @@
             "Tres meses",
             "Quince días"
         ],
-        "correct": 3
+        "correct": 0
     },
     {
         "question": "Cómo definiría 'Radiocomunicación':",
@@ -2038,7 +2038,7 @@
             "Toda telecomunicación que pueda transmitirse fuera del territorio nacional",
             "Cualquier telecomunicación que permita la tolerancia de frecuencias"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "question": "El distintivo de llamada de una estación de radioaficionado, estará constituido por:",
@@ -2058,7 +2058,7 @@
             "Cualquier otro titular de autorización de radioaficionado",
             "Salvo en casos de emergencia o desastre, nadie"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
         "question": "Es obligatorio que la Jefatura Provincial de Inspección de Telecomunicaciones informe al presidente de la comunidad de propietarios afectada siempre que:",
@@ -2088,7 +2088,7 @@
             "Interferencia de RF",
             "Estación de control"
         ],
-        "correct": 2
+        "correct": 0
     },
     {
         "question": "Defina 'estación fija remota de aficionado':",
@@ -2108,7 +2108,7 @@
             "Los accidentes del instalador",
             "Las posibles pérdidas de radiofrecuencia"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "¿Cómo se deletrea la palabra TOP?:",
@@ -2118,7 +2118,7 @@
             "Tunga, Oscar, Pepe",
             "Tango, Oslo, Pepe"
         ],
-        "correct": 3
+        "correct": 1
     },
     {
         "question": "Un radioaficionado español que traslade su residencia a Croacia podrá obtener una licencia de radioaficionado en dicho país si:",
@@ -2128,7 +2128,7 @@
             "Tiene familiares de nacionalidad croata",
             "Se compromete a emitir únicamente en VHF"
         ],
-        "correct": 2
+        "correct": 0
     },
     {
         "question": "Una estación portable de aficionado:",
@@ -2138,7 +2138,7 @@
             "Al ser estación móvil, puede ser utilizada mientras se encuentre detenida en puntos no determinados",
             "Posee antena y fuente de energía incorporada al propio equipo, ya que es una estación móvil"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
         "question": "Una comunidad de propietarios, ¿puede autorizar la instalación de antenas de radioaficionado?:",
@@ -2148,7 +2148,7 @@
             "Siempre y cuando se tenga el permiso de obra",
             "Si, siempre que se tenga el proyecto técnico"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "A cual de las siguientes localidades puede pertenece el distintivo de llamada: EA6VYX:",
@@ -2168,7 +2168,7 @@
             "1.100 Hz y 650 kz",
             "1.100 kHz y 650 kHz"
         ],
-        "correct": 3
+        "correct": 0
     },
     {
         "question": "Es obligatorio informar a las Jefatura Provinciales de Inspección de Telecomunicaciones de las modificaciones efectuadas en los sistemas radiantes:",
@@ -2178,7 +2178,7 @@
             "Siempre y cuando dichas modificaciones sean permanentes",
             "Cuando haya que presentar memoria descriptiva"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
         "question": "La señal de urgencia en radiotelefonía consiste en la transmisión, repetida tres veces, de:",
@@ -2188,7 +2188,7 @@
             "XXX",
             "URGENCE"
         ],
-        "correct": 2
+        "correct": 0
     },
     {
         "question": "¿Qué grupo del código Q indica que perturban los atmosféricos?:",
@@ -2198,7 +2198,7 @@
             "QSD",
             "QRX"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "En el alfabeto fonético internacional con que palabra se identifica la letra M:",
@@ -2208,7 +2208,7 @@
             "Mila",
             "Mike"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
         "question": "El distintivo de llamada estará constituido, secuencialmente, por un grupo alfanumérico del modo siguiente:",
@@ -2228,7 +2228,7 @@
             "No",
             "Únicamente si efectúa emisiones en frecuencias atribuidas al Servicio de Aficionados por Satélite"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
         "question": "Como norma general, la potencia de salida de los trasmisores de las estaciones desatendidas en las bandas de VHF y UHF dentro del casco urbano, no podrá exceder de:",
@@ -2238,7 +2238,7 @@
             "15  W",
             "20  W"
         ],
-        "correct": 3
+        "correct": 1
     },
     {
         "question": "La reglamentación vigente permite:",
@@ -2268,7 +2268,7 @@
             "El ayuntamiento si autoriza la obra",
             "El propietario de la vivienda si esta es de alquiler"
         ],
-        "correct": 3
+        "correct": 1
     },
     {
         "question": "¿Cuál de las siguientes abreviaturas del código Q indica que debe aumentar la potencia de transmisión?:",
@@ -2288,7 +2288,7 @@
             "Sí, siempre que se le informe con antelación",
             "Sólo en caso de que la instalación sea sencilla"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "¿Qué regula la Ley 19/1983, en lo relativo a las antenas de las estaciones de radioaficionados?",
@@ -2298,7 +2298,7 @@
             "El derecho a instalar las antenas en el exterior de los inmuebles",
             "La obligación de respetar el plan de bandas reservado al servicio de aficionados"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "La Ley General de Telecomunicaciones tipifica como infracción leve:",
@@ -2328,7 +2328,7 @@
             "Mayo, Alfa, Romeo",
             "Mike, Alfa, Romeo"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
         "question": "La licencia de estación de radioaficionado se expedirá:",
@@ -2338,7 +2338,7 @@
             "La primera semana de cada mes",
             "En el momento de presentar la memoria descriptiva de la estación"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "Un radioaficionado español que utiliza temporalmente su estación en Australia (país que aplica la Recomendación CEPT T/R 61-01):",
@@ -2348,7 +2348,7 @@
             "No podrá solicitar protección contra interferencias perjudiciales",
             "Únicamente puede emitir en frecuencias de HF"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "¿Cuántas estaciones automáticas desatendidas podrán autorizarse en una zona?:",
@@ -2358,7 +2358,7 @@
             "Se autorizarán en función de las necesidades del servicio",
             "Tres en VHF y dos en UHF"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "En las comunicaciones del servicio de aficionados, la palabra GOLF se deletreará:",
@@ -2378,7 +2378,7 @@
             "144,000 - 144,500 MHz",
             "431,050 - 431,825 MHz"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "En caso de que el titular de estación de aficionado tenga constancia de que esta causando interferencias a otros servicios de telecomunicaciones autorizados, ¿qué medida deberá adoptar, de las siguientes propuestas?:",
@@ -2408,7 +2408,7 @@
             "Grupo de caracteres que constituye la señal de identificación del radioaficionado",
             "La ganancia isótropa o absoluta"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
         "question": "El alfabeto fonético se utiliza para:",
@@ -2418,7 +2418,7 @@
             "Acceder a un repetidor",
             "Informar sobre la intensidad de la señal recibida"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "La utilización de distintivos temporales requerirá la presentación de una solicitud; señale la proposición errónea:",
@@ -2428,7 +2428,7 @@
             "Indicando el período de utilización",
             "Indicando el distintivo de llamada solicitado"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
         "question": "En relación con los exámenes para la obtención del diploma de operador de estación de aficionado, indique la opción incorrecta:",
@@ -2448,7 +2448,7 @@
             "Prefijo + Distrito + Sufijo",
             "EA+EB+EC"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "La Dirección General de Telecomunicaciones debe informar al presidente de la comunidad de propietarios afectada siempre que:",
@@ -2458,7 +2458,7 @@
             "Se expida la autorización de radioaficionado a algún residente",
             "Se vayan a realizar obras por parte de la comunidad"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "question": "Los extranjeros que acrediten documentalmente su condición de residentes en España, podrán obtener autorización de radioaficionado, cuando:",
@@ -2468,7 +2468,7 @@
             "Sean titulares del Certificado HAREC",
             "Nunca"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "En relación con la instalación en el exterior de un inmueble de una antena de estación de aficionado, el punto o elemento de fijación de las riostras en la obra civil del inmueble, repartiendo los esfuerzos mecánicos, se conoce con el nombre de:",
@@ -2478,7 +2478,7 @@
             "Plano de paso",
             "Anclaje"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
         "question": "Al visitar un país distinto al suyo todo titular de una licencia CEPT podrá:",
@@ -2498,7 +2498,7 @@
             "Todos los países pertenezcan, o no, a la CEPT",
             "Únicamente países de la Comunidad Europea"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "En relación con una estación de aficionado y su utilización es correcto significar que:",
@@ -2518,7 +2518,7 @@
             "Corresponde a una estación automática desatendida",
             "No se puede adjudicar a estación colectiva alguna"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "¿Cuál de las siguientes proposiciones contiene mayor número de provincias adscritas al distrito 4?:",
@@ -2528,7 +2528,7 @@
             "Córdoba, Castellón, Cantabria, Burgos",
             "Toledo, Teruel, Tarragona, Santa Cruz de Tenerife"
         ],
-        "correct": 3
+        "correct": 1
     },
     {
         "question": "El 'distrito', que compone el distintivo de llamada de un radioaficionado:",
@@ -2538,7 +2538,7 @@
             "Es la cifra coincidente con el número de distrito de residencia del titular, con arreglo a la división geográfica que se especifica en el Reglamento de Aficionados en vigor",
             "Es la cifra 0 de uso exclusiva para distintivos temporales"
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "¿Qué abreviatura del código Q se refiere a la inteligibilidad de las señales?:",
@@ -2558,7 +2558,7 @@
             "En la transmisión entre estaciones de radioaficionado está permitido la transmisión de un mensaje, cualquiera que sea su naturaleza, con destino a un tercero",
             "Las transmisiones entre estaciones de radioaficionado deberá limitarse a mensajes de naturaleza técnica relativos a ensayos y a observaciones de carácter puramente personal"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "Como norma general, la ganancia del sistema radiante de las estaciones desatendidas en las bandas de VHF y UHF, no será superior a:",
@@ -2568,7 +2568,7 @@
             "10 dB",
             "12 dB"
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "Señale la proposición incorrecta:",
@@ -2578,7 +2578,7 @@
             "La instalación de las antenas se hará de modo que se respeten las separaciones entre ellas y los elementos, instalaciones y antenas de otros servicios para que estos no resulten degradados en su funcionamiento",
             "Las antenas y elementos anejos, y en particular, soportes, anclajes y riostras deberán ser de materiales endebles y de fácil instalación para facilitar su posterior desmontaje"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "La Ley 19/1983, conocida como Ley de Antenas, regula:",
@@ -2588,7 +2588,7 @@
             "El derecho a instalar las antenas de aficionado en el exterior de los inmuebles",
             "La exención de presentar memoria descriptiva de la instalación"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "Un radioaficionado podrá instalar la antena de su estación  fija en el exterior de un inmueble si:",
@@ -2598,7 +2598,7 @@
             "Se hace cargo de los costes de la instalación",
             "Está legitimado para usar de la totalidad o parte del mismo y ha obtenido la autorización  reglamentaria"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "Toda estación colectiva fija de aficionado destinada a realizar estudios de propagación y cuyo funcionamiento se basa en la emisión automática de señales de identificación, recibe el nombre de:",
@@ -2608,7 +2608,7 @@
             "Estación repetidora final",
             "Radiobaliza"
         ],
-        "correct": 1
+        "correct": 3
     },
     {
         "question": "En radiotelefonía, si tenemos necesidad de emitir la señal de socorro, lo haremos mediante la palabra:",
@@ -2618,7 +2618,7 @@
             "Mayday",
             "Auxilio"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "En el servicio de aficionados, la radiobaliza:",
@@ -2628,6 +2628,6 @@
             "Tiene por objeto ampliar el alcance de las comunicaciones",
             "Basa su funcionamiento en la emisión automática de señales de identificación"
         ],
-        "correct": 0
+        "correct": 3
     }
 ]

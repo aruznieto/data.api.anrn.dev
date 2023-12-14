@@ -19,6 +19,7 @@ while thirtyCounter < 50:
     text = requests.get(url).text
     soup = BeautifulSoup(text, 'html.parser')
     questions = soup.find_all('div', class_="quiz-question")
+
     data = json.loads(soup.find_all('script', type="text/javascript", id="ari-quiz-js-extra")[0].text.split("= ")[1].split(";")[0])['data']
     data = base64.b64decode(data)
     results = json.loads(data)['pages'][0]['questions']
@@ -45,7 +46,7 @@ while thirtyCounter < 50:
         for que in fcc_data:
             if que['question'] == q:
                 for respuesta in respuestasCorrectas:
-                    if respuesta['question_id'] == question_id:
+                    if respuesta['question_id'] == id:
                         #print(f'{que["question"]} setted to {respuesta["answer_id"]}')
                         que['correct'] = respuesta['answer_id']
                         break
@@ -138,6 +139,7 @@ while thirtyCounter < 50:
                 break
     foundCount = 0
     for question in questions:
+        id = question['data-question-id']
         q = question.find_all('div', class_="quiz-question-title")[0].text
         q = q.replace('"', "'").replace('\n', '').replace('\r', '').replace('\t', '').replace("                ", "").replace("            ", "")
         imagQ = question.find_all('div', class_="quiz-question-image-holder")
@@ -146,7 +148,7 @@ while thirtyCounter < 50:
         for que in fcc_data:
             if que['question'] == q:
                 for respuesta in respuestasCorrectas:
-                    if respuesta['question_id'] == question_id:
+                    if respuesta['question_id'] == id:
                         #print(f'{que["question"]} setted to {respuesta["answer_id"]}')
                         que['correct'] = respuesta['answer_id']
                         break
