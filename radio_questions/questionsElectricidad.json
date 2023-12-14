@@ -37,7 +37,8 @@
             "Un oscilador local",
             "Una fuente de alimentación"
         ],
-        "correct": 3
+        "correct": 3,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545635.772566.png"
     },
     {
         "question": "Los transceptores con cambio de frecuencia de emisión, utilizan:",
@@ -187,7 +188,8 @@
             "10 V",
             "3.14 V"
         ],
-        "correct": 1
+        "correct": 1,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545628.642319.png"
     },
     {
         "question": "El siguiente esquema se puede emplear como receptor de:",
@@ -197,7 +199,8 @@
             "AM y FM",
             "No se puede utilizar como receptor, al no disponer de etapa de frecuencia intermedia"
         ],
-        "correct": 0
+        "correct": 0,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545630.453834.png"
     },
     {
         "question": "Una etapa de frecuencia intermedia en un receptor superheterodino, básicamente, se compone de:",
@@ -317,7 +320,8 @@
             "Directiva",
             "Isotrópica"
         ],
-        "correct": 2
+        "correct": 2,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545647.551063.png"
     },
     {
         "question": "Cuando se conectan condensadores en paralelo, la capacidad resultante del conjunto es:",
@@ -447,7 +451,8 @@
             "Directiva",
             "Vertical de λ/4"
         ],
-        "correct": 2
+        "correct": 2,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545634.63474.png"
     },
     {
         "question": "Las capas ionizadas de la atmósfera se denominan:",
@@ -517,7 +522,8 @@
             "No existe onda estacionaria en la línea",
             "El valor de la R.O.E. es 1"
         ],
-        "correct": 1
+        "correct": 1,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545629.688861.png"
     },
     {
         "question": "¿Qué potencia se disipará en una resistencia de 30 ohmios por la que circula una corriente eléctrica de 2 amperios?",
@@ -617,7 +623,13 @@
             " ",
             " "
         ],
-        "correct": -1
+        "correct": -1,
+        "answerImage": [
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545643.434141.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545643.551817.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545643.692366.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545643.808747.png"
+        ]
     },
     {
         "question": "Un Kiloohmio equivale a:",
@@ -667,7 +679,8 @@
             "Directividad",
             "Impedancia"
         ],
-        "correct": 1
+        "correct": 1,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545635.910535.png"
     },
     {
         "question": "Señale el  diagrama de radiación correspondiente a una antena Yagi:",
@@ -677,7 +690,13 @@
             " ",
             " "
         ],
-        "correct": -1
+        "correct": -1,
+        "answerImage": [
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545626.70981.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545626.868824.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545627.026851.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545627.182514.png"
+        ]
     },
     {
         "question": "La ganancia de una antena se puede expresar en:",
@@ -717,7 +736,8 @@
             "La potencia reflejada es igual a la potencia directa",
             "La potencia reflejada es superior a la potencia directa"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545624.755857.png"
     },
     {
         "question": "¿A qué se suele llamar 'frecuencias imagen' en un receptor?:",
@@ -757,7 +777,8 @@
             "Control automático de nivel o ALC",
             "Control automático de saturación o CAS"
         ],
-        "correct": 2
+        "correct": 2,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545633.347995.png"
     },
     {
         "question": "La ley de Coulomb dice que la fuerza entre dos cargas eléctricas es:",
@@ -957,7 +978,8 @@
             "Banda lateral única",
             "Fase por portadora"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545639.248689.png"
     },
     {
         "question": "¿Qué clase de amplificador reproduce la señal de entrada con la mínima distorsión?:",
@@ -1057,7 +1079,8 @@
             "Los conmutadores en la posición 1 ó 2, las dos posiciones son válidas",
             "Ninguna de las anteriores ya que la potencia sólo se puede medir con un vatímetro"
         ],
-        "correct": 0
+        "correct": 0,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545625.92739.png"
     },
     {
         "question": "Qué falta en el siguiente diagrama de bloques para que actúe como un receptor de FM:",
@@ -1067,7 +1090,8 @@
             "Un oscilador",
             "Un detector de envolvente"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545625.810034.png"
     },
     {
         "question": "El medidor comúnmente denominado “s-meter” indica:",
@@ -1087,7 +1111,13 @@
             "L+R+C",
             "R+Diodo"
         ],
-        "correct": 0
+        "correct": 0,
+        "answerImage": [
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545624.263097.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545624.38642.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545624.513876.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545624.630094.png"
+        ]
     },
     {
         "question": "En la propagación de ondas electromagnéticas por reflexión ionosférica, para la banda de 3,5 MHz, durante el día frente a la noche, se consiguen alcances:",
@@ -1137,7 +1167,8 @@
             "Incrementar la longitud eléctrica de antena",
             "Evitar el uso del balun"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545646.816739.png"
     },
     {
         "question": "En el siguiente esquema de un transmisor de banda lateral única,  ¿qué circuito incluiría en el cuadro con interrogantes al objeto de evitar la generación de interferencias?:",
@@ -1147,7 +1178,8 @@
             "Control automático de nivel o ALC",
             "Control automático de saturación o CAS"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545625.692033.png"
     },
     {
         "question": "Para evitar interferencias en los altavoces de un equipo de baja frecuencia, se debe:",
@@ -1337,7 +1369,13 @@
             " ",
             " "
         ],
-        "correct": -1
+        "correct": -1,
+        "answerImage": [
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545634.116009.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545634.259221.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545634.380902.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545634.501183.png"
+        ]
     },
     {
         "question": "Un generador de señal de radiofrecuencia se utiliza para:",
@@ -1387,7 +1425,8 @@
             "Ancho de haz de radiación",
             "Región de campo radiado"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545627.341698.png"
     },
     {
         "question": "El margen dinámico de un receptor queda determinado fundamentalmente en:",
@@ -1407,7 +1446,8 @@
             "F=14,2 MHz",
             "F=13,5 MHz"
         ],
-        "correct": 2
+        "correct": 2,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545640.321752.png"
     },
     {
         "question": "La etapa de FI en un receptor debe estar conectada:",
@@ -1447,7 +1487,8 @@
             "Control automático de frecuencia",
             "Control automático de audio"
         ],
-        "correct": 0
+        "correct": 0,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545642.822452.png"
     },
     {
         "question": "Un termistor  PTC es aquel que:",
@@ -1497,7 +1538,13 @@
             "C = 2/1/C1+2/1/C2+2/1/C3",
             "Ninguna de las anteriores"
         ],
-        "correct": 0
+        "correct": 0,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545636.098624.png",
+        "answerImage": [
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545636.220375.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545636.337333.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545636.459676.png"
+        ]
     },
     {
         "question": "Las radiaciones espurias de los transmisores:",
@@ -1697,7 +1744,13 @@
             " ",
             " "
         ],
-        "correct": -1
+        "correct": -1,
+        "answerImage": [
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545631.680972.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545631.825738.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545631.971134.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545632.115993.png"
+        ]
     },
     {
         "question": "Existen varias clases de amplificadores, A, B, AB y C:",
@@ -1807,7 +1860,8 @@
             "Aislante para evitar las corrientes de circulación",
             "Metálica, eléctricamente estanca y con conexión a tierra"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545638.006943.png"
     },
     {
         "question": "En la siguiente gráfica de la pantalla de un osciloscopio, se puede afirmar que:",
@@ -1817,7 +1871,8 @@
             "A es la amplitud y B es la potencia de la señal",
             "A es la amplitud y B es el periodo de la señal"
         ],
-        "correct": 3
+        "correct": 3,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545625.354284.png"
     },
     {
         "question": "¿Qué símbolo va asociado a la modulación de frecuencia en fonía?:",
@@ -1917,7 +1972,8 @@
             "La potencia reflejada es igual a la potencia directa",
             "Sólo existe potencia reflejada siendo nula la potencia directa"
         ],
-        "correct": 1
+        "correct": 1,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545638.167826.png"
     },
     {
         "question": "Si en el siguiente esquema el conjunto L-C resuena a la frecuencia del transmisor, se puede afirmar que la potencia medida por el vatímetro será:",
@@ -1957,7 +2013,8 @@
             "Acoplador de antena",
             "Atenuador"
         ],
-        "correct": 2
+        "correct": 2,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545626.590856.png"
     },
     {
         "question": "¿Qué indica el factor de calidad 'Q' de un circuito resonante?:",
@@ -2047,7 +2104,13 @@
             " ",
             " "
         ],
-        "correct": -1
+        "correct": -1,
+        "answerImage": [
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545632.263564.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545632.412257.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545632.561368.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545632.705801.png"
+        ]
     },
     {
         "question": "En una transmisión radioeléctrica, ¿se atenúan las ondas por la propagación?:",
@@ -2167,7 +2230,8 @@
             "Como amplificador a la frecuencia de resonancia del circuito LC",
             "Como oscilador a la frecuencia de resonancia del circuito LC"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545628.820719.png"
     },
     {
         "question": "Los osciladores a cristal de cuarzo generan una señal:",
@@ -2197,7 +2261,8 @@
             "Filtro paso banda",
             "Rectificador de onda completa"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545633.497482.png"
     },
     {
         "question": "En el siguiente esquema de un receptor, ¿qué circuito incluiría en el cuadro con interrogantes al objeto de rechazar la frecuencia imagen?:",
@@ -2207,7 +2272,8 @@
             "Un amplificador de banda ancha",
             "Un filtro"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545627.536207.png"
     },
     {
         "question": "Para que una antena que resuena en 29.900 kHz resuene en 28.500 kHz, deberemos:",
@@ -2247,7 +2313,8 @@
             "El receptor A es más sensible que el receptor B",
             "El receptor B es más estable que el receptor A"
         ],
-        "correct": 1
+        "correct": 1,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545629.002567.png"
     },
     {
         "question": "Referido al parámetro “ROE” de una estación transmisora, señale la opción que es correcta:",
@@ -2327,7 +2394,8 @@
             "Aislante de porcelana",
             "Balun"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545624.142993.png"
     },
     {
         "question": "¿Cual de los siguientes conceptos puede ser motivo de generación de interferencias?:",
@@ -2367,7 +2435,13 @@
             "Los 3 a 220V + Neutro",
             "Los 3 a 12V CC"
         ],
-        "correct": 0
+        "correct": 0,
+        "answerImage": [
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545631.053577.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545631.208529.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545631.360046.png",
+            "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545631.519237.png"
+        ]
     },
     {
         "question": "La capacidad de un condensador depende:",
@@ -2427,7 +2501,8 @@
             "Circuitos resonantes",
             "Aisladores para corrientes inversas"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545625.510881.png"
     },
     {
         "question": "El Control Automático de Nivel conocido como ALC permite:",
@@ -2518,5 +2593,36 @@
             "Es igual al valor de la menor de las resistencias"
         ],
         "correct": 0
+    },
+    {
+        "question": "Si en el siguiente esquema el conjunto L-C resuena a la frecuencia del transmisor, se       puede afirmar que la potencia medida por el vatímetro será:",
+        "answers": [
+            "Igual a la del transmisor",
+            "La mitad de la disipada en el circuito L-C",
+            "Mínima",
+            "El doble de la disipada en el circuito L-C"
+        ],
+        "correct": -1,
+        "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545630.33556.png"
+    },
+    {
+        "question": "El valor de la resistencia total  resultante de asociar varias resistencias en serie:",
+        "answers": [
+            "Es mayor que el valor de cualquiera de las resistencias",
+            "Es igual al valor de la mayor de las resistencias",
+            "Es menor que cualquiera las resistencias",
+            "Es igual al valor de la menor de las resistencias"
+        ],
+        "correct": -1
+    },
+    {
+        "question": "De la batería de un portátil, donde figure la siguiente inscripción  “DC 7.4 v - 1500 mAh”, se puede afirmar que podrá proporcionar:",
+        "answers": [
+            "7,4  voltios y 1,5 amperios durante una hora",
+            "1,5  voltios y 7,4 amperios durante una hora",
+            "7,4  voltios y 1500 amperios durante una hora",
+            "7,4  voltios y 1500 amperios durante media hora"
+        ],
+        "correct": -1
     }
 ]

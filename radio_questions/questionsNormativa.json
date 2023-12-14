@@ -7,7 +7,8 @@
             "Marca, modelo y número de serie de los equipos radioeléctricos",
             "Certificado de empadronamiento"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La utilización, con carácter temporal, de una estación fija de aficionado en emplazamiento fuera del distrito de residencia:",
@@ -17,7 +18,8 @@
             "Se podrá autorizar, pero siempre con la adjudicación de un distintivo de llamada temporal",
             "Se requiere que el interesado sea socio de una asociación colectiva de radioaficionados"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Conforme al Reglamento de Radiocomunicaciones de la Unión Internacional de Telecomunicaciones:",
@@ -27,7 +29,8 @@
             "Siempre estarán permitidas las comunicaciones por radio entre radioaficionados de diferentes países",
             "Los equipos receptores de radio no forman parte de una estación radioeléctrica"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Una estación portable de aficionado:",
@@ -37,7 +40,8 @@
             "Al ser estación móvil, puede ser utilizada mientras se encuentre detenida en puntos no determinados",
             "Posee antena y fuente de energía incorporada al propio equipo, ya que es una estación móvil"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La transmisión del distintivo de llamada se efectuará:",
@@ -47,7 +51,8 @@
             "Únicamente si se emite desde una estación móvil",
             "Al comienzo y final de cada emisión"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La Ley General de Telecomunicaciones tipifica como infracción grave:",
@@ -57,7 +62,8 @@
             "La divulgación del contenido, o de la simple existencia, de mensajes no destinados al público en general emitidos o recibidos a través de servicios de telecomunicaciones, a los que se acceda mediante la interceptación voluntaria o involuntaria, su publicación o cualquier otro uso de ellos sin la debida autorización",
             "El incumplimiento reiterado de los requerimientos de información formulados por el órgano competente de la Administración del Estado en el ejercicio de sus funciones"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La utilización de una estación de aficionado se debe ajustar a una serie de normas, entre las que se encuentra una de las que se citan a continuación, indíquela:",
@@ -67,7 +73,8 @@
             "No existen limitaciones de comunicación en las transmisiones entre estaciones",
             "En general se permite que entre estaciones se transmitan comunicaciones en nombre de terceras personas"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Como norma general, la potencia máxima de salida de los transmisores de las estaciones desatendidas en las bandas de VHF y UHF, cuando estén instaladas fuera del casco urbano, será:",
@@ -77,7 +84,8 @@
             "Igual que la permitida a las instaladas en el interior del casco urbano",
             "35 W"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Entre las abreviaturas más usuales en las comunicaciones de radioaficionados se encuentra “CL”, que significa:",
@@ -87,7 +95,8 @@
             "Interferencia de RF",
             "Estación de control"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Cómo definiría 'Radiocomunicación':",
@@ -97,7 +106,8 @@
             "Toda telecomunicación que pueda transmitirse fuera del territorio nacional",
             "Cualquier telecomunicación que permita la tolerancia de frecuencias"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En las comunicaciones del servicio de aficionados, la palabra GOLF se deletreará:",
@@ -107,7 +117,8 @@
             "Golfo, oscar, lima, foxtrot",
             "Golf, oscar, lima, foxtrot"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El Reglamento de uso del dominio público radioeléctrico por aficionados:",
@@ -117,7 +128,8 @@
             "Determina que podrá realizarse el uso con fines de lucro y de contenido económico",
             "Prevé que el CNAF podrá modificar en algún momento el carácter de uso especial de determinadas bandas, subbandas o frecuencias y establecer su atribución para otros usos"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La clase de emisión A3E corresponde a:",
@@ -127,7 +139,8 @@
             "Modulación de frecuencia con  dos o más canales",
             "Banda lateral única con portadora reducida"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La señal de urgencia en radiotelefonía consiste en la transmisión, repetida tres veces, de:",
@@ -137,7 +150,8 @@
             "XXX",
             "URGENCE"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En el alfabeto fonético internacional la letra V se corresponde con la palabra:",
@@ -147,7 +161,8 @@
             "Victoria",
             "Vid"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En el alfabeto fonético internacional con que palabra se identifica el número 9:",
@@ -157,7 +172,8 @@
             "Nine",
             "Neun"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La Dirección General de Telecomunicaciones debe informar al presidente de la comunidad de propietarios afectada siempre que:",
@@ -167,7 +183,8 @@
             "Se expida la autorización de radioaficionado a algún residente",
             "Se vayan a realizar obras por parte de la comunidad"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En el alfabeto fonético internacional con que palabra se identifica la letra U:",
@@ -177,7 +194,8 @@
             "Universal",
             "Ungir"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En relación con los distintivos de llamada, la provincia de Murcia se identifica por la cifra:",
@@ -187,7 +205,8 @@
             "5",
             "4"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Para que un menor de edad pueda obtener una licencia de estación de radioaficionado, deberá:",
@@ -197,7 +216,8 @@
             "Presentar una declaración jurada de que hará buen uso del espectro radioeléctrico",
             "Poseer una estación propia"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La reglamentación vigente permite el funcionamiento de radiobalizas en las bandas:",
@@ -207,7 +227,8 @@
             "144 -146 MHz",
             "87,5 -108 MHz con potencia máxima de 10 mW"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Cómo se deletrea la palabra REY?",
@@ -217,7 +238,8 @@
             "Radio, Elo, Yuma",
             "Romeo, Echo, Yuma"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Según la legislación de Telecomunicaciones, en el caso de desmontar una instalación de antenas por obras en la comunidad, cuando estas hayan terminado:",
@@ -227,7 +249,8 @@
             "Ha de pedir permiso a la comunidad de propietarios",
             "Deberá comunicarlo a la Dirección General de Telecomunicaciones y Tecnología de la Información"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El radioaficionado debe tener en cuenta que:",
@@ -237,7 +260,8 @@
             "No es aconsejable inventar palabras para deletrear el mensaje",
             "El código RST se utiliza para deletrear el mensaje"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los distritos de los indicativos de llamada son:",
@@ -247,7 +271,8 @@
             "Todos los que se soliciten",
             "Se han suprimido los distritos"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El 'distrito', que compone el distintivo de llamada de un radioaficionado:",
@@ -257,7 +282,8 @@
             "Es la cifra coincidente con el número de distrito de residencia del titular, con arreglo a la división geográfica que se especifica en el Reglamento de Aficionados en vigor",
             "Es la cifra 0 de uso exclusiva para distintivos temporales"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Las autorizaciones especiales para emisiones en bandas de frecuencias de uso restringido:",
@@ -267,7 +293,8 @@
             "Se otorgarán por un plazo máximo de dieciocho meses",
             "No permiten la utilización de equipos de construcción propia"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La señal de alarma en radiotelefonía consiste en dos señales de audiofrecuencia, aproximadamente sinusoidales, transmitidas alternativamente. ¿Qué frecuencias son?:",
@@ -277,7 +304,8 @@
             "1.100 Hz y 650 kz",
             "1.100 kHz y 650 kHz"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En un distintivo de llamada, la cifra 0 podrá ser autorizada exclusivamente:",
@@ -287,7 +315,8 @@
             "Con motivos de actos que sean inaugurados o visitados por Su Majestad el Rey",
             "Para uso temporal en eventos de carácter autonómico o local"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En el tejado de un edificio donde está instalada una antena de radioaficionado autorizada:",
@@ -297,7 +326,8 @@
             "Se podrán realizar obras previa autorización del titular de la antena",
             "Se podrá desmontar la antena para realizar obras previo pago de una indemnización al titular de la antena"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Es obligatorio respetar la reglamentación del país CEPT donde vayamos a emitir?:",
@@ -307,7 +337,8 @@
             "Utilizaremos solo VHF/UHF",
             "Siempre y cuando no esté en contradicción con la nuestra"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En la nomenclatura de las bandas de frecuencia, el símbolo LF corresponde a la banda de frecuencias:",
@@ -317,7 +348,8 @@
             "300 a 3000 GHz",
             "30 a 300 MHz"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Cómo se deletrea la palabra TOP?:",
@@ -327,7 +359,8 @@
             "Tunga, Oscar, Pepe",
             "Tango, Oslo, Pepe"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El código RST se utiliza para:",
@@ -337,7 +370,8 @@
             "Acceder a una radiobaliza",
             "Informar sobre la intensidad de la señal recibida"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los extranjeros que acrediten la condición de residentes en España podrán ser titulares de autorizaciones de radioaficionado españolas en los siguientes casos, indique la alternativa correcta:",
@@ -347,7 +381,8 @@
             "Cuando exista Acuerdo o Convenio de reciprocidad en la materia con el país de origen del radioaficionado",
             "Siempre que el país de origen del radioaficionado aplique la Recomendación T/R 5000"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En los planes de bandas de la IARU para la Región 1:",
@@ -357,7 +392,8 @@
             "Hay previstas frecuencias para repetidores analógicos en la banda 88,5 - 99,0 MHz",
             "No hay planes de banda de la IARU para la Región 1"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La abreviatura XXX, cuando es transmitida tres veces consecutivas, constituye la señal de:",
@@ -367,7 +403,8 @@
             "Seguridad",
             "Socorro"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En relación con una estación portátil de aficionado, marque la alternativa errónea:",
@@ -377,7 +414,8 @@
             "Posee una fuente de energía incorporada al propio equipo",
             "Es a la vez una estación portable de aficionado"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Cómo se deletrea la palabra MAR?:",
@@ -387,7 +425,8 @@
             "Mayo, Alfa, Romeo",
             "Mike, Alfa, Romeo"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La banda de frecuencias número 8, cuyo símbolo es VHF, corresponde a las ondas:",
@@ -397,7 +436,8 @@
             "Decimétricas",
             "Milimétricas"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Cuál de las siguientes proposiciones contiene mayor número de provincias adscritas al distrito 4?:",
@@ -407,7 +447,8 @@
             "Córdoba, Castellón, Cantabria, Burgos",
             "Toledo, Teruel, Tarragona, Santa Cruz de Tenerife"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En comunicaciones del Servicio de Aficionados, la palabra CID se deletrea:",
@@ -417,7 +458,8 @@
             "Charlie, India, Delfo",
             "Charter, Inca , Delta"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La tipificación de las infracciones en que puede incurrir un radioaficionado es establecida por:",
@@ -427,7 +469,8 @@
             "El Reglamento de uso del dominio público radioeléctrico por aficionados, Orden ITC/1791/2006, de 5 de junio",
             "La Resolución de 20 de septiembre de 2006, de la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información, por la que se dictan Instrucciones para el desarrollo y aplicación del Reglamento de uso del dominio público radioeléctrico por aficionados"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Un radioaficionado podrá ser autorizado a instalar un repetidor:",
@@ -437,7 +480,8 @@
             "Únicamente en localidades de menos de 5000 habitantes",
             "Si la cota de su emplazamiento es inferior a 500 metros"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El distintivo de llamada estará constituido por un grupo alfanumérico del modo siguiente:",
@@ -447,7 +491,8 @@
             "Prefijo + Distrito + Sufijo",
             "EA+EB+EC"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Un radioaficionado español que traslade su residencia a Croacia podrá obtener una licencia de radioaficionado en dicho país si:",
@@ -457,7 +502,8 @@
             "Tiene familiares de nacionalidad croata",
             "Se compromete a emitir únicamente en VHF"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "No es un requisito que habrá de constar necesariamente en la licencia de estación de radioaficionado CEPT:",
@@ -467,7 +513,8 @@
             "Fecha de superación del examen",
             "Autoridad que expide la licencia"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En los casos de cambio de domicilio:",
@@ -477,7 +524,8 @@
             "Puede ser necesario cambiar la cifra del distintivo y el sufijo del distintivo de llamada",
             "Deberá cambiarse siempre el prefijo del distintivo de llamada"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Indica cual de las siguientes series de prefijos internacionales corresponden a las atribuidas a España, según el Reglamento de Radiocomunicaciones:",
@@ -487,7 +535,8 @@
             "KN, KK, KL",
             "EPA, EQZ, EAA"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Cuándo se puede solicitar a la Dirección General de Telecomunicaciones un distintivo temporal?:",
@@ -497,7 +546,8 @@
             "Cuando un radioaficionado desee participar en concursos, experimentos, ensayos, demostraciones y otros eventos",
             "En ningún caso, teniendo en cuenta que la autorización de radioaficionado ya lleva asociado un distintivo de llamada"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La Ley General de Telecomunicaciones tipifica como infracción leve:",
@@ -507,7 +557,8 @@
             "La instalación de estaciones radioeléctricas sin autorización, cuando, de acuerdo con lo dispuesto en la normativa reguladora de las telecomunicaciones, sea necesaria",
             "No atender el requerimiento hecho por la autoridad competente para el cese de las emisiones radioeléctricas, en los supuestos de producción de interferencias"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "De acuerdo con la Ley General de Telecomunicaciones, la sanción impuesta por una falta grave prescribirá:",
@@ -517,7 +568,8 @@
             "Al mes",
             "A los tres años"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Para la realización de obras que afecten a la instalación de una antena autorizada de radioaficionado, la Comunidad de Propietarios deberá:",
@@ -527,7 +579,8 @@
             "Informar, con antelación mínima de un mes, al titular de la licencia de estación si fuera necesario desmontar la antena y/o elementos anejos",
             "Solicitar permiso al titular de la licencia de estación"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El prefijo “EG” de un distintivo de llamada se relaciona con:",
@@ -537,7 +590,8 @@
             "Usos temporales no especialmente significativos",
             "Usos temporales de relevancia internacional"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En radiotelefonía, si tenemos necesidad de emitir la señal de socorro, lo haremos mediante la palabra:",
@@ -547,7 +601,8 @@
             "Mayday",
             "Auxilio"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Tras la revocación, en su caso, de la autorización de radioaficionado, el interesado:",
@@ -557,7 +612,8 @@
             "Hasta una nueva autorización no podrá ejercer la actividad de la radioafición",
             "Queda inhabilitado a perpetuidad a ser radioaficionado"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Para no desmontar el sistema radiante de una estación fija, una vez cancelada la licencia , y dejarlo solo para recepción, su titular deberá obtener:",
@@ -567,7 +623,8 @@
             "Comunicarlo por escrito a  la Jefatura Provincial de Inspección de Telecomunicaciones",
             "Comunicarlo por escrito de la propiedad del inmueble o, en su caso, a la comunidad de propietarios"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El sufijo AO se otorgará para eventos temporales:",
@@ -577,7 +634,8 @@
             "Especiales de relevancia internacional",
             "No especialmente significativos"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Para instalar una antena en un edificio en régimen de propiedad horizontal:",
@@ -587,7 +645,8 @@
             "No se precisa contratar un seguro para garantizar posibles responsabilidades",
             "No será necesario tener en cuenta las características mecánicas de la misma"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Definiría 'estación automática desatendida' como?:",
@@ -597,7 +656,8 @@
             "Estación colectiva de aficionado, que para su funcionamiento habitual no requiere la intervención directa del operador",
             "Estación de mediciones de potencia"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En la nomenclatura de las bandas de frecuencia, la banda SHF corresponde a las frecuencias comprendidas entre:",
@@ -607,7 +667,8 @@
             "3 y 30 GHz",
             "300 y 3.000 MHz"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Utilizar la palabra 'cambio' al finalizar una transmisión en fonía es:",
@@ -617,7 +678,8 @@
             "Necesario",
             "Sancionable según la reglamentación vigente"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Cuál de las siguientes alternativas es válida, en relación con la autorización administrativa del uso del espectro radioeléctrico por aficionados?:",
@@ -627,7 +689,8 @@
             "Cuando se conceda, a la vez se otorgará el distintivo de llamada",
             "No se exigen requisitos previos para solicitarla"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El distintivo de llamada de una estación de radioaficionado, estará constituido por:",
@@ -637,7 +700,8 @@
             "Por un sufijo sin letras",
             "Sin sufijo"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Si un radioaficionado se identifica como: EA4ABC/M3BVM:",
@@ -647,7 +711,8 @@
             "Pertenece a un corresponsal  de un diario nacional, emitiendo a un país extranjero",
             "Se trata de una estación no autorizada"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La licencia CEPT habilita para la utilización de estaciones móviles en:",
@@ -657,7 +722,8 @@
             "Todo el mundo excepto la Región 3 de la UIT",
             "Únicamente en Europa"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Entre las abreviaturas más usuales en las comunicaciones de radioaficionados se encuentra RPT que significa:",
@@ -667,7 +733,8 @@
             "Recibido",
             "Transmisor"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La obtención de la autorización de radioaficionado requerirá la obtención previa de:",
@@ -677,7 +744,8 @@
             "Diploma de operador",
             "Permiso de un radio club"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Cual de los siguientes sufijos podrá ser asignado a un distintivo de llamada de la autorización de radioaficionado?:",
@@ -687,7 +755,8 @@
             "PAN",
             "QRS"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En caso de cancelación de la Licencia de Estación de Aficionado, ¿puede su titular mantener instalado el sistema radiante?:",
@@ -697,7 +766,8 @@
             "Siempre que lo autorice la Dirección General de Telecomunicaciones",
             "Sólo en recepción, previa autorización por escrito de la propiedad del inmueble o, en su caso, de la comunidad de propietarios, remitiendo una copia de dicha autorización a la Dirección General de Telecomunicaciones"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La reglamentación vigente permite:",
@@ -707,7 +777,8 @@
             "Disponer de distintivo de llamada sin tener una licencia de estación",
             "Disponer de hasta un máximo de cinco distintivos de llamada"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El sufijo de una letra se reservará para:",
@@ -717,7 +788,8 @@
             "Concursos nacionales de alta competitividad",
             "Eventos especiales de relevancia internacional"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "A cual de las siguientes localidades puede pertenece el distintivo de llamada: EA6VYX:",
@@ -727,7 +799,8 @@
             "Palma de Mallorca",
             "Bilbao"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El distintivo de llamada estará constituido, secuencialmente, por un grupo alfanumérico del modo siguiente:",
@@ -737,7 +810,8 @@
             "Prefijo, Sufijo, Distrito",
             "Prefijo, Distrito, Sufijo"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Las estaciones automáticas desatendidas en la banda de HF tendrán una potencia de salida máxima de:",
@@ -747,7 +821,8 @@
             "75 W",
             "100 W"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Un radioaficionado español que utiliza temporalmente su estación en Australia (país que aplica la Recomendación CEPT T/R 61-01):",
@@ -757,7 +832,8 @@
             "No podrá solicitar protección contra interferencias perjudiciales",
             "Únicamente puede emitir en frecuencias de HF"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Para operar estaciones en el país visitado temporalmente, el radioaficionado está obligado a:",
@@ -767,7 +843,8 @@
             "Solicitar permiso de antenas",
             "Presentar la autorización de radioaficionado a petición de las autoridades"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Qué abreviatura del código Q indica cual es la ubicación o situación?",
@@ -777,7 +854,8 @@
             "QTW",
             "QTR"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La emisión de una o varias frecuencias situada inmediatamente fuera de la anchura de banda necesaria, resultante del proceso de modulación, se denomina emisión:",
@@ -787,7 +865,8 @@
             "Armónica",
             "En dúplex"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En el país visitado temporalmente, el radioaficionado está obligado a:",
@@ -797,7 +876,8 @@
             "Solicitar permiso de antenas",
             "Presentar la autorización de radioaficionado, si las autoridades se lo exigen"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El certificado HAREC lo hemos de relacionar con la Recomendación CEPT:",
@@ -807,7 +887,8 @@
             "T/R 61-02",
             "T/R 61-03"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Señale la proposición incorrecta:",
@@ -817,7 +898,8 @@
             "La instalación de las antenas se hará de modo que se respeten las separaciones entre ellas y los elementos, instalaciones y antenas de otros servicios para que estos no resulten degradados en su funcionamiento",
             "Las antenas y elementos anejos, y en particular, soportes, anclajes y riostras deberán ser de materiales endebles y de fácil instalación para facilitar su posterior desmontaje"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El plazo de que dispone la Administración para resolver y notificar las solicitudes de autorizaciones de radioaficionado será de:",
@@ -827,7 +909,8 @@
             "Cinco semanas",
             "Seis semanas"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Las frecuencias de llamada:",
@@ -837,7 +920,8 @@
             "Permiten contactar con otros operadores que utilizan el mismo modo",
             "Nunca se usan en VHF"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los extranjeros que acrediten documentalmente su condición de residentes en España, podrán obtener autorización de radioaficionado, cuando:",
@@ -847,7 +931,8 @@
             "Sean titulares del Certificado HAREC",
             "Nunca"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La señal de socorro en radiotelefonía es:",
@@ -857,7 +942,8 @@
             "Mayday",
             "Securité"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Cuántas estaciones automáticas desatendidas podrán autorizarse en una zona?:",
@@ -867,7 +953,8 @@
             "Se autorizarán en función de las necesidades del servicio",
             "Tres en VHF y dos en UHF"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Entre las obligaciones de un gestor de una estación desatendida no se encuentra la de:",
@@ -877,7 +964,8 @@
             "Otorgar la autorización y conformidad del inicio del funcionamiento de la estación",
             "Verificar que el tráfico de información se realice conforme a lo previsto por la normativa vigente  al respecto"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La Ley General de Telecomunicaciones tipifica como infracción muy grave:",
@@ -887,7 +975,8 @@
             "La distribución, venta o exposición para la venta de equipos o aparatos cuya conformidad con los requisitos esenciales aplicables no haya sido evaluada de acuerdo con lo dispuesto en el titulo IV de esta ley o con los acuerdos o convenios internacionales celebrados por el Estado español",
             "La alteración, la manipulación o la omisión de las características técnicas, de las marcas, de las etiquetas, de los signos de identificación o de la documentación de los equipos o de los aparatos de telecomunicaciones"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Es la comunidad de propietarios la que autoriza la instalación de antenas de radioaficionado?:",
@@ -897,7 +986,8 @@
             "Sí, siempre que se le informe con antelación",
             "Sólo en caso de que la instalación sea sencilla"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿A quién se le puede autorizar la instalación de una Estación Automática Desatendida?:",
@@ -907,7 +997,8 @@
             "A cualquier titular de Autorización de Radioaficionado",
             "Solo puede instalarla la A.E.R. (Agencia Estatal de Radiocomunicaciones)"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El distintivo de llamada ED1YBD:",
@@ -917,7 +1008,8 @@
             "Tiene carácter temporal",
             "La secuencia no se contempla en el reglamento vigente"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La señal de urgencia en radiotelefonía se compone:",
@@ -927,7 +1019,8 @@
             "De la palabra \"urgente\" repetido tres veces",
             "De la palabra \"pan\" repetido tres veces"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los sufijos de dos letras podrán ser asignados:",
@@ -937,7 +1030,8 @@
             "Únicamente a una agrupación de radioaficionados",
             "A cualquier radioaficionado que acredite cinco años de prácticas en la radioafición internacional"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "De acuerdo con el artículo 5 del Reglamento de Radiocomunicaciones de la UIT, desde el punto de vista de la atribución de frecuencias:",
@@ -947,7 +1041,8 @@
             "España se encuentra en la Región 1",
             "Canarias se encuentra en la Región 2"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La identificación de emisiones de una estación móvil marítima se efectuará añadiendo a su distintivo de llamada la expresión:",
@@ -957,7 +1052,8 @@
             "/MA",
             "/MM"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Qué sufijos de tres letras están reservados para estaciones colectivas de Asociaciones de radioaficionados y Radio Clubs respectivamente?:",
@@ -967,7 +1063,8 @@
             "Los que comienzan por: MMA, MAM, PAN",
             "Los que comienzan por: EEE, EDD, EFF"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En el alfabeto fonético internacional las letras S y L se corresponden con las palabras:",
@@ -977,7 +1074,8 @@
             "Sol, Lima",
             "Sierra, Lima"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La utilización de distintivos temporales requerirá la presentación de una solicitud; señale la proposición errónea:",
@@ -987,7 +1085,8 @@
             "Indicando el período de utilización",
             "Indicando el distintivo de llamada solicitado"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "No es causa de revocación de una autorización de radioaficionado:",
@@ -997,7 +1096,8 @@
             "El incumplimiento del deber de comunicar fehacientemente a la Administración, cada cinco años, la intención de continuar utilizando el dominio público radioeléctrico",
             "La utilización para fines distintos de los que se establecen en la resolución de la autorización"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los planes de bandas de la IARU para la Región 1 deben ser tenidos en cuenta:",
@@ -1007,7 +1107,8 @@
             "Únicamente si se opera en Canarias",
             "Por todo radioaficionado que opere en España"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Una de las siguientes bandas que se citan a continuación precisa autorización especial de uso. Señálela:",
@@ -1017,7 +1118,8 @@
             "14.000-14.250 kHz",
             "50,000-51,000 MHz"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El siguiente gráfico se corresponde con uno de los distritos geográficos de residencia del titular de una autorización de radioaficionado,  indíquelo:",
@@ -1027,7 +1129,8 @@
             "Distrito 5",
             "Distrito 6"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En la instalación de una antena de radioaficionado y sus elementos anejos:",
@@ -1037,7 +1140,8 @@
             "Es necesario tener en cuenta las instalaciones y antenas de otros servicios",
             "Los soportes de la antena se podrán fijar al mástil de conducción aérea de energía eléctrica"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Sobre los planes de bandas de la IARU es correcto decir que:",
@@ -1047,7 +1151,8 @@
             "Deben ser tenidos en cuenta únicamente si se opera en Canarias",
             "En España se deben aplicar los planes de banda de la IARU para la Región 2"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La llamada de socorro en radiotelefonía se compone de:",
@@ -1057,7 +1162,8 @@
             "La palabra \"help\" (tres veces), seguida de la palabra \"aquí\" o \"de\" y a continuación el distintivo de llamada u otra señal que identifique a la estación móvil en peligro (tres veces)",
             "La palabra \"mayday\" (tres veces), seguida de la palabra \"aquí\" o \"de\" y a continuación el distintivo de llamada u otra señal que identifique a la estación móvil en peligro (tres veces)"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Un radioaficionado está obligado a ser socio de una asociación de radioaficionados:",
@@ -1067,7 +1173,8 @@
             "No",
             "Únicamente si efectúa emisiones en frecuencias atribuidas al Servicio de Aficionados por Satélite"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Entre las condiciones de utilización de la licencia CEPT señaladas en el Reglamento de Aficionados, no se encuentra una de las siguientes. Indíquela:",
@@ -1077,7 +1184,8 @@
             "El titular no podrá solicitar protección contra las interferencias perjudiciales",
             "La licencia permitirá utilizar todas las bandas de frecuencias atribuidas al Servicio de Aficionados, autorizadas en su país, aunque no lo estén en el país donde va a operar la estación"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Que símbolo le corresponde a la gama de frecuencias de 3 a 30 MHz?:",
@@ -1087,7 +1195,8 @@
             "LF",
             "UHF"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El sufijo de un distintivo de llamada de tres letras que comience por “Y” o “Z”, se reservará para:",
@@ -1097,7 +1206,8 @@
             "No se contempla dicha reserva en el reglamento vigente",
             "Las estaciones automáticas desatendidas analógicas y digitales respectivamente"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Como norma general, la instalación de una estación de aficionado deberá ser efectuada:",
@@ -1107,7 +1217,8 @@
             "Exclusivamente por un técnico de una asociación legalizada de radioaficionados",
             "Por un instalador de telecomunicaciones inscrito en el  Registro de Empresas Instaladoras  de Telecomunicación"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Se entiende por estación digital de aficionado, la estación:",
@@ -1117,7 +1228,8 @@
             "Fija de aficionado",
             "Que posee antena y fuente de energía incorporada al propio equipo"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En caso de que el titular de estación de aficionado tenga constancia de que esta causando interferencias a otros servicios de telecomunicaciones autorizados, ¿qué medida deberá adoptar, de las siguientes propuestas?:",
@@ -1127,7 +1239,8 @@
             "Deberá, a su costa, adoptar en su estación todas las medidas razonables de tipo técnico, para eliminar dicha interferencia, comunicando a la Jefatura Provincial de Inspección de Telecomunicaciones las medidas adoptadas",
             "Seguir emitiendo"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El acceso a los repetidores analógicos y digitales finales:",
@@ -1137,7 +1250,8 @@
             "Estará restringido a los titulares de licencia con antigüedad superior a 1 año",
             "Estará restringido a los titulares de distintivo de llamada con sufijo de 2 letras"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Qué grupo del código Q indica “su frecuencia varía”?:",
@@ -1147,7 +1261,8 @@
             "QTH",
             "QRH"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Una condición imprescindible para que a un extranjero se le otorgue una autorización de radioaficionado es que:",
@@ -1157,7 +1272,8 @@
             "Exista Acuerdo de Reciprocidad en esta materia con su país de origen",
             "Acredite documentalmente su condición de residente en España"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Si una estación tiene el indicativo de llamada EF6ABC:",
@@ -1167,7 +1283,8 @@
             "Es concedido para uso temporal por un evento no especialmente significado",
             "Es de naturaleza indefinida"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Sobre los planes de banda de la IARU es correcto decir que:",
@@ -1177,7 +1294,8 @@
             "No tienen previstas frecuencias para repetidores",
             "Tienen en cuenta la atribución de bandas del Reglamento de Radiocomunicaciones de la UIT"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Un radioaficionado podrá instalar la antena de su estación  fija en el exterior de un inmueble si:",
@@ -1187,7 +1305,8 @@
             "Se hace cargo de los costes de la instalación",
             "Está legitimado para usar de la totalidad o parte del mismo y ha obtenido la autorización  reglamentaria"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Un radioaficionado que cambia de residencia no podrá mantener el mismo distintivo si:",
@@ -1197,7 +1316,8 @@
             "Su  nueva provincia de residencia pertenece a un distrito distinto",
             "Su nueva provincia de residencia se encuentra en distinta Comunidad Autónoma"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En comunicaciones del Servicio de Aficionados, la palabra BOJ se deletrea:",
@@ -1207,7 +1327,8 @@
             "Bravo, Oscar, Juliett",
             "Bravo, Ortega, Julio"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En el alfabeto fonético internacional la letra N se codifica como:",
@@ -1217,7 +1338,8 @@
             "Nice",
             "November"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En el Reglamento de uso del dominio público radioeléctrico por aficionados aparece la abreviatura CNAF que significa:",
@@ -1227,7 +1349,8 @@
             "Cuadro Normativo de Atribución de Frecuencias",
             "Cuadro Nacional de Atribución de Frecuencias"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Que plazo tiene la Administración para resolver una solicitud de Autorización de radioaficionado?:",
@@ -1237,7 +1360,8 @@
             "Siete semanas",
             "Ocho semanas"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La utilización con carácter temporal de estaciones fijas, en emplazamientos distintos a los autorizados, no precisarán notificación previa a la Jefatura Provincial de Inspección de Telecomunicaciones cuando se efectúe dentro del distrito de residencia del radioaficionado y su duración máxima sea de:",
@@ -1247,7 +1371,8 @@
             "Cinco días naturales consecutivos",
             "Seis días naturales consecutivos"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La licencia CEPT de un radioaficionado español:",
@@ -1257,7 +1382,8 @@
             "Se la concederá la autoridad competente del país europeo que vaya a visitar",
             "Le permite la utilización de todas las bandas atribuidas al Servicio de Aficionados autorizadas en el país donde se va a operar la estación"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿En qué bandas de frecuencias se permite emitir si se dispone de la licencia CEPT:",
@@ -1267,7 +1393,8 @@
             "En  todas las bandas de frecuencias atribuidas al Servicio de Aficionados en el país visitado",
             "Exclusivamente, en las bandas atribuidas al servicio por Satélite"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El certificado HAREC:",
@@ -1277,7 +1404,8 @@
             "No sirve para demostrar que se ha aprobado el examen de radioaficionado con un programa básico",
             "Permite obtener licencia en cualquier país del mundo"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Según la Ley 9/2014, de 9 de mayo, General de Telecomunicaciones, retrasar injustificadamente la aportación de datos requeridos por la Administración cuando resulte exigible conforme a lo previsto por la normativa reguladora de las comunicaciones electrónicas es considerado como una infracción:",
@@ -1287,7 +1415,8 @@
             "Grave",
             "Menos grave"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La autorización administrativa de uso del espectro radioeléctrico por radioaficionados:",
@@ -1297,7 +1426,8 @@
             "Nunca podrá ser objeto de revocación",
             "Tiene naturaleza de autorización colectiva"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los planes de banda de la IARU en las diferentes Regiones geográficas definidas por la Unión Internacional de Telecomunicaciones (UIT):",
@@ -1307,7 +1437,8 @@
             "Son siempre iguales los de la Región 1 a los de la Región 3",
             "No hay planes de banda en la Región 3"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Las ondas métricas se representan por el símbolo:",
@@ -1317,7 +1448,8 @@
             "EHF",
             "VHF"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Una estación automática desatendida (repetidora):",
@@ -1327,7 +1459,8 @@
             "Basa su funcionamiento en la emisión automática de señales de identificación",
             "Tiene por objeto ampliar el alcance de las comunicaciones"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La licencia CEPT:",
@@ -1337,7 +1470,8 @@
             "Permite operar en las bandas autorizadas al Servicio de Aficionados en cualquier país visitado que se haya adherido a la Recomendación T/R61-01 de la CEPT",
             "Permite operar permanentemente en cualquier país CEPT"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El distintivo de llamada se define como:",
@@ -1347,7 +1481,8 @@
             "Grupo de caracteres que constituye la señal de identificación del radioaficionado",
             "La ganancia isótropa o absoluta"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El Certificado HAREC:",
@@ -1357,7 +1492,8 @@
             "Permite realizar emisiones al visitar cualquier país de África",
             "En España, únicamente se puede expedir para ciudadanos extranjeros"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Si observa que un distintivo de llamada va precedido del prefijo EA seguido de un determinado número (del 1 al 9):",
@@ -1367,7 +1503,8 @@
             "Se trata de un radioaficionado de clase A",
             "Es que un titular de licencia CEPT extranjero está emitiendo en España"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Una emisión de radioaficionado:",
@@ -1377,7 +1514,8 @@
             "Podrá utilizarse para comunicar con radioaficionados de cualquier país, sin limitaciones",
             "Se limitará a temas relacionados con el servicio de aficionados y a observaciones de carácter personal"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Las estaciones automáticas desatendidas utilizarán el prefijo:",
@@ -1387,7 +1525,8 @@
             "ED",
             "No tienen prefijo"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los prefijos de los distintivos de llamada correspondientes a España son, entre otros:",
@@ -1397,7 +1536,8 @@
             "UHM-ARG",
             "No existen"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El Reglamento de uso del dominio público radioeléctrico por aficionados se dicta al amparo de lo dispuesto en el artículo 149.1.21ª de la Constitución, que atribuye al Estado competencias exclusivas en materia de:",
@@ -1407,7 +1547,8 @@
             "Gestión en materia de protección de medio ambiente",
             "Normas básicas del régimen de prensa, radio y televisión"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los distintivos de llamada se podrán reasignar:",
@@ -1417,7 +1558,8 @@
             "A Radio Clubs o a Asociaciones con carácter experimental",
             "Por periodos, hasta un máximo de 20 días al año"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En la nomenclatura de las bandas de frecuencia, la banda de HF corresponde a la gama de frecuencias de:",
@@ -1427,7 +1569,8 @@
             "3 a 30 MHz",
             "300 a 3.000 MHz"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Toda telecomunicación transmitida por medio de ondas radioeléctricas recibe el nombre de:",
@@ -1437,7 +1580,8 @@
             "Radioafición",
             "Radiocomunicación"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En el alfabeto fonético internacional la letra Q se identifica por:",
@@ -1447,7 +1591,8 @@
             "Quebar",
             "Quebec"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Las autorizaciones especiales de uso del espectro radioeléctrico por aficionados:",
@@ -1457,7 +1602,8 @@
             "Son nominativas y sólo habilitarán para la realización de emisiones a su titular",
             "No tienen limitaciones geográficas"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El plazo del que dispone la Administración para resolver una solicitud de autorización de radioaficionado será de:",
@@ -1467,7 +1613,8 @@
             "Tres meses",
             "Quince días"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El titular de una licencia CEPT, expedida por una Administración que haya adoptado la recomendación T/R 61-01, estará obligado a:  (indique cual de estas afirmaciones es falsa):",
@@ -1477,7 +1624,8 @@
             "Observar todas las limitaciones que le vengan impuestas en lo concerniente a las condiciones locales de naturaleza técnica o relativa a los poderes públicos",
             "Respetar las diferencias de atribuciones de frecuencias en los servicios de aficionados en las tres Regiones de la Unión Internacional de Telecomunicaciones"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los distintivos de llamada con sufijo de 2 letras:",
@@ -1487,7 +1635,8 @@
             "Podrán ser asignados a cualquier radioaficionado que cumpla con determinadas condiciones",
             "No pueden ser reutilizados"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿En qué caso se reasignará un distintivo ya utilizado?:",
@@ -1497,7 +1646,8 @@
             "En el supuesto de que se produzca sanción por mal uso de la estación",
             "Si su titular crea interferencias"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El montaje de una estación fija de aficionado:",
@@ -1507,7 +1657,8 @@
             "No requiere ni autorización, ni comunicación a la JPIT",
             "No está permitida"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Toda licencia CEPT expedida por una Administración que haya adoptado la Recomendación T/R 61-01:",
@@ -1517,7 +1668,8 @@
             "Goza de equiparación a la autorización de aficionado nacional, en los términos recogidos en el Reglamento de uso del dominio público radioeléctrico por aficionados",
             "Su titular tendrá que superar un examen especial"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Qué abreviatura del código Q se refiere a la inteligibilidad de las señales?:",
@@ -1527,7 +1679,8 @@
             "QRA",
             "QSW"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Al deletrear las letras de su indicativo el radioaficionado debe utilizar:",
@@ -1537,7 +1690,8 @@
             "Palabras del idioma en que mejor se exprese",
             "El código de deletreo ICAO"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En el servicio de aficionados, la radiobaliza:",
@@ -1547,7 +1701,8 @@
             "Tiene por objeto ampliar el alcance de las comunicaciones",
             "Basa su funcionamiento en la emisión automática de señales de identificación"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los daños y perjuicios originados por la conservación o desmontaje de una antena de radioaficionado correrán por cuenta de:",
@@ -1557,7 +1712,8 @@
             "El ayuntamiento si autoriza la obra",
             "El propietario de la vivienda si esta es de alquiler"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La Ley 19/1983, conocida como Ley de Antenas, regula:",
@@ -1567,7 +1723,8 @@
             "El derecho a instalar las antenas de aficionado en el exterior de los inmuebles",
             "La exención de presentar memoria descriptiva de la instalación"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Un radioaficionado debe tener siempre una estación fija?:",
@@ -1577,7 +1734,8 @@
             "Si emite únicamente en VHF",
             "No es obligatorio disponer de estación fija"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los daños y perjuicios originados por una antena de una estación de radioaficionado, correrán a cargo del titular de la licencia de la estación:",
@@ -1587,7 +1745,8 @@
             "Únicamente los producidos al desmontar la antena",
             "Únicamente los producidos por un mantenimiento defectuoso"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Defina 'estación fija remota de aficionado':",
@@ -1597,7 +1756,8 @@
             "Estación portátil que se utiliza en itinerarios de larga distancia",
             "Estación repetidora de gran alcance"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Para la obtención de la licencia de estación de radioaficionado es necesario presentar:",
@@ -1607,7 +1767,8 @@
             "La cédula de habitabilidad del inmueble donde se va a instalar",
             "Documento que acredite estar inscrito en una asociación de Radioaficionado"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La instalación, en el exterior de los edificios, del sistema radiante de una estación de radioaficionado ¿puede ser realizada por el propio radioaficionado?:",
@@ -1617,7 +1778,8 @@
             "Solo aquellas que por su simplicidad así lo autorice el Jefe Provincial de Inspección de Telecomunicaciones",
             "Nunca"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Es correcto afirmar que:",
@@ -1627,7 +1789,8 @@
             "En la transmisión entre estaciones de aficionado está permitida la transmisión de un  mensaje, cualquiera que sea su naturaleza, con destino a un tercero",
             "Las transmisiones entre estaciones de aficionado no deberán limitarse a mensajes de naturaleza técnica relativos a ensayos y a observaciones de carácter puramente personal"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Con autorización de su titular, podrá hacer uso de una estación de aficionado:",
@@ -1637,7 +1800,8 @@
             "Cualquier otro titular de autorización de radioaficionado",
             "Salvo en casos de emergencia o desastre, nadie"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "De acuerdo con la Ley General de Telecomunicaciones, por comisión de infracciones graves se puede imponer al infractor una multa de hasta:",
@@ -1647,7 +1811,8 @@
             "100.000 euros",
             "500.000 euros"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Qué abreviatura indica que el operador sufre una interferencia?:",
@@ -1657,7 +1822,8 @@
             "QRL",
             "QRA"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El diploma de operador de estaciones de aficionado:",
@@ -1667,7 +1833,8 @@
             "Certifica la capacidad de su titular para operar estaciones radioeléctricas del servicio de aficionados",
             "Habilita para hacer uso común del espectro radioeléctrico"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En el alfabeto fonético internacional la letra R se codifica como:",
@@ -1677,7 +1844,8 @@
             "Ron",
             "Radio"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Cuál de las siguientes acciones está permitida realizar en el tráfico entre estaciones de aficionado?:",
@@ -1687,7 +1855,8 @@
             "Emitir anuncios relacionados con productos a utilizar en la radioafición, siempre y cuando sean con fines lucrativos",
             "Emitir con el distintivo de llamada de otro radioaficionado sin su permiso"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En el alfabeto fonético internacional con que palabra se identifica la letra M:",
@@ -1697,7 +1866,8 @@
             "Mila",
             "Mike"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Para la instalación y funcionamiento de una estación de aficionado, es necesario obtener:",
@@ -1707,7 +1877,8 @@
             "Nada",
             "Solo el Diploma de Operador"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La abreviatura TTT cuando es transmitida tres veces consecutivas, constituye la señal de:",
@@ -1717,7 +1888,8 @@
             "Repetición de transmisión",
             "Seguridad"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Qué regula la Ley 19/1983, en lo relativo a las antenas de las estaciones de radioaficionados?",
@@ -1727,7 +1899,8 @@
             "El derecho a instalar las antenas en el exterior de los inmuebles",
             "La obligación de respetar el plan de bandas reservado al servicio de aficionados"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Cómo se deletrea el número 7?:",
@@ -1737,7 +1910,8 @@
             "Seven",
             "Six"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Como norma general las instalaciones en una estación de radioaficionado deberán ser efectuadas:",
@@ -1747,7 +1921,8 @@
             "por un técnico de una Asociación legalizada de Radioaficionados",
             "Por un instalador de telecomunicaciones inscrito en el  Registro de Empresas Instaladoras  de Telecomunicación"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La obtención de la Autorización de Aficionado por un extranjero residente en España precisará:",
@@ -1757,7 +1932,8 @@
             "Que el país de origen del radioaficionado aplique la Recomendación T/R 5000",
             "Que se haya examinado en España exclusivamente de la Reglamentación Nacional"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Qué se entiende por emisiones no deseadas?:",
@@ -1767,7 +1943,8 @@
             "Conjunto de las emisiones no esenciales y de las emisiones fuera de banda",
             "Conjunto de emisiones de banda estrecha"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Se puede interferir deliberadamente a otra estación de radioaficionado:",
@@ -1777,7 +1954,8 @@
             "Si no ha emitido su indicativo",
             "Nunca"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los repetidores analógicos, ¿a qué velocidad deberán emitir, de forma automática, su distintivo en código Morse?:",
@@ -1787,7 +1965,8 @@
             "Once palabras por minuto",
             "Doce palabras por minuto"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El cambio de ubicación de una antena:",
@@ -1797,7 +1976,8 @@
             "Se debe solicitar a la Dirección General de Telecomunicaciones y seguir el mismo procedimiento que si se tratase  de primera instalación",
             "Únicamente requiere ser notificado al Ayuntamiento de la localidad"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Si se desea utilizar con carácter temporal una estación fija en emplazamiento distinto al autorizado, ¿con qué plazo de antelación se deberá notificar a la Jefatura Provincial de Inspección de Telecomunicaciones correspondiente tal circunstancia?:",
@@ -1807,7 +1987,8 @@
             "Quince días",
             "Dos semanas"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los prefijos de uso temporal ED, EE y EF:",
@@ -1817,7 +1998,8 @@
             "Están reservados solamente para los distritos 7, 8 y 9",
             "Se asignarán para eventos especiales de relevancia internacional"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El alfabeto fonético se utiliza para:",
@@ -1827,7 +2009,8 @@
             "Acceder a un repetidor",
             "Informar sobre la intensidad de la señal recibida"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Una comunidad de propietarios, ¿puede autorizar la instalación de antenas de radioaficionado?:",
@@ -1837,7 +2020,8 @@
             "Siempre y cuando se tenga el permiso de obra",
             "Si, siempre que se tenga el proyecto técnico"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los equipos de radioaficionados de construcción propia:",
@@ -1847,7 +2031,8 @@
             "Se pueden utilizar sin efectuar ningún trámite en la Jefatura Provincial de Inspección de Telecomunicaciones",
             "Para ser utilizados deberán ser autorizados por la Jefatura Provincial de Inspección de Telecomunicaciones"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Si un radioaficionado no es titular de la estación que está utilizando:",
@@ -1857,7 +2042,8 @@
             "No podrá emitir en todas las bandas de frecuencias",
             "Deberá obtener un permiso especial de la Inspección de Telecomunicaciones"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Una de las siguientes provincias españolas se encuentra adscrita al distrito 5. Indíquela:",
@@ -1867,7 +2053,8 @@
             "Álava",
             "Ávila"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Cómo se deletrea la palabra FIN?:",
@@ -1877,7 +2064,8 @@
             "Foxtrot, Inglés, Nono",
             "Fox, India, Nada"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Una estación fija de radioaficionado:",
@@ -1887,7 +2075,8 @@
             "No podrá ser accionada a distancia, ya que se convertiría en móvil",
             "Se encuentra dentro de la clasificación de estaciones automáticas desatendidas"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "De acuerdo con la división de la UIT del mundo en tres Regiones:",
@@ -1897,7 +2086,8 @@
             "Toda España se encuentra en la Región 2",
             "La división en Regiones solo se aplica al continente americano"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Según el Reglamento de Radiocomunicaciones de la UIT:",
@@ -1907,7 +2097,8 @@
             "Las estaciones de aficionado nunca pueden ser utilizadas para la transmisión de comunicaciones internacionales en nombre de terceros",
             "Una estación de aficionado es una estación del Servicio de Aficionados"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El acceso a los repetidores analógicos y digitales finales será necesariamente:",
@@ -1917,7 +2108,8 @@
             "Libre y sí estuvieran dotados de código de acceso, este deberá ser público",
             "Intermitente"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Qué es la licencia CEPT?:",
@@ -1927,7 +2119,8 @@
             "La que sólo permite la transmisión en bandas VHF/UHF",
             "Aquella que permite su utilización a nivel internacional"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "De acuerdo con el artículo 25 del Reglamento de Radiocomunicaciones de la UIT:",
@@ -1937,7 +2130,8 @@
             "Las comunicaciones por radio entre radioaficionados de diferentes países se utilizarán únicamente en casos de emergencia o desastre",
             "La potencia máxima de las estaciones de aficionado será fijada por la Unión Internacional de Telecomunicaciones (UIT)"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Qué grupo del código Q indica que perturban los atmosféricos?:",
@@ -1947,7 +2141,8 @@
             "QSD",
             "QRX"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Es erróneo afirmar que:",
@@ -1957,7 +2152,8 @@
             "En la transmisión entre estaciones de radioaficionado está permitido la transmisión de un mensaje, cualquiera que sea su naturaleza, con destino a un tercero",
             "Las transmisiones entre estaciones de radioaficionado deberá limitarse a mensajes de naturaleza técnica relativos a ensayos y a observaciones de carácter puramente personal"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "De acuerdo con el Apéndice 1 del Reglamento de Radiocomunicaciones de la UIT la clase de emisión F3E corresponde a una emisión de:",
@@ -1967,7 +2163,8 @@
             "Telefonía con dos o más canales",
             "Telefonía con un solo canal"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Un mensaje de socorro NO incluirá:",
@@ -1977,7 +2174,8 @@
             "Indicaciones relativas a su situación y otras informaciones aclaratorias",
             "La señal de seguridad Securite"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los planes de banda de la IARU:",
@@ -1987,7 +2185,8 @@
             "Solamente detallan el uso de las bandas superiores a 1.000 MHz",
             "No tienen en cuenta la atribución de bandas del Reglamento de Radiocomunicaciones de la UIT"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Cuál de las siguientes abreviaturas del código Q indica que se debe cesar de transmitir?:",
@@ -1997,7 +2196,8 @@
             "QRH",
             "QSA"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En las comunicaciones del Servicio de Aficionados, ¿cuál de las siguientes proposiciones es correcta?:",
@@ -2007,7 +2207,8 @@
             "La normativa vigente en materia de radioaficionados contempla un límite de edad para poder ser titular de una autorización de radioaficionado",
             "El titular de una licencia de estación fija de aficionado siempre precisa autorización previa administrativa para utilizarla como portable"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Que grupo del código Q indica que el operador de la estación llamará más tarde?:",
@@ -2017,7 +2218,8 @@
             "QRL",
             "QSW"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Cómo se deletrea la palabra MERO?",
@@ -2027,7 +2229,8 @@
             "MIKE, ECHO, ROMEO, OSCAR",
             "MADRID, ECHO, ROMEO, OSCAR"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En telegrafía, la abreviatura de procedimiento usada para finalizar una transmisión es:",
@@ -2037,7 +2240,8 @@
             "FN",
             "AR"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Al instalar una antena de radioaficionado se tendrá en cuenta que:",
@@ -2047,7 +2251,8 @@
             "Se debe garantizar el derecho de terceros a no sufrir daños en su propiedad derivados de la instalación",
             "Los elementos radiantes nunca pueden sobrepasar el espacio de los inmuebles donde están situados"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿A cuál de las siguientes localidades pertenece el distintivo de llamada EA9ADI?:",
@@ -2057,7 +2262,8 @@
             "Avilés (Asturias)",
             "Sabadell (Barcelona)"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Se puede solicitar protección contra interferencias perjudiciales al operar estaciones en otro país con licencia CEPT?:",
@@ -2067,7 +2273,8 @@
             "Siempre que se informe a la administración del país CEPT",
             "Solo en casos muy graves"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los soportes de una antena de radioaficionado:",
@@ -2077,7 +2284,8 @@
             "Se podrán fijar al soporte de una conducción aérea de energía eléctrica",
             "Nunca se fijarán directamente a la obra civil"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El acceso a los repetidores analógicos y digitales finales será:",
@@ -2087,7 +2295,8 @@
             "Obligatorio",
             "Restringido, si la estación estuviera dotada de código de acceso"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Si un radioaficionado emite con el siguiente distintivo: EA7UE:",
@@ -2097,7 +2306,8 @@
             "Está emitiendo desde Andalucía",
             "Se trata de un distintivo solicitado por una Escuela Universitaria"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los distintivos de uso temporal con sufijo de una sola letra están reservados para:",
@@ -2107,7 +2317,8 @@
             "Eventos que sean inaugurados o visitados por Su Majestad el Rey",
             "La participación en concursos internacionales de alta competitividad"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La señal de seguridad en radiotelefonía se compone:",
@@ -2117,7 +2328,8 @@
             "De la palabra “Securité” repetida tres veces",
             "De la palabra Cuidado repetida tres veces"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La instalación y funcionamiento de una estación de aficionado precisará de una licencia, la cual se considerará asociada a:",
@@ -2127,7 +2339,8 @@
             "La autorización de radioaficionado de su titular",
             "Toda la gama de frecuencias que pueda utilizar"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Toda estación colectiva fija de aficionado destinada a realizar estudios de propagación y cuyo funcionamiento se basa en la emisión automática de señales de identificación, recibe el nombre de:",
@@ -2137,7 +2350,8 @@
             "Estación repetidora final",
             "Radiobaliza"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En el procedimiento previsto en la Recomendación CEPT T/R 61-02 sobre el certificado HAREC pueden participar:",
@@ -2147,7 +2361,8 @@
             "Todos los países pertenezcan, o no, a la CEPT",
             "Únicamente países de la Comunidad Europea"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El distintivo de llamada AM8SOS:",
@@ -2157,7 +2372,8 @@
             "Su titular reside en Las Palmas de Gran Canaria",
             "No se puede asignar"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La licencia de estación de radioaficionado se expedirá:",
@@ -2167,7 +2383,8 @@
             "La primera semana de cada mes",
             "En el momento de presentar la memoria descriptiva de la estación"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En el alfabeto fonético internacional la letra B se codifica como:",
@@ -2177,7 +2394,8 @@
             "Bravo",
             "Baker"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En la nomenclatura de las bandas de frecuencia las ondas métricas se relacionan con:",
@@ -2187,7 +2405,8 @@
             "La banda nº 9",
             "La abreviatura métrica B. m."
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Las comunicaciones entre estaciones de aficionados se identificarán mediante un distintivo de llamada al comienzo y al final de cada emisión. Esta norma puede verse modificada en el supuesto de que la emisión:",
@@ -2197,7 +2416,8 @@
             "Se realice para información de propaganda, cualquiera que sea la naturaleza de esta",
             "Sea de un corresponsal extranjero"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En relación con la licencia CEPT, señale la alternativa falsa:",
@@ -2207,7 +2427,8 @@
             "Se concede a través del certificado HAREC",
             "En ella ha de constar, entre otros datos, el distintivo de llamada y su periodo de validez"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Cuál de las siguientes proposiciones continene mayor número de provincias pertenecientes al distrito 1?:",
@@ -2217,7 +2438,8 @@
             "Salamanca, Castellón, Cádiz",
             "Valencia, Valladolid, Vizcaya"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Para la instalación de antenas de radioaficionados, es obligatorio tener un seguro que cubra:",
@@ -2227,7 +2449,8 @@
             "Los accidentes del instalador",
             "Las posibles pérdidas de radiofrecuencia"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Cada autorización de radioaficionado dispondrá de un distintivo de llamada, cuyo sufijo estará constituido por:",
@@ -2237,7 +2460,8 @@
             "Hasta tres letras que se asignarán ordenadas alfabéticamente por turno riguroso de expedición",
             "Tres letras que comiencen por la Q"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Un radioaficionado podrá ser autorizado a instalar una estación automática desatendida?:",
@@ -2247,7 +2471,8 @@
             "En ningún caso",
             "Si dispone de diploma desde hace más de 15 años"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Las Estaciones Repetidoras y Radiobalizas, deberán disponer de un sistema de alimentación ininterrumpida, para que en caso de fallo en la alimentación externa, puedan seguir funcionando por un periodo mínimo de:",
@@ -2257,7 +2482,8 @@
             "Ocho horas",
             "Nueve horas"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Cuál de las siguientes alternativas es correcta?:",
@@ -2267,7 +2493,8 @@
             "No se precisa una autorización administrativa para la utilización de un distintivo de llamada temporal",
             "Una estación portable de aficionado es a la vez estación móvil"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La señal internacional de socorro en radiotelefonía es:",
@@ -2277,7 +2504,8 @@
             "Mayday",
             "Pan"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Como norma general, la ganancia del sistema radiante de las estaciones desatendidas en las bandas de VHF y UHF, no será superior a:",
@@ -2287,7 +2515,8 @@
             "10 dB",
             "12 dB"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "No se puede considerar como estación automática desatendida a una estación:",
@@ -2297,7 +2526,8 @@
             "Repetidora digital",
             "Colectiva de aficionado"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los Planes de Banda:",
@@ -2307,7 +2537,8 @@
             "Son establecidos sin tener en cuenta la división en Regiones de la UIT",
             "Deben ser aprobados por la Dirección General de Telecomunciaciones"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "A cual de las siguientes provincias pertenece el distintivo EB1VZY:",
@@ -2317,7 +2548,8 @@
             "Zaragoza",
             "Guadalajara"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Para utilizar un repetidor de VHF se emitirá en el canal apropiado de la banda:",
@@ -2327,7 +2559,8 @@
             "144,000 - 144,500 MHz",
             "431,050 - 431,825 MHz"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La cancelación de la licencia de estación de aficionado se efectuará en el siguiente caso:",
@@ -2337,7 +2570,8 @@
             "En cualquier momento a petición del titular",
             "Cuando la instalación de la antena sea defectuosa"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Podrá ser titular de una estación automática desatendida:",
@@ -2347,7 +2581,8 @@
             "Una asociación de radioaficionados reconocida",
             "Cualquier titular de licencia CEPT"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Cuál de las siguientes abreviaturas del código Q indica que debe aumentar la potencia de transmisión?:",
@@ -2357,7 +2592,8 @@
             "QSV",
             "QRP"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Que está ocurriendo si un radioaficionado se identifica como: EA3/OK2HM:",
@@ -2367,7 +2603,8 @@
             "Se están realizando cambios en el reglamento y el distrito 3 es pionero",
             "Se trata de una conexión con interferencias"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En relación con la instalación en el exterior de un inmueble de una antena de estación de aficionado, el punto o elemento de fijación de las riostras en la obra civil del inmueble, repartiendo los esfuerzos mecánicos, se conoce con el nombre de:",
@@ -2377,7 +2614,8 @@
             "Plano de paso",
             "Anclaje"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El distintivo de llamada de una autorización de radioaficionado estará constituido por:",
@@ -2387,7 +2625,8 @@
             "6 letras atribuidas a España por la UIT",
             "Las iniciales y fecha de nacimiento del titular"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Los distintivos de llamada con sufijos de dos letras; marque la opción falsa:",
@@ -2397,7 +2636,8 @@
             "Se reservan únicamente para estaciones colectivas",
             "Una de las condiciones para su adjudicación es que el radioaficionado no haya sido sometido a expediente sancionador en los últimos cinco años"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Qué objetivo se pretende al instalar un repetidor de radioaficionado:",
@@ -2407,7 +2647,8 @@
             "Inspeccionar fehacientemente las emisiones fuera de banda",
             "Detectar y reducir interferencias dentro de un área determinada"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En las comunicaciones del servicio de aficionados, ¿cuál de las siguientes proposiciones es correcta?:",
@@ -2417,7 +2658,8 @@
             "Puede emitirse información relacionada con la actividad del servicio de aficionados",
             "A efectos de ensayos puede emitirse un distintivo de llamada engañoso"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Al conjunto de las emisiones no esenciales y de las emisiones fuera de banda se las denomina emisiones:",
@@ -2427,7 +2669,8 @@
             "No deseadas",
             "Por conversión de frecuencias"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En relación con los exámenes para la obtención del diploma de operador de estación de aficionado, indique la opción incorrecta:",
@@ -2437,7 +2680,8 @@
             "Entre las materias de examen objeto se encuentra el  conocimiento y dominio de la normativa reglamentaria referente a las estaciones de aficionado",
             "Se convocan por Resolución de la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Qué identifica a un radioaficionado titular de una autorización?:",
@@ -2447,7 +2691,8 @@
             "El permiso de instalación de la antena",
             "La autorización del Ministerio de Industria, Turismo y Comercio para instalar la antena"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En aquellas Comunidades Autónomas en las que exista lengua cooficial además del castellano, la autorización de radioaficionados:",
@@ -2457,7 +2702,8 @@
             "Se expedirá únicamente en castellano",
             "El Reglamento de Aficionados no contempla tal extremo"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El indicativo de llamada ED3ZHO:",
@@ -2467,7 +2713,8 @@
             "Corresponde a una estación automática desatendida",
             "No se puede adjudicar a estación colectiva alguna"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Al visitar un país distinto al suyo todo titular de una licencia CEPT podrá:",
@@ -2477,7 +2724,8 @@
             "Identificarse durante las emisiones emitiendo únicamente su propio distintivo",
             "Realizar emisiones si el país visitado ha adoptado la Recomendación CEPT T/R61-01"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Comprobar si alguien está utilizando una frecuencia, antes de iniciar una transmisión en la misma, es:",
@@ -2487,7 +2735,8 @@
             "Una práctica de operar adecuada",
             "Sancionable según la reglamentación vigente"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "De entre las diversas obligaciones del gestor de una estación desatendida NO se encuentra la de:",
@@ -2497,7 +2746,8 @@
             "Otorgar la autorización y conformidad del inicio del funcionamiento de la estación",
             "Verificar que el tráfico de información se realice conforme a lo previsto por la normativa vigente  al respecto"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Cómo se efectúa el acceso a los repetidores analógicos y digitales finales:",
@@ -2507,7 +2757,8 @@
             "Únicamente las Asociaciones de aficionado reconocidas, tendrán acceso a cualquier tipo de repetidor",
             "Dado que el número de estaciones automáticas desatendidas es limitado, no es posible su acceso si el radioaficionado  no pertenece a un Radio Club"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En relación con una estación de aficionado y su utilización es correcto significar que:",
@@ -2517,7 +2768,8 @@
             "En el caso de una operación se podrá ocupar mayor anchura de banda que la anchura de banda necesaria para cada clase de emisión",
             "El operador no viene obligado a cumplir el Reglamento sobre perturbaciones parasitas en vigor"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "El montaje del sistema radiante una estación  fija de radioaficionado será realizado:",
@@ -2527,7 +2779,8 @@
             "Utilizando exclusivamente equipos de fabricación española",
             "Por cualquier persona"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La señal de Socorro en radiotelefonía se compone de:",
@@ -2537,7 +2790,8 @@
             "Únicamente MAYDAY (tres veces)",
             "MAYDAY (una vez), la palabra AQUÍ o DE y el distintivo de llamada ( tres veces)"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Es obligatorio que la Jefatura Provincial de Inspección de Telecomunicaciones informe al presidente de la comunidad de propietarios afectada siempre que:",
@@ -2547,7 +2801,8 @@
             "Se reciba la autorización de telecomunicaciones",
             "Se vayan a realizar obras por parte de la comunidad"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Es obligatorio informar a las Jefatura Provinciales de Inspección de Telecomunicaciones de las modificaciones efectuadas en los sistemas radiantes:",
@@ -2557,7 +2812,8 @@
             "Siempre y cuando dichas modificaciones sean permanentes",
             "Cuando haya que presentar memoria descriptiva"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "¿Cuál de las siguientes ciudades se encuentra adscrita al distrito 9?:",
@@ -2567,7 +2823,8 @@
             "Zamora",
             "Murcia"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Por la comisión de una infracción grave tipificada en la Ley General de Telecomunicaciones se podrá imponer al infractor una multa por importe de hasta el duplo del beneficio bruto obtenido  o, en el caso de que no resulte  aplicable este criterio el límite máximo será de:",
@@ -2577,7 +2834,8 @@
             "1.000.000 €",
             "Ninguna de las anteriores"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Como norma general, la potencia de salida de los trasmisores de las estaciones desatendidas en las bandas de VHF y UHF dentro del casco urbano, no podrá exceder de:",
@@ -2587,7 +2845,8 @@
             "15  W",
             "20  W"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "En el extranjero, deberemos respetar la reglamentación del país CEPT donde vayamos:",
@@ -2597,7 +2856,8 @@
             "Sólo en las bandas VHF/UHF",
             "Siempre y cuando no esté en contradicción con la nuestra"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "La señal QRT tiene el significado de:",
@@ -2607,7 +2867,8 @@
             "Haga el favor de no interferir",
             "Acuse recibo"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     },
     {
         "question": "Para la instalación de una estación fija de radioaficionado, es necesario:",
@@ -2617,6 +2878,18 @@
             "Comunicarlo por escrito al presidente de la comunidad de propietario donde se vaya a instalar",
             "Presentar una memoria descriptiva del conjunto de la estación al presidente de la comunidad de propietario donde se vaya a instalar"
         ],
-        "correct": -1
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
+    },
+    {
+        "question": "Las utilizaciones de carácter experimental con características técnicas distintas a las especificadas en el Reglamento de uso del dominio público radioeléctrico por aficionados:",
+        "answers": [
+            "Únicamente están previstas en bandas de frecuencia superiores a 10,6 GHz",
+            "Requerirán una autorización especial",
+            "No están previstas en la reglamentación vigente",
+            "Deberán ser previamente autorizadas por el Ayuntamiento de la localidad"
+        ],
+        "correct": -1,
+        "questionImage": "https://www.ure.es/wp-content/uploads/2018/06/2009_05_23-06-_P.png"
     }
 ]

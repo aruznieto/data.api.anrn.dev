@@ -3,13 +3,16 @@ from time import sleep
 from bs4 import BeautifulSoup
 import requests
 import json
+from datetime import datetime
+
+giturl = 'https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions'
 
 with open('questionsElectricidad.json', 'r') as fcc_file:
     fcc_data = json.load(fcc_file)
 
 thirtyCounter = 0
 #file = open('questions.json', 'w')
-while thirtyCounter < 10:
+while thirtyCounter < 50:
     # URL of the page to be scraped
     url = 'https://www.ure.es/examenes/electricidad-y-radioelectricidad/'
     text = requests.get(url).text
@@ -17,12 +20,32 @@ while thirtyCounter < 10:
     questions = soup.find_all('div', class_="quiz-question")
     foundCount = 0
     for question in questions:
+        imagQ = question.find_all('div', class_="quiz-question-image-holder")
+        imagA = question.find_all('div', class_="quiz-question-answer-image-holder")
         q = question.find_all('div', class_="quiz-question-title")[0].text
         q = q.replace('"', "'").replace('\n', '').replace('\r', '').replace('\t', '').replace("                ", "").replace("            ", "")
 
         found = False
         for que in fcc_data:
             if que['question'] == q:
+                if ('questionImage' not in que) or (que['questionImage'] == ''):
+                    if len(imagQ) > 0:
+                        date = datetime.now().timestamp()
+                        path = f'imagesElectricidad/{date}.png'
+                        with open(f'./{path}', 'wb') as handler:
+                            img_data = requests.get(imagQ[0].find_all('img')[0]['data-src']).content
+                            handler.write(img_data)
+                        que['questionImage'] = f'{giturl}/{path}'
+                if ('answerImage' not in que) or (len(que['answerImage']) == 0):
+                    if len(imagA) > 0:
+                        que['answerImage'] = []
+                        for i in range(len(imagA)):
+                            date = datetime.now().timestamp()
+                            path = f'imagesElectricidad/{date}.png'
+                            with open(f'./{path}', 'wb') as handler:
+                                img_data = requests.get(imagA[i].find_all('img')[0]['data-src']).content
+                                handler.write(img_data)
+                            que['answerImage'].append(f'{giturl}/{path}')
                 found = True
                 foundCount += 1
                 break
@@ -72,7 +95,7 @@ with open('questionsNormativa.json', 'r') as fcc_file:
 
 thirtyCounter = 0
 #file = open('questions.json', 'w')
-while thirtyCounter < 10:
+while thirtyCounter < 50:
     # URL of the page to be scraped
     url = 'https://www.ure.es/examenes/reglamentacion/'
     text = requests.get(url).text
@@ -86,6 +109,22 @@ while thirtyCounter < 10:
         found = False
         for que in fcc_data:
             if que['question'] == q:
+                if len(imagQ) > 0:
+                    date = datetime.now().timestamp()
+                    path = f'imagesNormativa/{date}.png'
+                    with open(f'./{path}', 'wb') as handler:
+                        img_data = requests.get(imagQ[0].find_all('img')[0]['data-src']).content
+                        handler.write(img_data)
+                    que['questionImage'] = f'{giturl}/{path}'
+                if len(imagA) > 0:
+                    que['answerImage'] = []
+                    for i in range(len(imagA)):
+                        date = datetime.now().timestamp()
+                        path = f'imagesNormativa/{date}.png'
+                        with open(f'./{path}', 'wb') as handler:
+                            img_data = requests.get(imagA[i].find_all('img')[0]['data-src']).content
+                            handler.write(img_data)
+                        que['answerImage'].append(f'{giturl}/{path}')
                 found = True
                 foundCount += 1
                 break
