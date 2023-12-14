@@ -11,7 +11,7 @@ with open('questionsElectricidad.json', 'r') as fcc_file:
 
 thirtyCounter = 0
 #file = open('questions.json', 'w')
-while thirtyCounter < 50:
+while thirtyCounter < 25:
     # URL of the page to be scraped
     url = 'https://www.ure.es/examenes/electricidad-y-radioelectricidad/'
     text = requests.get(url).text
@@ -115,7 +115,7 @@ with open('questionsNormativa.json', 'r') as fcc_file:
 
 thirtyCounter = 0
 #file = open('questions.json', 'w')
-while thirtyCounter < 50:
+while thirtyCounter < 25:
     # URL of the page to be scraped
     url = 'https://www.ure.es/examenes/reglamentacion/'
     text = requests.get(url).text
