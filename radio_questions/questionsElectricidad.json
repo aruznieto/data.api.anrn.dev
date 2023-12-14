@@ -148,7 +148,7 @@
             "Puente se resonancia",
             "Capacímetro"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "De la batería de un portátil, donde figure la siguiente inscripción  'DC 7.4 v - 1500 mAh', se puede afirmar que podrá proporcionar:",
@@ -310,7 +310,7 @@
             "No existe",
             "Suele valer 13 dB"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "El siguiente diagrama de radiación corresponde a una antena tipo:",
@@ -431,7 +431,7 @@
             "Ajustar el nivel del silenciador",
             "Mantener constante el valor de la frecuencia intermedia"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "La anchura de banda necesaria de un transmisor:",
@@ -757,7 +757,7 @@
             "Limitar la señal recibida",
             "Amplificar la señal recibida"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "En que bandas de frecuencia predomina el modo de propagación por onda ionosférica:",
@@ -978,7 +978,7 @@
             "Banda lateral única",
             "Fase por portadora"
         ],
-        "correct": -1,
+        "correct": 1,
         "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545639.248689.png"
     },
     {
@@ -1279,7 +1279,7 @@
             "Onda ionosférica",
             "Onda reflejada"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Cuando una instalación de radioaficionado afecta o interfiere a una ICT (Infraestructura Común de Telecomunicaciones):",
@@ -1491,14 +1491,14 @@
         "questionImage": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions/imagesElectricidad/1702545642.822452.png"
     },
     {
-        "question": "Un termistor  PTC es aquel que:",
+        "question": "Un termistor PTC es aquel que:",
         "answers": [
             "Su resistencia está en función de la corriente que la atraviesa",
             "Su valor aumenta con la temperatura",
             "Se usa como estabilizadora de corriente",
             "Su valor disminuye al aumentar la temperatura"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Una antena en trasmisión, ¿se puede tocar con las manos?:",
@@ -1508,7 +1508,7 @@
             "Sí, para aumentar su potencia",
             "Sólo cuando el suelo este lo suficientemente seco"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "La unidad dBm corresponde a la magnitud:",
@@ -1704,7 +1704,7 @@
             "f1 + f2",
             "(f1 - f 2) ∕ (f1 +f2)"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "En relación con las baterías es correcto afirmar que:",
@@ -1820,7 +1820,7 @@
             "LF",
             "VHF"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "¿Qué bandas de frecuencia son más idóneas para conseguir una comunicación mediante “rebote lunar”?:",
@@ -2220,7 +2220,7 @@
             "Mide la relación entre la señal incidente en la antena y la reflejada por ésta",
             "No existe"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "El siguiente circuito eléctrico podría emplearse:",
@@ -2354,7 +2354,7 @@
             "Cable paralelo",
             "Hilo de cobre desnudo"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "El filtro de salida de un transmisor:",
@@ -2562,7 +2562,7 @@
             "En el plano horizontal",
             "Hacia tierra"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Como medida de protección y seguridad toda estación radioeléctrica debe disponer de:",
@@ -2582,7 +2582,7 @@
             "Depende únicamente del micrófono y del altavoz",
             "Es independiente de la frecuencia"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "El valor de la resistencia total resultante de asociar varias resistencias en serie:",
