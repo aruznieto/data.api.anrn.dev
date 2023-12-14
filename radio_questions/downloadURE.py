@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import requests
 import json
 from datetime import datetime
+import base64
 
 giturl = 'https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/main/radio_questions'
 
@@ -18,8 +19,23 @@ while thirtyCounter < 50:
     text = requests.get(url).text
     soup = BeautifulSoup(text, 'html.parser')
     questions = soup.find_all('div', class_="quiz-question")
+    data = json.loads(soup.find_all('script', type="text/javascript", id="ari-quiz-js-extra")[0].text.split("= ")[1].split(";")[0])['data']
+    data = base64.b64decode(data)
+    results = json.loads(data)['pages'][0]['questions']
+    respuestasCorrectas = []
+    for question_id, question_info in results.items():
+        correct_answer_index = None
+        for index, (answer_id, answer_info) in enumerate(question_info['answers'].items()):
+            if answer_info['correct']:
+                correct_answer_index = index
+                respuestasCorrectas.append({
+                    "question_id": question_id,
+                    "answer_id": correct_answer_index
+                })
+                break
     foundCount = 0
     for question in questions:
+        id = question['data-question-id']
         imagQ = question.find_all('div', class_="quiz-question-image-holder")
         imagA = question.find_all('div', class_="quiz-question-answer-image-holder")
         q = question.find_all('div', class_="quiz-question-title")[0].text
@@ -28,6 +44,11 @@ while thirtyCounter < 50:
         found = False
         for que in fcc_data:
             if que['question'] == q:
+                for respuesta in respuestasCorrectas:
+                    if respuesta['question_id'] == question_id:
+                        #print(f'{que["question"]} setted to {respuesta["answer_id"]}')
+                        que['correct'] = respuesta['answer_id']
+                        break
                 if ('questionImage' not in que) or (que['questionImage'] == ''):
                     if len(imagQ) > 0:
                         date = datetime.now().timestamp()
@@ -101,30 +122,52 @@ while thirtyCounter < 50:
     text = requests.get(url).text
     soup = BeautifulSoup(text, 'html.parser')
     questions = soup.find_all('div', class_="quiz-question")
+    data = json.loads(soup.find_all('script', type="text/javascript", id="ari-quiz-js-extra")[0].text.split("= ")[1].split(";")[0])['data']
+    data = base64.b64decode(data)
+    results = json.loads(data)['pages'][0]['questions']
+    respuestasCorrectas = []
+    for question_id, question_info in results.items():
+        correct_answer_index = None
+        for index, (answer_id, answer_info) in enumerate(question_info['answers'].items()):
+            if answer_info['correct']:
+                correct_answer_index = index
+                respuestasCorrectas.append({
+                    "question_id": question_id,
+                    "answer_id": correct_answer_index
+                })
+                break
     foundCount = 0
     for question in questions:
         q = question.find_all('div', class_="quiz-question-title")[0].text
         q = q.replace('"', "'").replace('\n', '').replace('\r', '').replace('\t', '').replace("                ", "").replace("            ", "")
-
+        imagQ = question.find_all('div', class_="quiz-question-image-holder")
+        imagA = question.find_all('div', class_="quiz-question-answer-image-holder")
         found = False
         for que in fcc_data:
             if que['question'] == q:
-                if len(imagQ) > 0:
-                    date = datetime.now().timestamp()
-                    path = f'imagesNormativa/{date}.png'
-                    with open(f'./{path}', 'wb') as handler:
-                        img_data = requests.get(imagQ[0].find_all('img')[0]['data-src']).content
-                        handler.write(img_data)
-                    que['questionImage'] = f'{giturl}/{path}'
-                if len(imagA) > 0:
-                    que['answerImage'] = []
-                    for i in range(len(imagA)):
+                for respuesta in respuestasCorrectas:
+                    if respuesta['question_id'] == question_id:
+                        #print(f'{que["question"]} setted to {respuesta["answer_id"]}')
+                        que['correct'] = respuesta['answer_id']
+                        break
+                if ('questionImage' not in que) or (que['questionImage'] == ''):
+                    if len(imagQ) > 0:
                         date = datetime.now().timestamp()
                         path = f'imagesNormativa/{date}.png'
                         with open(f'./{path}', 'wb') as handler:
-                            img_data = requests.get(imagA[i].find_all('img')[0]['data-src']).content
+                            img_data = requests.get(imagQ[0].find_all('img')[0]['data-src']).content
                             handler.write(img_data)
-                        que['answerImage'].append(f'{giturl}/{path}')
+                        que['questionImage'] = f'{giturl}/{path}'
+                if ('answerImage' not in que) or (len(que['answerImage']) == 0):
+                    if len(imagA) > 0:
+                        que['answerImage'] = []
+                        for i in range(len(imagA)):
+                            date = datetime.now().timestamp()
+                            path = f'imagesNormativa/{date}.png'
+                            with open(f'./{path}', 'wb') as handler:
+                                img_data = requests.get(imagA[i].find_all('img')[0]['data-src']).content
+                                handler.write(img_data)
+                            que['answerImage'].append(f'{giturl}/{path}')
                 found = True
                 foundCount += 1
                 break
