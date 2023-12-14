@@ -2473,7 +2473,7 @@
   {
     "question": "La señal QRA tiene el significado de:",
     "answers": [
-      "¿Cuál es el nombre de su estacion?",
+      "¿Cuál es el nombre de su estación?",
       "¿A qué distancia está usted?",
       "Su frecuencia exacta es ...",
       "Su frecuencia si varía"
@@ -2493,7 +2493,7 @@
   {
     "question": "La señal QRG tiene el significado de:",
     "answers": [
-      "Su frecuencia exacta es ...",
+      "¿Quiere decirme cual es mi frecuencia exacta o la de...?. Su frecuencia exacta o la de..., es ...KHz.",
       "Su frecuencia si varía",
       "El tono de su transmisión es ...",
       "No puedo recibirlo. Señales débiles"
@@ -2503,7 +2503,7 @@
   {
     "question": "La señal QRH tiene el significado de:",
     "answers": [
-      "Su frecuencia si varía",
+      "¿Varía mi frecuencia?. Su frecuencia si varía.",
       "El tono de su transmisión es ...",
       "No puedo recibirlo. Señales débiles",
       "Calidad de la señal"
@@ -2513,7 +2513,7 @@
   {
     "question": "La señal QRI tiene el significado de:",
     "answers": [
-      "El tono de su transmisión es ...",
+      "¿Cuál es el tono de mi transmisión?. El tono de su transmisión es 1 bueno, 2 variable, 3 malo.",
       "No puedo recibirlo. Señales débiles",
       "Calidad de la señal",
       "Haga el favor de no interferir"
@@ -2523,7 +2523,7 @@
   {
     "question": "La señal QRJ tiene el significado de:",
     "answers": [
-      "No puedo recibirlo. Señales débiles",
+      "¿Está usted recibiéndome mal?. ¿Son mis señales débiles?. No puedo recibirlo. Sus señales son demasiado débiles.",
       "Calidad de la señal",
       "Haga el favor de no interferir",
       "Si estoy interferido"
@@ -2533,7 +2533,7 @@
   {
     "question": "La señal QRK tiene el significado de:",
     "answers": [
-      "Calidad de la señal",
+      "¿Cuál es la inteligibilidad de mis señales?. 1 mala, 2 pobre, 3 regular, 4 buena, 5 excelente.",
       "Haga el favor de no interferir",
       "Si estoy interferido",
       "Sí, me molestan los atmosféricos ..."
@@ -2543,7 +2543,7 @@
   {
     "question": "La señal QRL tiene el significado de:",
     "answers": [
-      "Haga el favor de no interferir",
+      "¿Está usted ocupado? Si estoy ocupado. Haga el favor de no interferir.",
       "Si estoy interferido",
       "Sí, me molestan los atmosféricos ...",
       "Aumente la potencia X vatios"
@@ -2553,7 +2553,7 @@
   {
     "question": "La señal QRM tiene el significado de:",
     "answers": [
-      "Si estoy interferido",
+      "¿Está usted interferido?. Si estoy interferido, 1 nada, 2 apenas, 3 moderadamente, 4 severamente, 5 extremadamente.",
       "Sí, me molestan los atmosféricos ...",
       "Aumente la potencia X vatios",
       "Disminuya la potencia X vatios"
@@ -2563,7 +2563,7 @@
   {
     "question": "La señal QRN tiene el significado de:",
     "answers": [
-      "Sí, me molestan los atmosféricos ...",
+      "¿Le molestan los atmosféricos?. Sí, 1 nada, 2 apenas, 3 moderadamente, 4 severamente, 5 extremadamente.",
       "Aumente la potencia X vatios",
       "Disminuya la potencia X vatios",
       "Transmita más rapido"
@@ -2573,7 +2573,7 @@
   {
     "question": "La señal QRO tiene el significado de:",
     "answers": [
-      "Aumente la potencia X vatios",
+      "¿Debo aumentar mi potencia?. Sí, aumente la potencia en ... vatios.",
       "Disminuya la potencia X vatios",
       "Transmita más rapido",
       "Transmita más lento"
@@ -2583,7 +2583,7 @@
   {
     "question": "La señal QRP tiene el significado de:",
     "answers": [
-      "Disminuya la potencia X vatios",
+      "¿Debo disminuir mi potencia?. Disminuya la potencia en ... vatios.",
       "Transmita más rapido",
       "Transmita más lento",
       "Deje de transmitir"
@@ -2593,8 +2593,8 @@
   {
     "question": "La señal QRQ tiene el significado de:",
     "answers": [
-      "Transmita más rapido",
-      "Transmita más lento",
+      "¿Debo transmitir más rápido?. Transmita más rápido.",
+      "¿Debo transmitir más lento?. Trasmita más lento.",
       "Deje de transmitir",
       "No tengo nada para usted"
     ],
@@ -2603,7 +2603,7 @@
   {
     "question": "La señal QRS tiene el significado de:",
     "answers": [
-      "Transmita más lento",
+      "¿Debo transmitir más lento?. Trasmita más lento.",
       "Deje de transmitir",
       "No tengo nada para usted",
       "Estoy listo"
@@ -2613,7 +2613,7 @@
   {
     "question": "La señal QRU tiene el significado de:",
     "answers": [
-      "No tengo nada para usted",
+      "¿Tiene algo para mi?. No tengo nada para usted.",
       "Estoy listo",
       "Debo decir a: ... que usted lo está llamando en ...kHz",
       "Le llamará a las ..., en ... kHz"
@@ -2623,7 +2623,7 @@
   {
     "question": "La señal QRV tiene el significado de:",
     "answers": [
-      "Estoy listo",
+      "¿Está usted listo?. Estoy listo.",
       "Debo decir a: ... que usted lo está llamando en ...kHz",
       "Le llamará a las ..., en ... kHz",
       "Su turno es Nº..."
@@ -2633,7 +2633,7 @@
   {
     "question": "La señal QRW tiene el significado de:",
     "answers": [
-      "Debo decir a: ... que usted lo está llamando en ...kHz",
+      "¿Debo decir a: ... , que usted lo está llamando en ... KHz. Sírvase informar que lo estoy llamando.",
       "Le llamará a las ..., en ... kHz",
       "Su turno es Nº...",
       "¿Cuál es el nombre de su estacion?"
@@ -2643,7 +2643,7 @@
   {
     "question": "La señal QRX tiene el significado de:",
     "answers": [
-      "Le llamará a las ..., en ... kHz",
+      "¿Cuándo me llamará de nuevo?. Le llamará a las ... , en ... KHz.",
       "Su turno es Nº...",
       "¿Cuál es el nombre de su estacion?",
       "¿A qué distancia está usted de mi estación?"
@@ -2653,10 +2653,240 @@
   {
     "question": "La señal QRY tiene el significado de:",
     "answers": [
-      "Su turno es Nº...",
+      "¿Cuál es mi turno? Su turno es Nº...",
       "¿Cuál es el nombre de su estacion?",
       "¿A qué distancia está usted de mi estación?",
       "Su frecuencia exacta es ..."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QRZ tiene el significado de:",
+    "answers": [
+      "¿Quién me llama?. Usted está siendo llamado.",
+      "¿Intensidad de mis señales?",
+      "¿Mi señal tiene fading?",
+      "¿Es mi manipulación defectuosa?"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QSA tiene el significado de:",
+    "answers": [
+      "¿Cuál es la intensidad de mis señales?. 1 apenas perceptible, 2 débiles, 3 bastante buena, 4 buena, 5 muy buena.",
+      "¿Mi señal tiene fading?",
+      "¿Es mi manipulación defectuosa?",
+      "¿Debo transmitir mensajes a la vez?"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QSB tiene el significado de:",
+    "answers": [
+      "¿Mi señal tiene fading?. Su señal tiene fading.",
+      "¿Es mi manipulación defectuosa?",
+      "¿Debo transmitir mensajes a la vez?",
+      "¿Puede escucharme entre sus señales?"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QSD tiene el significado de:",
+    "answers": [
+      "¿Es mi manipulación defectuosa?",
+      "¿Debo transmitir mensajes a la vez?",
+      "¿Puede escucharme entre sus señales?",
+      "¿Puede usted acusar recibo?"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QSG tiene el significado de:",
+    "answers": [
+      "¿Debo transmitir mensajes a la vez?",
+      "¿Puede escucharme entre sus señales?",
+      "¿Puede usted acusar recibo?",
+      "¿Debo repetir el mensaje?"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QSK tiene el significado de:",
+    "answers": [
+      "¿Puede escucharme entre sus señales?. Y si es así, puedo interrumpir su transmisión?. Puedo escucharlo interrumpa mi trasmisión.",
+      "¿Puede usted acusar recibo?",
+      "¿Debo repetir el mensaje?",
+      "¿Me ha escuchado?"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QSL tiene el significado de:",
+    "answers": [
+      "¿Puede usted acusar recibo?. Acuso recibo.",
+      "¿Debo repetir el mensaje?",
+      "¿Me ha escuchado?",
+      "¿Puede usted comunicarme con ...?"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QSM tiene el significado de:",
+    "answers": [
+      "¿Debo repetir el mensaje que le he transmitido o algún mensaje anterior?. Repita el último mensaje.",
+      "¿Me ha escuchado?",
+      "¿Puede usted comunicarme con ...?",
+      "¿Quiere transmitir a ...?"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QSN tiene el significado de:",
+    "answers": [
+      "¿Me ha escuchado?. Lo escuché a usted.",
+      "¿Puede usted comunicarme con ...?",
+      "¿Quiere transmitir a ...?",
+      "Debo transmitir o responder en esa frecuencia. Transmita o responda en ... kHz"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QSO tiene el significado de:",
+    "answers": [
+      "¿Puede usted comunicarme con ...?",
+      "¿Quiere transmitir a ...?",
+      "Debo transmitir o responder en esa frecuencia. Transmita o responda en ... kHz",
+      "¿Quiere usted transmitir en esta frecuencia?. Voy a transmitir en esta frecuencia."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QSP tiene el significado de:",
+    "answers": [
+      "¿Quiere retransmitir a …?. Retransmitiré a …",
+      "Debo transmitir o responder en esa frecuencia. Transmita o responda en ... kHz",
+      "¿Quiere usted transmitir en esta frecuencia?. Voy a transmitir en esta frecuencia.",
+      "¿Quiere escuchar a: ..., en ...Kc, estoyescuchando a:... en ...KHz."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QSU tiene el significado de:",
+    "answers": [
+      "Debo transmitir o responder en esa frecuencia. Transmita o responda en ... kHz",
+      "¿Quiere usted transmitir en esta frecuencia?. Voy a transmitir en esta frecuencia.",
+      "¿Quiere escuchar a: ..., en ...Kc, estoyescuchando a:... en ...KHz.",
+      "¿Debo pasar a transmitir en otra frecuencia?."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QSV tiene el significado de:",
+    "answers": [
+      "¿Debo transmitir una serie de Vs en esta frecuencia, o en ...KHz. Transmita en esta frecuencia.",
+      "¿Quiere usted transmitir en esta frecuencia?. Voy a transmitir en esta frecuencia.",
+      "¿Quiere escuchar a: ..., en ...Kc, estoyescuchando a:... en ...KHz.",
+      "¿Debo pasar a transmitir en otra frecuencia?."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QSW tiene el significado de:",
+    "answers": [
+      "¿Quiere usted transmitir en esta frecuencia?. Voy a transmitir en esta frecuencia.",
+      "¿Quiere escuchar a: ..., en ...Kc, estoyescuchando a:... en ...KHz.",
+      "¿Debo pasar a transmitir en otra frecuencia?.",
+      "¿Debo trasmitir cada palabra o grupo de palabras más de una vez. Repita cada palabra dos veces"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QSX tiene el significado de:",
+    "answers": [
+      "¿Quiere escuchar a: ..., en ...Kc, estoyescuchando a:... en ...KHz.",
+      "¿Debo pasar a transmitir en otra frecuencia?.",
+      "¿Debo trasmitir cada palabra o grupo de palabras más de una vez. Repita cada palabra dos veces",
+      "¿Debo cancelar el mensaje número ..., como si no se hubiera trasmitido?."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QSY tiene el significado de:",
+    "answers": [
+      "¿Debo pasar a transmitir en otra frecuencia?.",
+      "¿Debo trasmitir cada palabra o grupo de palabras más de una vez. Repita cada palabra dos veces",
+      "¿Debo cancelar el mensaje número ..., como si no se hubiera trasmitido?.",
+      "¿Está de acuerdo con mi cuenta de palabras?. No estoy de acuerdo. Repetiré la primera letra o dígito de cada palabra o grupo."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QSZ tiene el significado de:",
+    "answers": [
+      "¿Debo trasmitir cada palabra o grupo de palabras más de una vez. Repita cada palabra dos veces",
+      "¿Debo cancelar el mensaje número ..., como si no se hubiera trasmitido?.",
+      "¿Está de acuerdo con mi cuenta de palabras?. No estoy de acuerdo. Repetiré la primera letra o dígito de cada palabra o grupo.",
+      "¿Tengo mensajes para usted por trasmitirle?. Desea recibirlos…"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QTA tiene el significado de:",
+    "answers": [
+      "¿Debo cancelar el mensaje número ..., como si no se hubiera trasmitido?.",
+      "¿Está de acuerdo con mi cuenta de palabras?. No estoy de acuerdo. Repetiré la primera letra o dígito de cada palabra o grupo.",
+      "¿Tengo mensajes para usted por trasmitirle?. Desea recibirlos…",
+      "¿Cuál es su ubicación?."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QTB tiene el significado de:",
+    "answers": [
+      "¿Está de acuerdo con mi cuenta de palabras?. No estoy de acuerdo. Repetiré la primera letra o dígito de cada palabra o grupo.",
+      "¿Tengo mensajes para usted por trasmitirle?. Desea recibirlos...",
+      "¿Cuál es su ubicación?.",
+      "¿Cuál es la hora exacta?."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QTC tiene el significado de:",
+    "answers": [
+      "¿Tengo mensajes para usted por trasmitirle?. Desea recibirlos...",
+      "¿Cuál es su ubicación?.",
+      "¿Cuál es la hora exacta?.",
+      "¿Tiene usted novedades de:...?."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QTH tiene el significado de:",
+    "answers": [
+      "¿Cuál es su ubicación?.",
+      "¿Cuál es la hora exacta?.",
+      "¿Tiene usted novedades de:...?.",
+      "¿Debo cancelar el mensaje número ..., como si no se hubiera trasmitido?."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QTR tiene el significado de:",
+    "answers": [
+      "¿Cuál es la hora exacta?.",
+      "¿Tiene usted novedades de:...?.",
+      "¿Debo cancelar el mensaje número ..., como si no se hubiera trasmitido?.",
+      "¿Está de acuerdo con mi cuenta de palabras?. No estoy de acuerdo. Repetiré la primera letra o dígito de cada palabra o grupo."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La señal QUA tiene el significado de:",
+    "answers": [
+      "¿Tiene usted novedades de:...?.",
+      "¿Debo cancelar el mensaje número ..., como si no se hubiera trasmitido?.",
+      "¿Está de acuerdo con mi cuenta de palabras?. No estoy de acuerdo. Repetiré la primera letra o dígito de cada palabra o grupo.",
+      "¿Tengo mensajes para usted por trasmitirle?. Desea recibirlos..."
     ],
     "correct": 0
   }
