@@ -317,7 +317,7 @@
             "Directiva",
             "Isotrópica"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Cuando se conectan condensadores en paralelo, la capacidad resultante del conjunto es:",
@@ -357,7 +357,7 @@
             "Una resistencia cuyo valor se mantiene constante a medida que la temperatura aumenta",
             "Una resistencia cuyo valor se mantiene constante a medida que la temperatura disminuye"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "Los transmisores de VHF en radioafición se utilizan normalmente:",
@@ -747,7 +747,7 @@
             "UHF",
             "LF"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "En el siguiente esquema de un transmisor de banda lateral única, ¿qué circuito incluiría en el cuadro con interrogantes al objeto de evitar la generación de interferencias?:",
@@ -1077,7 +1077,7 @@
             "La intensidad de la señal de entrada del receptor",
             "El consumo de potencia de alimentación"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "Señale el circuito eléctrico equivalente de una antena en resonancia:",
@@ -1187,7 +1187,7 @@
             "Un analizador del espectro radioeléctrico",
             "Un frecuencímetro"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Las interferencias son más frecuentes empleando:",
@@ -1437,7 +1437,7 @@
             "En paralelo",
             "Nunca podrá conectarse una resistencia en SHUNT"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "En el siguiente esquema de un receptor, ¿que circuito incluiría en el cuadro con interrogantes al objeto de obtener un nivel de audio constante en el altavoz, independientemente del nivel de señal en antena?:",
@@ -1487,7 +1487,7 @@
             "Sí, menor que 30 dBm",
             "Sólo cuando hay interferencias"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "¿Qué expresión es la correcta para indicar la “Capacidad resultante” (C), en el siguiente circuito?:",
@@ -1717,7 +1717,7 @@
             "La intensidad está en razón directa a la tensión",
             "La capacidad del circuito disminuye"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "En un equipo transmisor con modulación de frecuencia (FM) la desviación máxima de frecuencia es  25 kHz y la frecuencia moduladora es 10 kHz. ¿Cuál es el valor del “índice de modulación” del equipo?:",
@@ -1757,7 +1757,7 @@
             "Atenúa en un factor de dos la potencia de entrada",
             "Duplica la potencia que se le entrega"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "De las siguientes bandas de frecuencias la más adecuada para comunicaciones por satélite se corresponde con:",
@@ -1847,7 +1847,7 @@
             "Igual",
             "Nula"
         ],
-        "correct": -1
+        "correct": 0
     },
     {
         "question": "La unidad de medida de intensidad eléctrica es el:",
@@ -1957,7 +1957,7 @@
             "Acoplador de antena",
             "Atenuador"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "¿Qué indica el factor de calidad 'Q' de un circuito resonante?:",
@@ -2077,7 +2077,7 @@
             "El acoplador de antena",
             "Filtro de línea de desacoplo"
         ],
-        "correct": -1
+        "correct": 3
     },
     {
         "question": "El período de una corriente alterna es:",
@@ -2227,7 +2227,7 @@
             "Fuente, base y emisor",
             "Emisor, colector y puerta"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "En relación con los fusibles eléctricos de protección, es correcto afirmar que:",
@@ -2237,7 +2237,7 @@
             "Deben tener un  valor nominal inferior al consumo máximo previsto para el equipo",
             "Solo se deben instalar los de tipo semiconductor"
         ],
-        "correct": -1
+        "correct": 1
     },
     {
         "question": "Dados dos receptores, A y B, con las siguientes curvas de respuesta en amplitud para cada uno de ellos, a una Frecuencia Intermedia de 455 kHz, se puede afirmar que:",
@@ -2437,7 +2437,7 @@
             "Evitar emisiones interferentes alrededor de la frecuencia de trabajo",
             "Trasmitir modos digitales utilizando el conector de micrófono de la emisora"
         ],
-        "correct": -1
+        "correct": 2
     },
     {
         "question": "La característica de un receptor conocida como CAG significa",
