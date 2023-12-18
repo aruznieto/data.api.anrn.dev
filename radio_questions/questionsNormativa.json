@@ -257,7 +257,7 @@
             "La emisión de señales de identificación falsas o engañosas",
             "La interceptación, sin autorización, de telecomunicaciones no destinadas al público en general"
         ],
-        "correct": 2
+        "correct": 0
     },
     {
         "question": "Los planes de banda de la IARU en las diferentes Regiones geográficas definidas por la Unión Internacional de Telecomunicaciones (UIT):",
@@ -1838,7 +1838,7 @@
             "Las comunicaciones por radio entre radioaficionados de diferentes países se utilizarán únicamente en casos de emergencia o desastre",
             "La potencia máxima de las estaciones de aficionado será fijada por la Unión Internacional de Telecomunicaciones (UIT)"
         ],
-        "correct": 2
+        "correct": 0
     },
     {
         "question": "La Ley General de Telecomunicaciones tipifica como infracción muy grave:",
