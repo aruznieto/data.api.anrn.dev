@@ -307,7 +307,7 @@
             "Son un instrumento básico para regular el uso de las bandas de frecuencias",
             "No tienen en cuenta la atribución de bandas del Reglamento de Radiocomunicaciones de la UIT"
         ],
-        "correct": 2
+        "correct": 1
     },
     {
         "question": "Entre las abreviaturas más usuales en las comunicaciones de radioaficionados se encuentra RPT que significa:",
@@ -567,7 +567,7 @@
             "Nunca se expedirá conjuntamente con el diploma de operador",
             "Permite obtener autorización  de radioaficionado en cualquier país que aplique la recomendación CPT-TR-61-02"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
         "question": "¿Definiría 'estación automática desatendida' como?:",
