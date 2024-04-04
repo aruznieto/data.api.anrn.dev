@@ -1,0 +1,469 @@
+[
+    {
+        "title": "La Pelicula",
+        "empresa": "The Lock Room",
+        "location": "Valencia, Valencia, España",
+        "tiempo_maximo": 80,
+        "tiempo_consumido": 73,
+        "summary": "Estáis entre los elegidos para disfrutar del preestreno mundial de «La Película». Un pase íntimo, únicamente para vosotros, donde disfrutar de esta nueva experiencia.",
+        "url": "https://thelockroom.com/la-pelicula/",
+        "logo": "the-lock-room",
+        "date": "Nov 19 2021",
+        "stars": 4.5,
+        "tags": [
+            "Miedo"
+        ],
+        "dificultad": 2
+    },
+    {
+        "title": "Atraco al Compadre",
+        "empresa": "Star Play",
+        "location": "Alcantarilla, Murcia, España",
+        "tiempo_maximo": 120,
+        "tiempo_consumido": 112,
+        "image": true,
+        "summary": "«Al Frijole» es un legendario ladrón de Latinoamérica, famoso por sus habilidades astutas y robos audaces. Ahora está reclutando a los mejores ladrones, personas rápidas, inteligentes, ingeniosas y valientes que se unan a su equipo para llevar a cabo el atraco más importante de su carrera criminal: el banco CDM DIRECT, propiedad de «El Compadre», el empresario más temido de México. Este blindado edificio alberga las grandes fortunas del país y es considerado el más seguro de México. La recompensa es estratosférica y la amenaza está a la altura. ¿Te atreves a arriesgar tu libertad para conseguir el mayor botín jamás robado?",
+        "url": "https://startplay.es/escape-room-en-murcia/",
+        "logo": "atraco-al-compadre",
+        "date": "Mar 29 2024",
+        "stars": 4.5,
+        "tags": [
+            "Tensión"
+        ],
+        "inmersion": 100,
+        "miedo": 10,
+        "ambientacion": 97,
+        "dificultad": 2
+    },
+    {
+        "title": "KM 18",
+        "empresa": "Secret Hunter",
+        "location": "Alcantarilla, Murcia, España",
+        "tiempo_maximo": 70,
+        "tiempo_consumido": 63,
+        "summary": "Un finde con viejos amigos, todo apunta a que será una escapada perfecta, pero una parada en el camino lo cambia todo. Vuestro amigo Marcos ha desaparecido. Tenéis que entrar a por él.",
+        "url": "https://secrethunter.es/km18/",
+        "logo": "secret-hunter",
+        "date": "Apr 02 2022",
+        "stars": 4.5,
+        "tags": [
+            "Tensión",
+            "Aventura"
+        ],
+        "dificultad": 2
+    },
+    {
+        "title": "Nautilus",
+        "empresa": "Carthago",
+        "location": "Cartagena, Murcia, España",
+        "tiempo_maximo": 60,
+        "tiempo_consumido": 45,
+        "summary": "Una experiencia única, de la cual conoces el inicio, pero el desenlace queda en tus manos..",
+        "url": "https://carthagoescaperoom.es",
+        "logo": "carthago",
+        "date": "Apr 20 2019",
+        "stars": 1,
+        "tags": [
+            "Aventura"
+        ],
+        "dificultad": 2
+    },
+    {
+        "title": "The Exam",
+        "empresa": "Abduction",
+        "location": "Murcia, Murcia, España",
+        "tiempo_maximo": 60,
+        "tiempo_consumido": 56,
+        "summary": "Bienvenidos a The exam, un test real creado por Abduction que os pondrá a prueba física y mentalmente..",
+        "url": "https://www.abduction.es/murcia/abduction3",
+        "logo": "the-exam",
+        "date": "Jun 08 2022",
+        "stars": 4.5,
+        "tags": [
+            "Misterio"
+        ],
+        "dificultad": 2
+    },
+    {
+        "title": "La Trampa (Toy Story)",
+        "empresa": "Escape Play",
+        "location": "Murcia, Murcia, España",
+        "tiempo_maximo": 65,
+        "tiempo_consumido": 60,
+        "summary": "Entrarás en un apacible parque temático con una sorpresa en su interior en forma de escape room ¿Podrás transportarte a tu infancia y vivir una gran aventura? ¿Qué puede salir mal? Ven a nuestro parque, disfruta de nuestras instalaciones y entra en nuestro escape room temporal dentro del parque, te prometemos que te divertirás como un juguete en las manos de un niño",
+        "url": "https://www.escapeplay.es/escape-play-2/adultos/la-trampa/",
+        "logo": "escape-play",
+        "date": "Aug 06 2022",
+        "stars": 4,
+        "tags": [
+            "Aventura"
+        ],
+        "dificultad": 2
+    },
+    {
+        "title": "La beerdad oculta (Los Simpsons)",
+        "empresa": "Sabotaje Rooms",
+        "location": "Elche, Valencia, España",
+        "tiempo_maximo": 90,
+        "tiempo_consumido": 84,
+        "summary": "Sois un grupo de investigadores (la Mafia de Springfield) que utiliza medios poco ortodoxos para resolver vuestros encargos, en este caso, contratados por el Departamento de Policía del Condado de Springfield por vuestra especialidad en desapariciones de personas (en muchos casos porque sois vosotros quienes las hacéis desaparecer).",
+        "url": "https://sabotajerooms.com/beerdad-oculta/",
+        "logo": "sabotaje-rooms",
+        "date": "Sep 18 2022",
+        "stars": 4,
+        "tags": [
+            "Aventura"
+        ],
+        "dificultad": 2
+    },
+    {
+        "title": "Expedición maldita",
+        "empresa": "Mythos",
+        "location": "El Palmar, Murcia, España",
+        "tiempo_maximo": 75,
+        "tiempo_consumido": 70,
+        "summary": "¡Ha llegado la hora! Tantos años estudiando arqueología y, por fin, se presenta ante ti una oportunidad única.",
+        "url": "https://mythosmurcia.es",
+        "logo": "mythos",
+        "date": "Oct 16 2022",
+        "stars": 4,
+        "tags": [
+            "Aventura"
+        ],
+        "dificultad": 2
+    },
+    {
+        "title": "El secreto de Amelia",
+        "empresa": "Desafío del Lobo",
+        "location": "El Palmar, Murcia, España",
+        "tiempo_maximo": 60,
+        "tiempo_consumido": 56,
+        "summary": "Tengo un sueño que me atormenta. Me persigue cada noche. No recuerdo la primera vez que la vi, pero cada vez lo hace con más intensidad. Necesita ayuda y está perdiendo la paciencia ¿Por qué yo? ¿Qué quiere de mi? ¡No puedo mas! Necesito vuestra ayuda para descubrir que se oculta tras mi sueño. ¿Puedo contar con vosotros? Acompañadme. Os lo mostraré.",
+        "url": "https://eldesafiodellobo.com",
+        "logo": "desafio-del-lobo",
+        "date": "Oct 16 2022",
+        "stars": 4,
+        "tags": [
+            "Misterio"
+        ],
+        "dificultad": 3
+    },
+    {
+        "title": "La receta misteriosa",
+        "empresa": "Encriptado",
+        "location": "Patiño, Murcia, España",
+        "tiempo_maximo": 75,
+        "tiempo_consumido": 70,
+        "summary": "Un simple bar, sin aparentemente nada extraño. Trabajadores normales, comida corriente, trato cordial…. ¿o no? No todo es lo que parece. Eso es lo que quiere averiguar el investigador Fooding. Un bar siempre lleno de gente, atraídos por sus famosas hamburguesas, cuya receta es desconocida por todos. Pero no todo acaba ahí, sus cocineros también son desconocidos, ya que nadie les ha visto la cara.",
+        "url": "https://encriptadoescaperoom.es/el-juego/",
+        "logo": "encriptado",
+        "date": "Dec 08 2022",
+        "stars": 4,
+        "tags": [
+            "Misterio"
+        ],
+        "dificultad": 2
+    },
+    {
+        "title": "Sanatorium",
+        "empresa": "El origen",
+        "location": "Alicante, Alicante, España",
+        "tiempo_maximo": 75,
+        "tiempo_consumido": 70,
+        "summary": "Llegasteis tarde, el paciente 405 murió. Los experimentos de los doctores acabaron con su vida. Tenemos constancia de cuál fue El Origen de Sanatorium y ahora tenéis una última oportunidad de salvar el destino del paciente 405.",
+        "url": "https://www.sanatoriumescapealicante.com",
+        "logo": "sanatorium",
+        "date": "Mar 26 2023",
+        "stars": 4,
+        "tags": [
+            "Misterio",
+            "Tensión"
+        ],
+        "dificultad": 2
+    },
+    {
+        "title": "Yucatán: El último Templo",
+        "empresa": "Cocoroom",
+        "location": "Alicante, Alicante, España",
+        "tiempo_maximo": 75,
+        "tiempo_consumido": 70,
+        "summary": "Nadie ha conseguido desvelar su misterio, pero ahora, algo ha cambiado, un poder oculto se haya en su interior y si nadie ha sido capaz de encontrarlo, su poder podría cambiar el mundo tal y como lo conocemos. ¿Estáis preparados para la aventura?",
+        "url": "https://cocoroom.es/yucatan/",
+        "logo": "cocoroom",
+        "date": "Mar 26 2023",
+        "stars": 3.5,
+        "tags": [
+            "Aventura"
+        ],
+        "dificultad": 1
+    },
+    {
+        "title": "Perdidos en el Tiempo",
+        "empresa": "Matmurah",
+        "location": "Murcia, Murcia, España",
+        "tiempo_maximo": 75,
+        "tiempo_consumido": 70,
+        "summary": "Yo, Don Alfonso, por la gracia de Dios rey de Castilla y de León, ordeno el arresto de todos los caballeros de la orden que lleva mi nombre.",
+        "url": "https://perdidoseneltiempo.es",
+        "logo": "perdidos-en-el-tiempo",
+        "date": "Apr 23 2023",
+        "stars": 4,
+        "tags": [
+            "Aventura",
+            "Histórica"
+        ],
+        "dificultad": 3
+    },
+    {
+        "title": "El virus",
+        "empresa": "Enigmatic",
+        "location": "Murcia, Murcia, España",
+        "tiempo_maximo": 60,
+        "tiempo_consumido": 53,
+        "summary": "¡La crisis es inminente! Un virus mortal se propaga rápidamente, y el Dr. Luis Fuentes Ferrer, único poseedor de la cura, ha desaparecido. El CNI necesita 2-6 personas valientes para encontrarlo y salvar al país antes de que sea demasiado tarde. Elegidos por sus habilidades y personalidades únicas, trabajarán en equipo con la máxima confidencialidad y seguridad garantizada. ¡Sé un héroe y únete a la misión! Reserva ahora tu escape room y contribuye a la defensa de tu país. ¡El destino de la nación está en tus manos!",
+        "url": "https://enigmatic.es",
+        "logo": "enigmatic",
+        "date": "Apr 23 2023",
+        "stars": 4,
+        "tags": [
+            "Apocalíptico"
+        ],
+        "dificultad": 2
+    },
+    {
+        "title": "Ciudad de Halloween",
+        "empresa": "Carthago Escape",
+        "location": "Murcia, Murcia, España",
+        "tiempo_maximo": 76,
+        "tiempo_consumido": 73,
+        "summary": "En Ciudad Halloween os adentráis en una ciudad habitada por los más extraños personajes. El alcalde de la ciudad tiene una misión muy importante para vosotros. Debéis salvar la festividad de Halloween.",
+        "url": "hhttps://carthagoescaperoom.es/",
+        "logo": "carthago",
+        "date": "Oct 20 2022",
+        "stars": 4,
+        "tags": [
+            "Histórica"
+        ],
+        "dificultad": 1
+    },
+    {
+        "title": "Malibú",
+        "empresa": "Secret Hunter",
+        "location": "Alicante, Alicante, España",
+        "tiempo_maximo": 70,
+        "tiempo_consumido": 63,
+        "summary": "RIIIIINGGGG RIIIIINGGGGG!!!! Suena el despertador. ¿Pero qué sitio es este? ¿Dónde estoy? No recuerdas nada de la noche anterior. Bueno si…. que fue una noche muy divertida.",
+        "url": "https://secrethunter.es/malibu/",
+        "logo": "secret-hunter",
+        "date": "Aug 06 2023",
+        "stars": 4,
+        "tags": [
+            "Aventura"
+        ],
+        "dificultad": 2
+    },
+    {
+        "title": "Chernobyl",
+        "empresa": "Villa Indómita",
+        "location": "Alicante, Alicante, España",
+        "tiempo_maximo": 90,
+        "tiempo_consumido": 84,
+        "summary": "La empresa turística Visit Chernobyl nació en 2018 con un objetivo claro: llevar personas a visitar la ciudad fantasma de Pripyat, en Ucrania, y la traca final del viaje: la visita al Reactor 2 de Chernobyl, algo más pequeño que el que explotó en el accidente de 1986.​",
+        "url": "https://www.villaindomita.es/chernobyl",
+        "logo": "villa-indomita",
+        "date": "Aug 06 2023",
+        "stars": 4,
+        "tags": [
+            "Apocalíptico"
+        ],
+        "dificultad": 3
+    },
+    {
+        "title": "1000 cadaveres",
+        "empresa": "Mysterium",
+        "location": "Cartagena, Murcia, España",
+        "tiempo_maximo": 60,
+        "tiempo_consumido": 49,
+        "summary": "Hace tiempo conseguisteis escapar de las garras de El Carnicero, una criatura que se oculta en unas ruinas y se alimenta de carne humana. Sin embargo, nadie os creyó.​",
+        "url": "https://www.mysteriummurcia.es/cartagena-reservar/",
+        "logo": "mysterium",
+        "date": "Dec 05 2023",
+        "stars": 2,
+        "tags": [
+            "Miedo"
+        ],
+        "dificultad": 2
+    },
+    {
+        "title": "El Viaje y los tesoros de Kokulkan",
+        "empresa": "Spain In Game",
+        "location": "Alicante, Alicante, España",
+        "tiempo_maximo": 85,
+        "tiempo_consumido": 78,
+        "image": true,
+        "summary": "¡Por fin ha llegado la hora de viajar! Después de tanto tiempo encerrados podréis cumplir vuestro sueño de ir a México y visitar la Riviera Maya.​",
+        "url": "https://spainingame.com/room/el-viaje-y-los-tesoros-de-kokulkan/",
+        "logo": "spain-in-game",
+        "date": "Nov 01 2023",
+        "stars": 4.5,
+        "tags": [
+            "Aventura",
+            "Tensión"
+        ],
+        "dificultad": 3,
+        "inmersion": 90,
+        "miedo": 40,
+        "ambientacion": 95
+    },
+    {
+        "title": "Toilet",
+        "empresa": "Locus Fugae",
+        "location": "Alicante, Alicante, España",
+        "tiempo_maximo": 50,
+        "tiempo_consumido": 45,
+        "summary": "Lo sentimos… pero ha llegado uno de los momentos más temidos para muchos. ¡Os habéis quedado encerrados en un baño público! ¡ESCAPAD!​",
+        "url": "https://www.locusfugae.com/reservas-toilet-escape-room/",
+        "logo": "locus-fugae",
+        "date": "Oct 02 2020",
+        "stars": 4,
+        "tags": [
+            "Adultos"
+        ],
+        "dificultad": 2
+    },
+    {
+        "title": "Aislamiento",
+        "empresa": "The Code Escape",
+        "location": "Alicante, Alicante, España",
+        "tiempo_maximo": 60,
+        "tiempo_consumido": 57,
+        "summary": "Presos desde hace años y tras una mala conducta, seréis encerrados en la celda de aislamiento y tratados como individuos peligrosos. Los carceleros están hartos de vuestras tonterías y están especialmente cabreados.​",
+        "url": "https://www.thecodescape.es/reserva-aislamiento/",
+        "logo": "the-code",
+        "date": "Oct 15 2023",
+        "stars": 4,
+        "tags": [
+            "Criminal",
+            "Intenso",
+            "Adultos"
+        ],
+        "dificultad": 3
+    },
+    {
+        "title": "Candyland",
+        "empresa": "Sabotaje Rooms",
+        "location": "Alicante, Alicante, España",
+        "tiempo_maximo": 75,
+        "tiempo_consumido": 71,
+        "summary": "Todos soñamos con un lugar repleto de golosinas, caramelos y chocolatinas. Este es el Mundo de Candyland, pero algo terrible está sucediendo en este mismo momento. Candyland corre peligro, está perdiendo todo su esplendor. El villano Lord Regaliz, un ser ruin y malhumorado, ha saboteado los 4 mundos que lo componen, bloqueando los diversos suministros de dulces al Reino. Debido a esto, el maestro pastelero no puede seguir elaborando el postre real, por lo que el Rey Candy ha realizado un llamamiento para que los héroes más valientes salven el reino, deshaciendo los entuertos provocados por el villano y además poder seguir atiborrándose de su postre favorito.​",
+        "url": "https://sabotajerooms.com/candyland/",
+        "logo": "sabotaje-rooms",
+        "date": "Jul 27 2023",
+        "stars": 4,
+        "tags": [
+            "Fantasía"
+        ],
+        "dificultad": 2
+    },
+    {
+        "title": "La entrevista",
+        "empresa": "Cubick",
+        "location": "Valencia, Valencia, España",
+        "tiempo_maximo": 80,
+        "tiempo_consumido": 78,
+        "summary": "Una empresa anónima, en los últimos días ha sufrido varias vacantes inesperadas y está buscando el personal más cualificado para ocupar los puestos vacíos. Las pruebas de selección se realizarán en las instalaciones de Cubick Room Escape. No hará falta que nos entregues tu currículum, ya estamos al corriente de todos tus datos. Solo tendrás que presentarte en nuestras instalaciones el día y la hora acordados. Ah, eso sí... ni se te ocurra venir solo, necesitarás a tu equipo para completar las pruebas.​",
+        "url": "https://www.abduction.es/valencia/cubick/",
+        "logo": "cubick",
+        "date": "Aug 09 2021",
+        "stars": 4,
+        "tags": [
+            "Misterio"
+        ],
+        "dificultad": 2
+    },
+    {
+        "title": "La maldición de Amy Rosse",
+        "empresa": "Get Out Escape Room",
+        "location": "Valencia, Valencia, España",
+        "tiempo_maximo": 75,
+        "tiempo_consumido": 69,
+        "summary": "La familia Rosse es una familia peculiar donde las haya, rodeada de nobleza, riqueza y en un muy buen rango social. Todo iba a las mil maravillas, hasta que, hace seis meses, algo extraño sucedió en esta familia. Vuestra misión será adentraros en la casa encantada y descubrir qué fue lo que sucedió en aquella fecha tan señalada. Tendréis que recorrer las dependencias de la mansión e ir descifrando los enigmas que os encontraréis, sin ser descubiertos. Misterio e intriga se encierran entre las cuatro paredes de la residencia familiar. ¿Seréis capaces de descubrir tú y tu equipo de investigadores el extraño caso de “LA MALDICIÓN DE AMY ROSSE” y todo lo que rodea a este gran enigma?​",
+        "url": "https://getoutescaperoom.es/la-maldicion-de-amy-rosse/",
+        "logo": "get-out",
+        "date": "Dec 04 2021",
+        "stars": 4,
+        "tags": [
+            "Misterio",
+            "Miedo"
+        ],
+        "inmersion": 90,
+        "miedo": 70,
+        "ambientacion": 95,
+        "dificultad": 2
+    },
+    {
+        "title": "Zombie Outbreak",
+        "empresa": "Fear Escape Room",
+        "location": "Barcelona, Barcelona, España",
+        "tiempo_maximo": 80,
+        "tiempo_consumido": 72,
+        "summary": "El tiempo se agota. El mundo necesita la vacuna y tú eres la única esperanza. Te han enviado como científico al laboratorio de la Corporación Umbrella para terminar el desarrollo de la vacuna que salvará a la humanidad. Pero algo ha salido mal. El laboratorio está en cuarentena por un brote de virus zombie. Tienes 80 minutos para descubrir la cura y salir antes de que el laboratorio se autodestruya. ¿Serás capaz de sobrevivir?​",
+        "url": "https://fearescaperoom.com/zombie-outbreak-roomescape/",
+        "logo": "fear",
+        "date": "Dec 10 2018",
+        "stars": 4,
+        "tags": [
+            "Misterio",
+            "Miedo"
+        ],
+        "dificultad": 2
+    },
+    {
+        "title": "Prisioneros",
+        "empresa": "Lock-in Granada",
+        "location": "Granada, Andalucía, España",
+        "tiempo_maximo": 60,
+        "tiempo_consumido": 54,
+        "summary": "Madrugada del 8 de diciembre. Un incendio se ha originado en el centro penitenciario San Miguel, os encontráis en una celda y disponéis de 60 minutos antes de que las llamas lo arrasen todo, solo hay una forma de salir, debéis aprovechar el revuelo, hay poca vigilancia es ahora o nunca, ¡debéis escapar!​",
+        "url": "https://lockin.es/#prisioneros",
+        "logo": "lock-in",
+        "date": "Sep 24 2019",
+        "stars": 3,
+        "tags": [
+            "Criminal"
+        ],
+        "dificultad": 3
+    },
+    {
+        "title": "La casa en piezas",
+        "empresa": "El Rey Rojo",
+        "location": "Alhama de Murcia, Murcia, España",
+        "tiempo_maximo": 75,
+        "tiempo_consumido": 69,
+        "summary": "La joven Uriel fue secuestrada por un oscuro culto que azota las costas de levante “Los hijos de Leviatán”. El rastro de la chica llevó a la policía a una vieja casa, donde aparecieron decenas de cuerpos sacrificados, pero el cuerpo de Uriel nunca apareció. Los años han pasado, y su padre cansado de esperar respuestas que nunca llegan, ha ofrecido una recompensa a todos aquellos investigadores que se atrevan a desafiar a “Los hijos de Leviatán”… que se atrevan a adentrarse en este enclave diabólico donde Uriel desapareció… “La casa en piezas”.​",
+        "url": "https://elreyrojoescaperoom.com/la-casa-en-piezas/",
+        "logo": "el-rey-rojo",
+        "date": "Sep 24 2019",
+        "stars": 4,
+        "tags": [
+            "Miedo"
+        ],
+        "dificultad": 2
+    },
+    {
+        "title": "Wolf",
+        "empresa": "MissionLeak",
+        "location": "Barcelona, Barcelona, España",
+        "tiempo_maximo": 60,
+        "tiempo_consumido": 55,
+        "summary": "El Doctor Kurt está trabajando en las instalaciones del CECCA (Centro de Estudio, Conservación y Control de Animales), situado a los pies del Monte Altái. A pesar de las interferencias derivadas del clima y la orografía, ha conseguido hacernos llegar un extraño mensaje solicitándonos ayuda a causa de algunos sucesos extraños que le han ocurrido.Necesitamos un grupo de valientes voluntarios/as para viajar hasta el corazón de Eurasia y averiguar lo que esta pasando. La CECCA solo podemos hacer llegar un grupo de entre 2 y 8 integrantes; si sois lo bastante audaces, formad vuestro equipo para esta aventura…​",
+        "url": "https://www.missionleak.com/wolf",
+        "logo": "wolf",
+        "date": "Dec 11 2018",
+        "stars": 3.5,
+        "tags": [
+            "Miedo"
+        ],
+        "dificultad": 2
+    }
+]
