@@ -648,6 +648,306 @@
       "d": "Permiso de vuelo"
     },
     "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué anexo de la OACI regula las licencias de personal?",
+    "respuestas": {
+      "a": "Anexo 6",
+      "b": "Anexo 1",
+      "c": "Anexo 8",
+      "d": "Anexo 10"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué reglamento europeo establece normas sobre licencias de vuelo?",
+    "respuestas": {
+      "a": "EU 748/2012",
+      "b": "EU 1178/2011",
+      "c": "EU 965/2012",
+      "d": "EU 261/2004"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué parte del reglamento europeo cubre los requisitos médicos?",
+    "respuestas": {
+      "a": "Part-FCL",
+      "b": "Part-OPS",
+      "c": "Part-MED",
+      "d": "Part-145"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué licencia permite volar aviones para uso privado sin fines comerciales?",
+    "respuestas": {
+      "a": "CPL",
+      "b": "MPL",
+      "c": "PPL",
+      "d": "ATPL"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué edad mínima se requiere para obtener un CPL?",
+    "respuestas": {
+      "a": "17 años",
+      "b": "18 años",
+      "c": "19 años",
+      "d": "21 años"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué licencia permite ser piloto al mando (PIC) en vuelos comerciales de un solo piloto?",
+    "respuestas": {
+      "a": "PPL",
+      "b": "MPL",
+      "c": "CPL",
+      "d": "LAPL"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué curso es obligatorio para obtener la licencia MPL?",
+    "respuestas": {
+      "a": "UPRT",
+      "b": "IR",
+      "c": "VFR",
+      "d": "RTF"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué edad mínima se requiere para el ATPL?",
+    "respuestas": {
+      "a": "18 años",
+      "b": "20 años",
+      "c": "21 años",
+      "d": "25 años"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuántas horas de vuelo se requieren para obtener el ATPL?",
+    "respuestas": {
+      "a": "1000 horas",
+      "b": "1200 horas",
+      "c": "1500 horas",
+      "d": "2000 horas"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué tipo de habilitación es necesaria para volar bajo reglas IFR?",
+    "respuestas": {
+      "a": "SEP",
+      "b": "MEP",
+      "c": "IR",
+      "d": "NIGHT"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué documento debe portar siempre un piloto junto a su licencia?",
+    "respuestas": {
+      "a": "Pasaporte",
+      "b": "Contrato de trabajo",
+      "c": "Certificado médico y documento de identidad con foto",
+      "d": "Plan de vuelo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué tipo de certificado médico requiere un piloto con licencia ATPL?",
+    "respuestas": {
+      "a": "Clase 3",
+      "b": "Clase 2",
+      "c": "Clase 1",
+      "d": "Clase LAPL"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué edad impide volar como piloto en vuelos comerciales salvo en tripulación múltiple?",
+    "respuestas": {
+      "a": "55 años",
+      "b": "60 años",
+      "c": "65 años",
+      "d": "70 años"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Hasta qué edad puede volar un piloto de planeador en vuelos comerciales?",
+    "respuestas": {
+      "a": "60 años",
+      "b": "65 años",
+      "c": "68 años",
+      "d": "70 años"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué licencia permite actuar como copiloto en operaciones comerciales bajo VFR o IFR?",
+    "respuestas": {
+      "a": "LAPL",
+      "b": "MPL",
+      "c": "PPL",
+      "d": "Ninguna"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué experiencia mínima en operaciones multipiloto requiere el ATPL?",
+    "respuestas": {
+      "a": "300 horas",
+      "b": "400 horas",
+      "c": "500 horas",
+      "d": "600 horas"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué componente del ATPL está relacionado con el entrenamiento ante posiciones anormales?",
+    "respuestas": {
+      "a": "IFR",
+      "b": "MCC",
+      "c": "UPRT",
+      "d": "IR"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué habilitación permite volar bajo reglas visuales nocturnas?",
+    "respuestas": {
+      "a": "MEP",
+      "b": "IR",
+      "c": "NIGHT",
+      "d": "VFR"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es la validez típica de las habilitaciones de clase y tipo?",
+    "respuestas": {
+      "a": "2 años",
+      "b": "1 año",
+      "c": "6 meses",
+      "d": "Indefinida"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué excepción tiene la validez de las habilitaciones SEP?",
+    "respuestas": {
+      "a": "Valen 6 meses",
+      "b": "Valen 18 meses",
+      "c": "Valen 2 años",
+      "d": "No caducan"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué examen se requiere para renovar una habilitación?",
+    "respuestas": {
+      "a": "Examen teórico",
+      "b": "Prueba de pericia",
+      "c": "Simulador",
+      "d": "Curso de refresco"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué habilitación permite el remolque de pancartas?",
+    "respuestas": {
+      "a": "IR",
+      "b": "NIGHT",
+      "c": "BANNER TOWING",
+      "d": "UPRT"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué significa MCC?",
+    "respuestas": {
+      "a": "Misión Coordinada de Cabina",
+      "b": "Multi Crew Cooperation",
+      "c": "Manual de Capacitación de Cabina",
+      "d": "Medición de Competencia de Copiloto"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué licencia se congela tras obtener CPL/MPL y cumplir requisitos adicionales?",
+    "respuestas": {
+      "a": "LAPL",
+      "b": "ATPL",
+      "c": "PPL",
+      "d": "MPL"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué licencia no permite volar en operaciones comerciales?",
+    "respuestas": {
+      "a": "PPL",
+      "b": "CPL",
+      "c": "ATPL",
+      "d": "MPL"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué autoridad emite el Certificado DEN?",
+    "respuestas": {
+      "a": "Ministerio del Interior",
+      "b": "Ministerio de Defensa",
+      "c": "Autoridad de Aviación Civil",
+      "d": "Fuerzas Armadas"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué documento acredita la experiencia de vuelo en el ámbito militar?",
+    "respuestas": {
+      "a": "Tarjeta sanitaria militar",
+      "b": "Certificado médico civil",
+      "c": "Certificado DEN",
+      "d": "Prueba de pericia"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué tarjeta demuestra aptitud militar para vuelo VFR/IFR?",
+    "respuestas": {
+      "a": "Tarjeta de vuelo",
+      "b": "Licencia de piloto civil",
+      "c": "DNI militar",
+      "d": "Certificado médico clase 1"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué autoridad realiza la prueba de pericia para conversión de licencias militares?",
+    "respuestas": {
+      "a": "Instructor militar",
+      "b": "Piloto jefe",
+      "c": "Examinador acreditado",
+      "d": "Comandante de base"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué licencia puede obtener un piloto militar español convalidando su experiencia?",
+    "respuestas": {
+      "a": "LAPL",
+      "b": "PPL",
+      "c": "CPL/MPL",
+      "d": "Ninguna"
+    },
+    "correcta": "c"
   }
 ]
 
