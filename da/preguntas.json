@@ -4118,5 +4118,1289 @@
       "d": "DOC 9626"
     },
     "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal del RCAO?",
+    "respuestas": {
+      "a": "Regular el tráfico aéreo civil",
+      "b": "Garantizar la libertad de acción de aeronaves militares y prevenir colisiones",
+      "c": "Coordinar el tráfico ferroviario",
+      "d": "Evitar el uso de drones"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué autoridad aprueba el Reglamento de la Circulación Aérea Operativa?",
+    "respuestas": {
+      "a": "Ministerio de Fomento",
+      "b": "AESA",
+      "c": "Ministerio de Defensa",
+      "d": "JEMA"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Quién es el responsable de aplicar el RCAO en el espacio aéreo de soberanía española?",
+    "respuestas": {
+      "a": "El Ministerio del Interior",
+      "b": "La Agencia Estatal de Seguridad Aérea",
+      "c": "El Ejército del Aire",
+      "d": "El Consejo de Ministros"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué vuelos están incluidos en la CAO?",
+    "respuestas": {
+      "a": "Solo vuelos comerciales",
+      "b": "Vuelos en aeroclubes",
+      "c": "Vuelos militares y autorizados por la autoridad competente militar",
+      "d": "Cualquier vuelo sobre territorio nacional"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué siglas corresponden al reglamento que regula la circulación aérea operativa?",
+    "respuestas": {
+      "a": "RCA",
+      "b": "RCAO",
+      "c": "AESA",
+      "d": "IFR"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el mínimo de separación vertical por encima de FL280 en un ARES?",
+    "respuestas": {
+      "a": "1000 ft",
+      "b": "1500 ft",
+      "c": "2000 ft",
+      "d": "3000 ft"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué clasificación tienen las zonas como ARES cuando están activadas?",
+    "respuestas": {
+      "a": "Espacio aéreo clase A",
+      "b": "Espacio aéreo clase B",
+      "c": "Espacio aéreo no clasificado",
+      "d": "Zona de aproximación"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué significa MARSA?",
+    "respuestas": {
+      "a": "Militares Autorizados para Rastreos Supersónicos",
+      "b": "Responsabilidad asumida por militares para separación de aeronaves",
+      "c": "Manual Aeronáutico de Rescate y Seguridad Aérea",
+      "d": "Movimiento Aéreo Rápido Seguro Autorizado"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la velocidad máxima permitida en espacio aéreo bajo FL100 salvo excepciones?",
+    "respuestas": {
+      "a": "180 KIAS",
+      "b": "220 KIAS",
+      "c": "250 KIAS",
+      "d": "300 KIAS"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué aeronave puede volar a 500 ft sobre tierra según la normativa?",
+    "respuestas": {
+      "a": "Aviones de transporte propulsados por hélice",
+      "b": "UAS clase III",
+      "c": "Helicópteros",
+      "d": "Jets civiles"
+    },
+    "correcta": "c"
+  },
+
+  {
+    "pregunta": "¿Qué es un espacio aéreo temporalmente reservado?",
+    "respuestas": {
+      "a": "Un espacio permanentemente restringido",
+      "b": "Zona no apta para vuelos civiles",
+      "c": "Espacio reservado para una actividad específica, donde el tránsito puede permitirse bajo autorización",
+      "d": "Área sin control aéreo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué documento establece que la seguridad de la aeronave es prioritaria en tiempo de paz?",
+    "respuestas": {
+      "a": "La Ley de Seguridad Nacional",
+      "b": "El Real Decreto de Navegación Marítima",
+      "c": "El RCAO",
+      "d": "El Código Penal"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué persona asume el rol de comandante de una aeronave no tripulada?",
+    "respuestas": {
+      "a": "El operador DUO",
+      "b": "El supervisor de tierra",
+      "c": "El técnico de mantenimiento",
+      "d": "El controlador aéreo"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué distancia lateral máxima define una formación estándar?",
+    "respuestas": {
+      "a": "0.5 NM",
+      "b": "1 NM",
+      "c": "2 NM",
+      "d": "5 NM"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué formación requiere que todas las aeronaves transponderen?",
+    "respuestas": {
+      "a": "Formación cerrada",
+      "b": "Formación en ruta",
+      "c": "Formación no estándar",
+      "d": "Formación táctica"
+    },
+    "correcta": "c"
+  },
+
+  {
+    "pregunta": "¿Cuál es la separación mínima sobre montañas nevadas con riesgo de aludes?",
+    "respuestas": {
+      "a": "1000 ft",
+      "b": "2000 ft",
+      "c": "3000 ft",
+      "d": "5000 ft"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué altura mínima deben respetar helicópteros biturbina sobre hospitales?",
+    "respuestas": {
+      "a": "500 ft",
+      "b": "1000 ft",
+      "c": "2000 ft",
+      "d": "3000 ft"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué se considera un vuelo OVFR especial?",
+    "respuestas": {
+      "a": "Vuelo militar sin autorización",
+      "b": "Vuelo visual autorizado bajo condiciones meteorológicas inferiores a las VMC",
+      "c": "Vuelo con armamento activo",
+      "d": "Vuelo de instrucción a baja altura"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué debe hacer el comandante si debe incumplir una norma por seguridad?",
+    "respuestas": {
+      "a": "Continuar sin informar",
+      "b": "Esperar a aterrizar para tomar decisiones",
+      "c": "Notificar a sus superiores tan pronto como sea posible",
+      "d": "Ignorar la situación"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué aeronaves están sujetas al RCAO en el extranjero?",
+    "respuestas": {
+      "a": "Solo las civiles españolas",
+      "b": "Solo las aeronaves de transporte",
+      "c": "Las aeronaves militares españolas si no contradice la legislación local",
+      "d": "Todas las aeronaves extranjeras"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué servicio se encarga de divulgar la información aeronáutica en el ámbito del MINISDEF?",
+    "respuestas": {
+      "a": "EUROCONTROL",
+      "b": "BOC",
+      "c": "MILAIS",
+      "d": "ATC Civil"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es la principal función del controlador aéreo avanzado?",
+    "respuestas": {
+      "a": "Controlar el espacio aéreo civil",
+      "b": "Dirigir el control táctico de helicópteros",
+      "c": "Controlar aeronaves de combate en misiones de apoyo aéreo cercano",
+      "d": "Coordinar vuelos internacionales"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué documento establece las reglas específicas de la CAO?",
+    "respuestas": {
+      "a": "RCA",
+      "b": "RCAO",
+      "c": "MANOPS",
+      "d": "AIP España"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué misión NO permite a una aeronave civil operar bajo RCAO?",
+    "respuestas": {
+      "a": "Reabastecimiento en vuelo",
+      "b": "Patrulla y vigilancia",
+      "c": "Transporte de pasajeros",
+      "d": "Vuelos de prueba"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Quién debe estar informado antes de aterrizar con armamento?",
+    "respuestas": {
+      "a": "La policía local",
+      "b": "La dependencia ATS afectada",
+      "c": "La tripulación del aeropuerto",
+      "d": "El operador civil"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué significa UAV en el RCAO?",
+    "respuestas": {
+      "a": "Unidad Aérea de Vuelo",
+      "b": "Vehículo Aéreo No Tripulado",
+      "c": "Vehículo Autónomo de Vigilancia",
+      "d": "Unidad de Aviones Virtuales"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué maniobra permite dividir una formación en elementos más pequeños?",
+    "respuestas": {
+      "a": "Scramble",
+      "b": "Rotura",
+      "c": "Formación radar",
+      "d": "Reunión"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del equipo que controla zonas de lanzamiento y aterrizaje?",
+    "respuestas": {
+      "a": "FAC",
+      "b": "CRC",
+      "c": "CCT",
+      "d": "RPS"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es la distancia máxima permitida entre líder y aeronaves en una formación estándar?",
+    "respuestas": {
+      "a": "1 milla náutica y 100 pies",
+      "b": "2 millas náuticas y 200 pies",
+      "c": "0.5 millas náuticas y 150 pies",
+      "d": "2 kilómetros y 150 metros"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál es la responsabilidad del jefe de formación al declarar MARSA?",
+    "respuestas": {
+      "a": "Evacuar la formación",
+      "b": "Coordinar los despegues",
+      "c": "Mantener la separación entre aeronaves de su formación",
+      "d": "Solicitar cambio de plan de vuelo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué significa OVFR?",
+    "respuestas": {
+      "a": "Reglas de Vuelo Visual Ordinarias",
+      "b": "Reglas de Vuelo Visual Operativas",
+      "c": "Vuelo Visual Opcional",
+      "d": "Vuelo de Observación Visual"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué formación implica contacto radar entre aeronaves?",
+    "respuestas": {
+      "a": "Táctica",
+      "b": "Ruta",
+      "c": "Radar Trail",
+      "d": "Cerrada"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué acción debe tomarse ante fallo de radio en toda la formación?",
+    "respuestas": {
+      "a": "Informar por escrito",
+      "b": "Cambiar de altitud",
+      "c": "Codificar 7600 y seguir procedimientos aplicables",
+      "d": "Lanzar una bengala"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué tipo de misión puede justificar una rotura de formación no programada?",
+    "respuestas": {
+      "a": "Una evaluación médica",
+      "b": "Una misión de entrenamiento",
+      "c": "Una emergencia",
+      "d": "Un vuelo turístico"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué procedimiento se activa ante pérdida de contacto visual con la formación?",
+    "respuestas": {
+      "a": "Scramble",
+      "b": "Procedimiento de punto perdido",
+      "c": "Vuelta a base",
+      "d": "Control de radar inmediato"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Quién coordina las normas técnicas del RCAO?",
+    "respuestas": {
+      "a": "EUROCONTROL",
+      "b": "JEMA",
+      "c": "Ejército del Aire",
+      "d": "Ministerio del Interior"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué autoridad es responsable de segregar el espacio aéreo para UAS?",
+    "respuestas": {
+      "a": "ATC Civil",
+      "b": "Segundo JEMA",
+      "c": "DUO",
+      "d": "FAC"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué entidad autoriza vuelos CAO para aeronaves no militares?",
+    "respuestas": {
+      "a": "Enaire",
+      "b": "JEMA",
+      "c": "Autoridad Aeronáutica Competente Militar",
+      "d": "Ministerio del Interior"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué código transponder indica fallo de comunicaciones?",
+    "respuestas": {
+      "a": "7500",
+      "b": "7700",
+      "c": "7600",
+      "d": "7400"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué significa ADFR?",
+    "respuestas": {
+      "a": "Vuelo de defensa aérea",
+      "b": "Aeronave dirigida por radar",
+      "c": "Vuelo autónomo",
+      "d": "Vuelo de reconocimiento aéreo"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué sistema se encarga del control de aeronaves no tripuladas?",
+    "respuestas": {
+      "a": "ILS",
+      "b": "GCS",
+      "c": "VOR",
+      "d": "AIP"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué define la ZOUAS?",
+    "respuestas": {
+      "a": "Zona de entrada para aeronaves civiles",
+      "b": "Zona de trabajo de un sistema aéreo no tripulado",
+      "c": "Zona de aproximación a un aeródromo civil",
+      "d": "Zona de evacuación en caso de emergencia"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué servicio colabora con el Sistema de Defensa Aérea?",
+    "respuestas": {
+      "a": "DUO",
+      "b": "AMIS",
+      "c": "CCT",
+      "d": "ATC Civil"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué define un vuelo OIFR?",
+    "respuestas": {
+      "a": "Vuelo por instrumentos operativos",
+      "b": "Vuelo visual militar",
+      "c": "Vuelo civil visual",
+      "d": "Vuelo sin plan aprobado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción está prohibida si no hay misión justificada?",
+    "respuestas": {
+      "a": "Volar en formación",
+      "b": "Volar bajo reglas OVFR",
+      "c": "Realizar lanzamiento de personas u objetos",
+      "d": "Usar radiofrecuencia militar"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué tipo de UAS requiere mayor separación al volar sobre tierra a alta velocidad?",
+    "respuestas": {
+      "a": "Clase I propulsado por hélice",
+      "b": "Clase II no propulsado por hélice",
+      "c": "Clase III propulsado por hélice",
+      "d": "Cualquier clase volando a baja altitud"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el código transponder para emergencia general?",
+    "respuestas": {
+      "a": "7500",
+      "b": "7600",
+      "c": "7700",
+      "d": "7000"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué espacio aéreo está incluido en la responsabilidad española según la OACI?",
+    "respuestas": {
+      "a": "Solo espacio aéreo interior",
+      "b": "FIR y UIR asignados",
+      "c": "Solo zona costera",
+      "d": "Zona de combate"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué procedimiento permite juntar elementos de una formación aérea?",
+    "respuestas": {
+      "a": "Split",
+      "b": "Interceptación",
+      "c": "Reunión",
+      "d": "Regreso a base"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del DUO en un UAS?",
+    "respuestas": {
+      "a": "Operar remotamente la aeronave y asumir la responsabilidad del vuelo",
+      "b": "Reparar el sistema de navegación",
+      "c": "Coordinar vuelos civiles",
+      "d": "Actualizar las cartas aeronáuticas"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué debe hacer un comandante antes de abandonar la aeronave con armamento?",
+    "respuestas": {
+      "a": "Esperar instrucciones de la torre",
+      "b": "Revisar el tiempo estimado de vuelo",
+      "c": "Asegurarse de que el personal de tierra conoce la situación",
+      "d": "Notificar al aeropuerto más cercano"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué documento detalla la altura mínima de vuelo sobre mar para UAS clase III?",
+    "respuestas": {
+      "a": "Plan de misión",
+      "b": "AIP militar",
+      "c": "RCAO",
+      "d": "Manual de vuelo visual"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué separación horizontal se debe mantener fuera de un ARES?",
+    "respuestas": {
+      "a": "2 millas náuticas siempre",
+      "b": "Según normativa nacional o europea",
+      "c": "3 millas terrestres",
+      "d": "500 metros"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el límite de velocidad en OVFR bajo FL100 sin autorización?",
+    "respuestas": {
+      "a": "180 KIAS",
+      "b": "250 KIAS",
+      "c": "270 KIAS",
+      "d": "300 KIAS"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué se debe evitar al transportar cargas por eslinga sobre zonas pobladas?",
+    "respuestas": {
+      "a": "El uso de sistemas de navegación",
+      "b": "Volar sobre ellas salvo que la misión lo exija",
+      "c": "Hablar por radio",
+      "d": "Encender luces externas"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué se debe comunicar al iniciar una formación no estándar?",
+    "respuestas": {
+      "a": "Solo la altitud",
+      "b": "Solo la ruta",
+      "c": "El tipo de formación y el número de aeronaves",
+      "d": "La fecha y hora del vuelo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué tipo de formación se utiliza en vuelos largos para evitar fatiga?",
+    "respuestas": {
+      "a": "Radar trail",
+      "b": "Formación cerrada",
+      "c": "Formación en ruta",
+      "d": "Scramble"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué código se debe activar en caso de emergencia por punto perdido?",
+    "respuestas": {
+      "a": "7500",
+      "b": "7600",
+      "c": "7700",
+      "d": "7000"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué documento regula la segregación temporal del espacio aéreo para UAS?",
+    "respuestas": {
+      "a": "ZOUAS",
+      "b": "ZOTER",
+      "c": "ARES",
+      "d": "TRA"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué medida vertical mínima se establece en ARES por debajo de FL280?",
+    "respuestas": {
+      "a": "500 ft",
+      "b": "1500 ft",
+      "c": "1000 ft",
+      "d": "2000 ft"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito del servicio MILAIS?",
+    "respuestas": {
+      "a": "Organizar despegues militares",
+      "b": "Proporcionar datos meteorológicos",
+      "c": "Divulgar información aeronáutica en el ámbito militar",
+      "d": "Emitir licencias de piloto"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué significa 'scramble' en el contexto de la CAO?",
+    "respuestas": {
+      "a": "Cambio de ruta imprevisto",
+      "b": "Despegue inmediato de aeronaves",
+      "c": "Aterrizaje forzoso",
+      "d": "Inicio de mantenimiento urgente"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué documento permite a los Ministros de Defensa y Fomento adaptar el RCAO?",
+    "respuestas": {
+      "a": "La Constitución",
+      "b": "El Plan Director del Aire",
+      "c": "La Ley 21/2003 de Seguridad Aérea",
+      "d": "El AIP militar"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué distancia se permite como separación máxima en una formación radar?",
+    "respuestas": {
+      "a": "1 NM",
+      "b": "5 NM",
+      "c": "7 NM",
+      "d": "10 NM"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Quién es responsable de asumir la distancia de seguridad tras una reunión de formación?",
+    "respuestas": {
+      "a": "La torre de control",
+      "b": "El controlador aéreo",
+      "c": "El jefe de formación",
+      "d": "El piloto más antiguo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué condición justifica una velocidad mayor a 250 KIAS bajo FL100?",
+    "respuestas": {
+      "a": "Vuelos VIP",
+      "b": "Necesidades de formación o misión",
+      "c": "Condiciones visuales",
+      "d": "Requisitos civiles"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la separación lateral mínima con aeronaves de la CAG en CAO?",
+    "respuestas": {
+      "a": "La que imponga la misión",
+      "b": "300 metros",
+      "c": "La establecida en el RCA",
+      "d": "No hay límite"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué instrumento se debe usar para cambiar de altímetro al ascender?",
+    "respuestas": {
+      "a": "QFE",
+      "b": "QNH",
+      "c": "1.013,2 hPa",
+      "d": "GPS"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué aeronaves pueden operar bajo CAO en territorio extranjero?",
+    "respuestas": {
+      "a": "Solo las de la OTAN",
+      "b": "Las militares españolas si no contravienen la normativa local",
+      "c": "Las autorizadas por el control civil",
+      "d": "Ninguna"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué tipo de espacio se activa para permitir operaciones militares específicas?",
+    "respuestas": {
+      "a": "FIR",
+      "b": "ARES",
+      "c": "CTA",
+      "d": "UIR"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué formación está más separada entre sus elementos?",
+    "respuestas": {
+      "a": "Cerrada",
+      "b": "Radar trail",
+      "c": "Estándar",
+      "d": "Táctica cerrada"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué define la ZOTER?",
+    "respuestas": {
+      "a": "Zona de operaciones civiles",
+      "b": "Zona de entrenamiento visual",
+      "c": "Zona restringida para UAS",
+      "d": "Zona civil compartida"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué servicio está diseñado para identificar aeronaves en vuelo?",
+    "respuestas": {
+      "a": "MILAIS",
+      "b": "AMIS",
+      "c": "CCT",
+      "d": "RPS"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué organismo es responsable de proponer y difundir las normas técnicas del RCAO?",
+    "respuestas": {
+      "a": "AESA",
+      "b": "MINISDEF",
+      "c": "Ejército del Aire",
+      "d": "JEMA"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es la altitud mínima para sobrevolar centrales nucleares?",
+    "respuestas": {
+      "a": "3000 ft",
+      "b": "4000 ft",
+      "c": "5000 ft",
+      "d": "6000 ft"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué autoridad tiene competencia para segregar espacio aéreo para UAS?",
+    "respuestas": {
+      "a": "JEMA",
+      "b": "Segundo JEMA",
+      "c": "MINISDEF",
+      "d": "Ministerio de Fomento"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué estructura permite designar un jefe de formación?",
+    "respuestas": {
+      "a": "El manual de vuelo",
+      "b": "La cadena de mando",
+      "c": "El plan de instrucción",
+      "d": "El RCAO"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué función tiene el CCT?",
+    "respuestas": {
+      "a": "Control de zonas marítimas",
+      "b": "Evaluación meteorológica",
+      "c": "Control táctico en zonas de lanzamiento y aterrizaje",
+      "d": "Supervisión de vuelos civiles"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué tipo de formación se basa en que las aeronaves estén muy próximas entre sí?",
+    "respuestas": {
+      "a": "Radar",
+      "b": "Táctica",
+      "c": "Ruta",
+      "d": "Cerrada"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué acción está prohibida si se realiza de forma negligente desde una aeronave?",
+    "respuestas": {
+      "a": "Vuelo en espacio aéreo no controlado",
+      "b": "Reunión en formación",
+      "c": "Operar de forma que ponga en peligro personas o propiedades",
+      "d": "Sobrevolar zonas rurales"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué código indica una interferencia ilícita a bordo?",
+    "respuestas": {
+      "a": "7500",
+      "b": "7600",
+      "c": "7700",
+      "d": "7000"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál es la altura mínima sobre zonas con aglomeraciones de más de 10.000 habitantes?",
+    "respuestas": {
+      "a": "500 ft",
+      "b": "2000 ft",
+      "c": "3000 ft",
+      "d": "1000 ft"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué formación implica separación controlada por radar entre aeronaves?",
+    "respuestas": {
+      "a": "Radar trail",
+      "b": "Táctica",
+      "c": "Ruta abierta",
+      "d": "Cerrada"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué documento contiene las abreviaturas como OVFR y OIFR?",
+    "respuestas": {
+      "a": "RCAO",
+      "b": "AIP España",
+      "c": "Plan de vuelo",
+      "d": "Manual de operaciones"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué formación puede operar en espacio aéreo controlado con autorización ATS?",
+    "respuestas": {
+      "a": "Solo cerrada",
+      "b": "Estándar o no estándar",
+      "c": "Radar trail únicamente",
+      "d": "Sólo si están transponderando"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué operación NO requiere necesariamente segregación del espacio aéreo?",
+    "respuestas": {
+      "a": "Vuelo de drones en condiciones CAO",
+      "b": "Entrenamiento con armamento real",
+      "c": "Reunión en formación",
+      "d": "Vuelo de inspección técnica con autorización"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Quién debe emitir instrucciones ante una rotura de formación?",
+    "respuestas": {
+      "a": "El jefe de formación",
+      "b": "El controlador de mantenimiento",
+      "c": "El DUO",
+      "d": "El personal de tierra"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué separación debe mantenerse en un ARES activo?",
+    "respuestas": {
+      "a": "300 ft horizontal",
+      "b": "2000 ft sobre FL280",
+      "c": "500 ft vertical",
+      "d": "A criterio del piloto"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué tipo de vuelo puede usar las reglas ADFR?",
+    "respuestas": {
+      "a": "Vuelo civil por instrumentos",
+      "b": "Vuelo comercial",
+      "c": "Vuelo de defensa aérea",
+      "d": "Vuelo de emergencia médica"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué aeronaves deben evitar volar por debajo de los 5000 ft sobre centrales térmicas?",
+    "respuestas": {
+      "a": "Solo drones",
+      "b": "Todas las aeronaves, tripuladas o no",
+      "c": "Únicamente aviones civiles",
+      "d": "Aviones supersónicos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué define una ZOUAS?",
+    "respuestas": {
+      "a": "Zona de guerra electrónica",
+      "b": "Zona de operaciones de sistemas aéreos no tripulados",
+      "c": "Zona costera civil",
+      "d": "Zona de uso aéreo exclusivo de la OTAN"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué documento debe presentar un comandante antes de un vuelo CAO?",
+    "respuestas": {
+      "a": "Parte meteorológico",
+      "b": "Autorización escrita",
+      "c": "Plan de vuelo",
+      "d": "Licencia de operador"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué puede permitir vuelos CAO para aeronaves civiles?",
+    "respuestas": {
+      "a": "Un juez militar",
+      "b": "El comandante de base",
+      "c": "La Autoridad Aeronáutica Competente Militar",
+      "d": "El controlador civil"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué componente es parte del UAS según el RCAO?",
+    "respuestas": {
+      "a": "Solo el vehículo volador",
+      "b": "La aeronave, estación de control y elementos de soporte",
+      "c": "El operador humano únicamente",
+      "d": "La frecuencia de comunicaciones"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué representa el código 7000 en transponder?",
+    "respuestas": {
+      "a": "Vuelo visual estándar",
+      "b": "Vuelo de emergencia",
+      "c": "Interferencia",
+      "d": "Fallo de radio"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué información debe notificarse al declarar una formación en vuelo?",
+    "respuestas": {
+      "a": "El tipo de aeronave",
+      "b": "El peso al despegue",
+      "c": "Tipo de formación y número de aeronaves",
+      "d": "Nivel de seguridad requerido"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué ocurre tras una rotura de formación?",
+    "respuestas": {
+      "a": "Las aeronaves pierden comunicación",
+      "b": "Actúan como aeronaves individuales",
+      "c": "No se necesita autorización",
+      "d": "Pasan a espacio civil automáticamente"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué regla permite vuelos militares en condiciones inferiores a VMC?",
+    "respuestas": {
+      "a": "OVFR especial",
+      "b": "OIFR",
+      "c": "ADFR",
+      "d": "RCA"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué formación ocupa un solo nivel de vuelo y depende de la misión?",
+    "respuestas": {
+      "a": "Cerrada",
+      "b": "Ruta",
+      "c": "Táctica",
+      "d": "Radar trail"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito principal de una investigación de accidentes?",
+    "respuestas": {
+      "a": "Determinar responsabilidad legal",
+      "b": "Reparar los daños causados",
+      "c": "Evitar futuros accidentes e incidentes",
+      "d": "Castigar a los culpables"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué anexo de la OACI regula la investigación de accidentes?",
+    "respuestas": {
+      "a": "Anexo 14",
+      "b": "Anexo 13",
+      "c": "Anexo 12",
+      "d": "Anexo 11"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué Estado es responsable de la investigación de un accidente?",
+    "respuestas": {
+      "a": "Estado de matrícula",
+      "b": "Estado de diseño",
+      "c": "Estado de ocurrencia",
+      "d": "Estado de operador"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es la definición de accidente según el documento?",
+    "respuestas": {
+      "a": "Cualquier daño al avión durante el vuelo",
+      "b": "Ocurrencia entre el embarque y desembarque de personas que resulta en lesiones o daños graves",
+      "c": "Cualquier falla mecánica en tierra",
+      "d": "Problema menor en vuelo"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué tipo de daño está excluido de la definición de accidente?",
+    "respuestas": {
+      "a": "Daño a los motores",
+      "b": "Daño a la estructura principal",
+      "c": "Daño a personas",
+      "d": "Daño al fuselaje"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes no tiene que ser notificado por el Estado de ocurrencia?",
+    "respuestas": {
+      "a": "Estado de operador",
+      "b": "Estado de fabricación",
+      "c": "ICAO en caso de aeronaves >2250kg o turbojet",
+      "d": "Pasajeros involucrados"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué regula el Reglamento UE 996/2010?",
+    "respuestas": {
+      "a": "Responsabilidad civil por accidentes",
+      "b": "Adaptación de estándares OACI a la legislación europea",
+      "c": "Compensación económica",
+      "d": "Investigaciones criminales"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué aeronaves están excluidas del Reglamento UE 376/2014?",
+    "respuestas": {
+      "a": "Aeronaves comerciales",
+      "b": "Aeronaves de investigación, históricas y muy ligeras",
+      "c": "Aeronaves de transporte",
+      "d": "Aeronaves turbohélice"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué define un 'serious incident'?",
+    "respuestas": {
+      "a": "Una ocurrencia que resulta en muerte inmediata",
+      "b": "Un accidente que causa destrucción total",
+      "c": "Un incidente en el que casi ocurre un accidente",
+      "d": "Un evento menor que no afecta operaciones"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué tipo de herida se considera 'serious injury'?",
+    "respuestas": {
+      "a": "Herida leve sin hospitalización",
+      "b": "Herida causada por otra persona",
+      "c": "Lesión sufrida durante un accidente",
+      "d": "Lesión psicológica sin contacto físico"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Quién puede asumir la investigación si el Estado de ocurrencia lo permite?",
+    "respuestas": {
+      "a": "Cualquier organismo internacional",
+      "b": "Estado de registro u operador, por consentimiento mutuo",
+      "c": "Piloto al mando",
+      "d": "FBI o Interpol"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué ocurre si un accidente involucra una aeronave de más de 2250 kg?",
+    "respuestas": {
+      "a": "Debe notificar a la EASA",
+      "b": "Debe notificar a ICAO",
+      "c": "No requiere notificación especial",
+      "d": "Solo se notifica al fabricante"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué excepción existe para definir un accidente?",
+    "respuestas": {
+      "a": "Daño a la cabina",
+      "b": "Lesiones por causas naturales",
+      "c": "Pérdida de instrumentos",
+      "d": "Despresurización"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué tipo de aeronaves están sujetas a los reglamentos europeos de seguridad?",
+    "respuestas": {
+      "a": "Solo militares",
+      "b": "Todas las civiles excepto algunas categorías específicas",
+      "c": "Únicamente comerciales",
+      "d": "Helicópteros únicamente"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué significa que un accidente 'casi ocurrió'?",
+    "respuestas": {
+      "a": "Fue un accidente sin consecuencias",
+      "b": "Fue una falsa alarma",
+      "c": "Fue un 'serious incident'",
+      "d": "Fue una falla mecánica menor"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué elementos pueden delegar la investigación con consentimiento?",
+    "respuestas": {
+      "a": "ICAO y EASA",
+      "b": "Piloto y torre de control",
+      "c": "Estado de matrícula, diseño u operador",
+      "d": "Fabricante y pasajeros"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo explícito de una investigación según OACI?",
+    "respuestas": {
+      "a": "Buscar compensaciones",
+      "b": "Evitar responsabilidades penales",
+      "c": "Evitar futuros accidentes",
+      "d": "Responsabilizar al operador"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué organismo recibe notificación en caso de accidente con turbojet?",
+    "respuestas": {
+      "a": "EASA",
+      "b": "NTSB",
+      "c": "ICAO",
+      "d": "FBI"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué elemento no es considerado un daño significativo en un accidente?",
+    "respuestas": {
+      "a": "Daño a los fairings",
+      "b": "Daño a fuselaje",
+      "c": "Daño estructural",
+      "d": "Daño a tren de aterrizaje"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué parte puede tener acceso a la investigación según el Anexo 13?",
+    "respuestas": {
+      "a": "Los familiares de las víctimas",
+      "b": "El público en general",
+      "c": "Partes interesadas como estados involucrados",
+      "d": "Pilotos civiles certificados"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué norma europea trata sobre ocurrencias relacionadas con seguridad?",
+    "respuestas": {
+      "a": "Reglamento 996/2010",
+      "b": "Reglamento 376/2014",
+      "c": "Anexo 14",
+      "d": "Directiva 2003/22"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué institución define los criterios de 'serious injury'?",
+    "respuestas": {
+      "a": "Estado de matrícula",
+      "b": "La OACI",
+      "c": "La aerolínea",
+      "d": "La torre de control"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuándo se considera que una persona ha estado involucrada en un accidente?",
+    "respuestas": {
+      "a": "Desde el inicio del vuelo hasta el aterrizaje",
+      "b": "Desde que aborda hasta que desembarca",
+      "c": "Durante el mantenimiento en tierra",
+      "d": "Solo durante la fase de crucero"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál de estos no es un ejemplo de accidente según la definición?",
+    "respuestas": {
+      "a": "Lesión causada por la turbulencia",
+      "b": "Caída durante el embarque",
+      "c": "Lesión por infarto en vuelo",
+      "d": "Daño estructural tras impacto"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué regula el Reglamento 996/2010 en relación con ICAO?",
+    "respuestas": {
+      "a": "Anula los estándares de ICAO",
+      "b": "Adapta los estándares de ICAO al derecho europeo",
+      "c": "Sustituye el Anexo 13",
+      "d": "Establece normas penales"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el contenido principal de la diapositiva 6 del documento?",
+    "respuestas": {
+      "a": "Definición de accidente",
+      "b": "Responsabilidades de investigación",
+      "c": "Ejemplos de daños excluidos",
+      "d": "Reglamentos europeos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué condición hace obligatoria la notificación a ICAO?",
+    "respuestas": {
+      "a": "Peso mayor a 2000 kg",
+      "b": "Uso de avión a hélice",
+      "c": "Peso mayor a 2250 kg o si es turbojet",
+      "d": "Vuelo internacional"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué acción NO está entre los objetivos de una investigación?",
+    "respuestas": {
+      "a": "Evitar accidentes futuros",
+      "b": "Determinar culpabilidad legal",
+      "c": "Recomendar mejoras",
+      "d": "Analizar causas técnicas"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué documento contiene la definición de 'incident'?",
+    "respuestas": {
+      "a": "Manual de vuelo",
+      "b": "Anexo 13",
+      "c": "Reglamento 996",
+      "d": "Certificación EASA"
+    },
+    "correcta": "b"
   }
 ]
+ƒ
+
