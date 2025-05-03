@@ -298,5 +298,357 @@
       "d": "Reglamento 261/2004"
     },
     "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué es la aeronavegabilidad según el documento?",
+    "respuestas": {
+      "a": "La capacidad de un piloto para volar legalmente",
+      "b": "La posibilidad de una aeronave de operar en condiciones seguras",
+      "c": "El diseño de un avión militar",
+      "d": "La velocidad máxima alcanzada por una aeronave"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué requiere el artículo 31 del Convenio de Chicago?",
+    "respuestas": {
+      "a": "Que cada aeronave tenga matrícula visible",
+      "b": "Que las aeronaves estén pintadas de blanco",
+      "c": "Que toda aeronave tenga un Certificado de Aeronavegabilidad",
+      "d": "Que los pilotos hablen inglés"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué autoridad debe emitir o validar el Certificado de Aeronavegabilidad?",
+    "respuestas": {
+      "a": "El país donde aterriza la aeronave",
+      "b": "El país de origen del piloto",
+      "c": "El Estado de matrícula",
+      "d": "La ONU"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Según el Anexo 8 de la OACI, ¿qué requisito debe cumplirse para emitir un Certificado de Aeronavegabilidad?",
+    "respuestas": {
+      "a": "Cumplir con los aspectos de diseño",
+      "b": "Tener una radio a bordo",
+      "c": "Tener paracaídas",
+      "d": "Volar al menos 100 horas"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué puede hacer un nuevo Estado contratante con un certificado existente?",
+    "respuestas": {
+      "a": "Desecharlo inmediatamente",
+      "b": "Utilizarlo como evidencia parcial o total de conformidad",
+      "c": "Ignorarlo",
+      "d": "Mandarlo a revisión europea"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué sucede si una aeronave sufre daños?",
+    "respuestas": {
+      "a": "Debe ser destruida",
+      "b": "Puede ser reparada o autorizada para un vuelo sin pasajeros",
+      "c": "Se le retira la matrícula",
+      "d": "Debe cambiar de dueño"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué documento es requerido para un Certificado de Aeronavegabilidad europeo?",
+    "respuestas": {
+      "a": "Pasaporte del piloto",
+      "b": "Manual de vuelo",
+      "c": "Informe meteorológico",
+      "d": "Factura del fabricante"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué marca indica el país donde está registrada una aeronave?",
+    "respuestas": {
+      "a": "Marca de modelo",
+      "b": "Marca de nacionalidad",
+      "c": "Marca de fábrica",
+      "d": "Marca regional"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Dónde deben estar pintadas las marcas de identificación en la aeronave?",
+    "respuestas": {
+      "a": "Debajo del ala izquierda y en ambos lados del fuselaje",
+      "b": "En la cabina del piloto",
+      "c": "En la cola solamente",
+      "d": "Solo en las alas"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Dónde se coloca la placa de identificación interna?",
+    "respuestas": {
+      "a": "En el ala",
+      "b": "Cerca de la puerta principal o en el panel de instrumentos",
+      "c": "Debajo del asiento del piloto",
+      "d": "En el compartimento de equipaje"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué organización asigna los símbolos para marcas comunes?",
+    "respuestas": {
+      "a": "UE",
+      "b": "ONU",
+      "c": "ITU",
+      "d": "NATO"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué tipo de vuelo puede realizar una aeronave dañada que no transporta pasajeros?",
+    "respuestas": {
+      "a": "Vuelo turístico",
+      "b": "Vuelo militar",
+      "c": "Vuelo de posicionamiento no comercial",
+      "d": "Vuelo privado"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué se necesita para aeronaves antiguas fuera de la UE para obtener un CofA europeo?",
+    "respuestas": {
+      "a": "Licencia europea",
+      "b": "Historial de producción, modificación y mantenimiento",
+      "c": "Autorización de la OACI",
+      "d": "Prueba de velocidad"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué marca precede a la marca de registro de una aeronave?",
+    "respuestas": {
+      "a": "Marca común",
+      "b": "Marca nacional o común",
+      "c": "Marca de piloto",
+      "d": "Marca de fabricante"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Quién asigna los símbolos de marca nacional?",
+    "respuestas": {
+      "a": "OACI",
+      "b": "EASA",
+      "c": "ITU",
+      "d": "ONU"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué incluye un certificado de revisión de aeronavegabilidad para aeronaves usadas?",
+    "respuestas": {
+      "a": "Documento de aduana",
+      "b": "Certificado médico del piloto",
+      "c": "Certificado de conformidad de EASA",
+      "d": "Certificado de aeronavegabilidad anterior"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué idioma deben tener los manuales y marcas en una aeronave en la UE?",
+    "respuestas": {
+      "a": "Inglés solamente",
+      "b": "Idioma del país fabricante",
+      "c": "Cualquier idioma",
+      "d": "Uno de los idiomas oficiales de la UE"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué se considera al mover una aeronave entre Estados contratantes?",
+    "respuestas": {
+      "a": "Debe cambiar de nombre",
+      "b": "Debe ser destruida",
+      "c": "Debe cumplir nuevas pruebas estructurales",
+      "d": "El nuevo Estado puede validar o emitir un nuevo certificado"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué elemento NO se menciona como parte del paquete requerido para un CofA europeo?",
+    "respuestas": {
+      "a": "Informe de masa y centrado",
+      "b": "Manual de vuelo",
+      "c": "Certificado médico del piloto",
+      "d": "Historial de producción"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es una posible ubicación para marcas exteriores de identificación?",
+    "respuestas": {
+      "a": "Bajo el ala derecha",
+      "b": "Solo en la cola",
+      "c": "Ambos lados del fuselaje",
+      "d": "Encima de las alas"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué característica debe tener la placa de identificación interna?",
+    "respuestas": {
+      "a": "Debe estar hecha de madera",
+      "b": "Debe ser resistente al fuego",
+      "c": "Debe estar pintada a mano",
+      "d": "Debe estar en la bodega"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué se utiliza como referencia para asignar marcas nacionales?",
+    "respuestas": {
+      "a": "Organización Mundial de Comercio",
+      "b": "Televisión Internacional",
+      "c": "Unión Internacional de Telecomunicaciones",
+      "d": "Unión Europea"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué documento sustituye el certificado de conformidad para aeronaves viejas?",
+    "respuestas": {
+      "a": "Certificado médico",
+      "b": "Manual de piloto",
+      "c": "Certificado de revisión de aeronavegabilidad",
+      "d": "Licencia de radio"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito del certificado de aeronavegabilidad?",
+    "respuestas": {
+      "a": "Permitir vuelos militares",
+      "b": "Permitir vuelos sin tripulación",
+      "c": "Confirmar que una aeronave es segura para volar",
+      "d": "Autorizar vuelos nocturnos"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué documento es obligatorio para aeronaves que realizan navegación internacional?",
+    "respuestas": {
+      "a": "Pasaporte del piloto",
+      "b": "Certificado de aeronavegabilidad",
+      "c": "Factura de compra",
+      "d": "Licencia de piloto"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Quién asigna las marcas de registro individuales de las aeronaves?",
+    "respuestas": {
+      "a": "El país de fabricación",
+      "b": "El aeropuerto de despegue",
+      "c": "El Estado de matrícula",
+      "d": "La tripulación"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿En qué parte del ala se deben ubicar las marcas de identificación?",
+    "respuestas": {
+      "a": "Cerca del borde de salida",
+      "b": "En el borde delantero",
+      "c": "A medio camino entre los bordes de ataque y de salida",
+      "d": "Solo en el borde de ataque"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué identifica la marca de registro?",
+    "respuestas": {
+      "a": "Al país de origen",
+      "b": "Al fabricante del avión",
+      "c": "A la compañía aérea",
+      "d": "A la aeronave individual"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué tipo de vuelos se prohíben en aeronaves dañadas sin CofA válido?",
+    "respuestas": {
+      "a": "Vuelos de prueba",
+      "b": "Vuelos comerciales con pasajeros",
+      "c": "Vuelos militares",
+      "d": "Vuelos locales"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el uso de las marcas comunes?",
+    "respuestas": {
+      "a": "Para aviones militares",
+      "b": "Para organizaciones no nacionales",
+      "c": "Para helicópteros",
+      "d": "Para vuelos nocturnos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué institución otorga símbolos de marca a ICAO?",
+    "respuestas": {
+      "a": "FAA",
+      "b": "IATA",
+      "c": "ITU",
+      "d": "EASA"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué información proporciona un historial de mantenimiento satisfactorio?",
+    "respuestas": {
+      "a": "Costo del avión",
+      "b": "Ubicación de fabricación",
+      "c": "Evidencia de estándares de producción y modificaciones",
+      "d": "Fecha de pintura"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué componente puede servir también como indicativo de radio en aeronaves ligeras?",
+    "respuestas": {
+      "a": "Marca en el ala",
+      "b": "Placa de identificación en el panel de instrumentos",
+      "c": "Manual de vuelo",
+      "d": "Registro de mantenimiento"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué regula el Reglamento (UE) Nº 748/2012?",
+    "respuestas": {
+      "a": "Navegación marítima",
+      "b": "Derechos de pasajeros",
+      "c": "Requisitos de aeronavegabilidad en Europa",
+      "d": "Vuelos espaciales"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué tipo de documento debe acompañar a una aeronave nueva para recibir su CofA europeo?",
+    "respuestas": {
+      "a": "Certificado de título",
+      "b": "Factura",
+      "c": "Declaración de conformidad de EASA",
+      "d": "Permiso de vuelo"
+    },
+    "correcta": "c"
   }
 ]
+
+
