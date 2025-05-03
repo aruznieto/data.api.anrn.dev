@@ -948,6 +948,2606 @@
       "d": "Ninguna"
     },
     "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué reglamento europeo establece las normas comunes del aire?",
+    "respuestas": {
+      "a": "Reglamento 1178/2011",
+      "b": "Reglamento 932/2012",
+      "c": "Reglamento 261/2004",
+      "d": "Reglamento 748/2012"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué documento ICAO se combina con el Anexo 2 para proporcionar la base de navegación aérea?",
+    "respuestas": {
+      "a": "Anexo 8",
+      "b": "Anexo 11",
+      "c": "Anexo 1",
+      "d": "Anexo 6"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Quién tiene prioridad durante una operación de despegue en un aeródromo?",
+    "respuestas": {
+      "a": "Aeronaves en rodaje",
+      "b": "Aeronaves en aproximación",
+      "c": "Aeronaves despegando",
+      "d": "Vehículos de emergencia"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué luces deben mostrar las aeronaves en vuelo tanto de día como de noche?",
+    "respuestas": {
+      "a": "Luces estroboscópicas solamente",
+      "b": "Luces de aterrizaje",
+      "c": "Luces de navegación y anticolisión",
+      "d": "Luces interiores"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "En condiciones IMC, ¿qué transpondedor debe seleccionarse en caso de fallo de comunicaciones?",
+    "respuestas": {
+      "a": "7500",
+      "b": "7600",
+      "c": "7700",
+      "d": "7000"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué significa el código 7500 en el transpondedor?",
+    "respuestas": {
+      "a": "Fallo de comunicaciones",
+      "b": "Vuelo visual",
+      "c": "Secuestro",
+      "d": "Emergencia médica"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué acción debe tomar un piloto VFR en caso de deterioro de condiciones meteorológicas bajo VMC en espacio aéreo controlado?",
+    "respuestas": {
+      "a": "Permanecer en VMC y abandonar el espacio aéreo controlado",
+      "b": "Solicitar cambio a IFR",
+      "c": "Solicitar autorización SVFR",
+      "d": "Cualquiera de las anteriores"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuándo se debe presentar un plan de vuelo?",
+    "respuestas": {
+      "a": "Solo para vuelos nocturnos",
+      "b": "Solo si se cruza una frontera",
+      "c": "Para vuelos IFR, vuelos que requieren ATS o cruzan fronteras",
+      "d": "Nunca es obligatorio"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es el procedimiento en caso de fallo de comunicaciones en IMC bajo separación por vigilancia?",
+    "respuestas": {
+      "a": "Mantener nivel y velocidad por 20 minutos",
+      "b": "Desviarse hacia el aeropuerto más cercano",
+      "c": "Mantener nivel y velocidad por 7 minutos, luego ajustar conforme al plan de vuelo",
+      "d": "Continuar el vuelo sin cambios"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué regla de prioridad se aplica cuando dos aeronaves se aproximan de frente?",
+    "respuestas": {
+      "a": "Ambas deben virar a la derecha",
+      "b": "La más ligera cede el paso",
+      "c": "Una debe detenerse",
+      "d": "Ambas deben ascender"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué debe hacer una aeronave que se mueve en el área de maniobras ante una barra de parada iluminada?",
+    "respuestas": {
+      "a": "Proceder si no hay tráfico",
+      "b": "Detenerse hasta que la barra se apague",
+      "c": "Solicitar permiso por radio",
+      "d": "Aumentar potencia y continuar"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué señal indica el reconocimiento de una señal luminosa en vuelo durante el día?",
+    "respuestas": {
+      "a": "Encender luces de aterrizaje",
+      "b": "Parpadear luces de navegación",
+      "c": "Mecer las alas",
+      "d": "Descender 500 pies"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "En caso de una interceptación, ¿qué debe hacer el piloto interceptado?",
+    "respuestas": {
+      "a": "Ignorar la aeronave interceptora",
+      "b": "Intentar escapar",
+      "c": "Seguir instrucciones del interceptor",
+      "d": "Apagar transpondedor"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué requisito es necesario para realizar vuelos simulados por instrumentos?",
+    "respuestas": {
+      "a": "Aeronave monomotor",
+      "b": "Autorización ATC",
+      "c": "Mandos duales y piloto de seguridad",
+      "d": "Vuelo VFR"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué condición impide operar VFR por encima de FL195?",
+    "respuestas": {
+      "a": "VFR está prohibido a cualquier altitud",
+      "b": "Prohibido excepto por aprobación específica",
+      "c": "Permitido solo en RVSM",
+      "d": "Permitido con transpondedor"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué condiciones son necesarias para realizar vuelos VFR nocturnos?",
+    "respuestas": {
+      "a": "Condiciones meteorológicas por debajo de VMC",
+      "b": "Contacto visual con el terreno y radio",
+      "c": "Aprobación de plan de vuelo IFR",
+      "d": "Solo con un copiloto"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué altitud mínima debe mantenerse sobre terreno montañoso en vuelo IFR?",
+    "respuestas": {
+      "a": "500 pies sobre el obstáculo más alto",
+      "b": "1000 pies sobre el terreno",
+      "c": "2000 pies sobre el obstáculo más alto en 8 km",
+      "d": "Depende del nivel de vuelo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué acción debe tomar un piloto tras aterrizar respecto al plan de vuelo?",
+    "respuestas": {
+      "a": "Nada, se cierra automáticamente",
+      "b": "Esperar confirmación ATC",
+      "c": "Cerrar el plan de vuelo inmediatamente",
+      "d": "Encender luces de navegación"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué condiciones aplican para realizar SVFR?",
+    "respuestas": {
+      "a": "Fuera de zonas de control",
+      "b": "Cuando hay buena visibilidad",
+      "c": "En condiciones inferiores a VMC dentro de CTR",
+      "d": "Solo de noche"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué debe hacer una aeronave al recibir autorización ATC en vuelo?",
+    "respuestas": {
+      "a": "Ejecutarla de inmediato sin cambios",
+      "b": "Volar fuera de aerovías",
+      "c": "Seguir la ruta y puntos de navegación autorizados",
+      "d": "Solicitar nueva altitud"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué acción toma ATSU ante un fallo de comunicaciones confirmado?",
+    "respuestas": {
+      "a": "Ignorar la situación",
+      "b": "Transmitir instrucciones a ciegas en frecuencias disponibles",
+      "c": "Contactar al piloto por teléfono",
+      "d": "Enviar un interceptor"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la separación mínima vertical en RVSM entre FL290 y FL410?",
+    "respuestas": {
+      "a": "1000 pies",
+      "b": "2000 pies",
+      "c": "500 pies",
+      "d": "3000 pies"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuándo debe reportar una aeronave su posición?",
+    "respuestas": {
+      "a": "Solo en vuelos VFR",
+      "b": "En cada punto obligatorio o a intervalos prescritos",
+      "c": "Antes de despegar",
+      "d": "Después de aterrizar"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué debe hacer una aeronave que no tiene prioridad de paso?",
+    "respuestas": {
+      "a": "Mantener rumbo y altitud",
+      "b": "Maniobrar para evitar colisión, considerando turbulencia de estela",
+      "c": "Descender 1000 pies",
+      "d": "Contactar inmediatamente con ATC"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué sucede si un plan de vuelo no se cierra adecuadamente?",
+    "respuestas": {
+      "a": "No hay consecuencias",
+      "b": "Se activa una búsqueda innecesaria",
+      "c": "Se cancela el vuelo siguiente",
+      "d": "Se suspende la licencia del piloto"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Quién controla el movimiento de vehículos en un aeródromo?",
+    "respuestas": {
+      "a": "Policía del aeropuerto",
+      "b": "ATC",
+      "c": "Piloto al mando",
+      "d": "ILS automático"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué luz se utiliza para señal de stop bar en aeródromos?",
+    "respuestas": {
+      "a": "Verde",
+      "b": "Blanca",
+      "c": "Ámbar",
+      "d": "Roja"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué se considera una desviación importante para un vuelo VFR?",
+    "respuestas": {
+      "a": "Cambio de pista",
+      "b": "Cambio de nivel de vuelo",
+      "c": "Cambio de resistencia o personas a bordo",
+      "d": "Cambio de frecuencia"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es una regla clave del VFR en vuelo crucero?",
+    "respuestas": {
+      "a": "Altitud al azar",
+      "b": "Nivel de vuelo aleatorio",
+      "c": "Aplicar la regla del semicírculo",
+      "d": "Ninguna restricción"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué acción debe tomarse si no hay puntos obligatorios en el plan de vuelo?",
+    "respuestas": {
+      "a": "No reportar nada",
+      "b": "Reportar al final del vuelo",
+      "c": "Reportar a intervalos prescritos",
+      "d": "Solicitar cancelación del vuelo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué maniobra debe realizar una aeronave en caso de adelantamiento en vuelo?",
+    "respuestas": {
+      "a": "Virar a la izquierda",
+      "b": "Pasar por encima",
+      "c": "Adelantar por la derecha a un ángulo de 70°",
+      "d": "Mantener rumbo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito principal del espacio aéreo controlado?",
+    "respuestas": {
+      "a": "Permitir vuelos VFR sin restricciones",
+      "b": "Evitar zonas militares",
+      "c": "Garantizar separación segura entre aeronaves",
+      "d": "Hacer más rápidos los vuelos"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuándo se debe realizar un informe de llegada (arrival report)?",
+    "respuestas": {
+      "a": "Solo si el ATC lo solicita",
+      "b": "Solo en vuelos internacionales",
+      "c": "Después de aterrizar si se presentó un plan de vuelo",
+      "d": "Antes del descenso"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué debe hacer un piloto que opera cerca de un aeródromo?",
+    "respuestas": {
+      "a": "Evitar observar el tráfico",
+      "b": "Ignorar el patrón de tráfico",
+      "c": "Ajustarse al patrón o evitarlo y realizar virajes a la izquierda",
+      "d": "Aterrizar sin comunicación"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué condiciones son necesarias para cambiar de IFR a VFR durante un vuelo?",
+    "respuestas": {
+      "a": "Lo autorice el copiloto",
+      "b": "Cuando el piloto espera mantener VMC el resto del vuelo",
+      "c": "Cambio autorizado por el pasaje",
+      "d": "Solo si se encuentra en terreno montañoso"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de los procedimientos de baja visibilidad (LVP) en aeródromos?",
+    "respuestas": {
+      "a": "Permitir operaciones nocturnas",
+      "b": "Reducir el tráfico",
+      "c": "Proteger la zona sensible del ILS",
+      "d": "Evitar uso del radar"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué luces se deben usar en tierra durante la noche?",
+    "respuestas": {
+      "a": "Solo luces de taxi",
+      "b": "Luces anticolisión y de navegación",
+      "c": "Luces de cabina",
+      "d": "Luces de aterrizaje"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué es un SVFR?",
+    "respuestas": {
+      "a": "Un tipo de plan de vuelo",
+      "b": "Un vuelo visual especial en zona de control con condiciones inferiores a VMC",
+      "c": "Un vuelo solo para helicópteros",
+      "d": "Un vuelo sin piloto"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué se requiere para volar IFR?",
+    "respuestas": {
+      "a": "Solo una brújula",
+      "b": "Equipos adecuados de navegación e instrumentos",
+      "c": "Permiso del aeropuerto",
+      "d": "Vuelo exclusivamente nocturno"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué acción debe tomarse ante interferencia ilícita (hijacking)?",
+    "respuestas": {
+      "a": "Ignorar la amenaza",
+      "b": "Aterrizar inmediatamente sin avisar",
+      "c": "Alertar ATSU, seleccionar 7500 y seguir instrucciones",
+      "d": "Apagar todos los sistemas"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué significa SERA en el contexto de la aviación?",
+    "respuestas": {
+      "a": "Standardised European Rules of the Air",
+      "b": "System of Emergency Regulations in Aviation",
+      "c": "Specialized European Radar Authority",
+      "d": "Simplified Emergency Response Approach"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué debe hacer un piloto si se desvía del plan de vuelo?",
+    "respuestas": {
+      "a": "Notificar a ATS lo antes posible",
+      "b": "Esperar instrucciones",
+      "c": "Ignorar el cambio si es leve",
+      "d": "Regresar al punto de origen"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué es obligatorio para operar dentro de espacio aéreo controlado?",
+    "respuestas": {
+      "a": "Tener luces estroboscópicas",
+      "b": "Una autorización ATC",
+      "c": "Un copiloto a bordo",
+      "d": "Un transpondedor 7000"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué separación mínima vertical se aplica en áreas no RVSM por debajo de FL290?",
+    "respuestas": {
+      "a": "1000 pies",
+      "b": "2000 pies",
+      "c": "3000 pies",
+      "d": "4000 pies"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué debe hacer el piloto si se encuentra en una zona de control con visibilidad inferior a VMC?",
+    "respuestas": {
+      "a": "Solicitar SVFR o cambiar a IFR",
+      "b": "Aumentar altitud",
+      "c": "Apagar las luces",
+      "d": "Ignorar y continuar"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuándo se debe enviar un plan de vuelo como mínimo?",
+    "respuestas": {
+      "a": "30 minutos antes",
+      "b": "45 minutos antes",
+      "c": "60 minutos antes",
+      "d": "120 minutos antes"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué debe contener un informe de llegada (arrival report)?",
+    "respuestas": {
+      "a": "Solo el destino",
+      "b": "Fecha y hora",
+      "c": "Identificación de aeronave, aeródromo de salida y llegada, hora de llegada",
+      "d": "Frecuencia utilizada"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué equipo debe tener la aeronave para cumplir con vuelos IFR?",
+    "respuestas": {
+      "a": "Luces de cabina",
+      "b": "Instrumentos y equipo de navegación adecuados",
+      "c": "Tanques de combustible extra",
+      "d": "Radares meteorológicos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué debe hacer el piloto durante fallo de comunicaciones en VMC?",
+    "respuestas": {
+      "a": "Mantener VMC y aterrizar en el aeródromo adecuado más cercano",
+      "b": "Subir a mayor nivel",
+      "c": "Esperar instrucciones",
+      "d": "Encender todas las luces"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué nivel debe mantener el piloto en IMC hasta ajustar según plan de vuelo en espacio con separación por procedimientos?",
+    "respuestas": {
+      "a": "Durante 7 minutos",
+      "b": "Durante 10 minutos",
+      "c": "Durante 20 minutos",
+      "d": "Durante 15 minutos"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es el mínimo sobre el obstáculo más alto para vuelos IFR sobre terreno no montañoso?",
+    "respuestas": {
+      "a": "500 ft",
+      "b": "750 ft",
+      "c": "1000 ft",
+      "d": "2000 ft"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué significa una luz roja fija emitida por el ATC hacia una aeronave en tierra?",
+    "respuestas": {
+      "a": "Autorizado para despegar",
+      "b": "Deténgase",
+      "c": "Retroceda",
+      "d": "Proceda con precaución"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué maniobra debe evitar una aeronave sin prioridad de paso?",
+    "respuestas": {
+      "a": "Volar directamente por debajo de otra",
+      "b": "Virar hacia la izquierda",
+      "c": "Descender rápidamente",
+      "d": "Acelerar para sobrepasar"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué indica el balanceo de alas de una aeronave?",
+    "respuestas": {
+      "a": "Avería técnica",
+      "b": "Aterrizaje inmediato",
+      "c": "Reconocimiento de señal",
+      "d": "Emergencia médica"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué altitud mínima debe mantenerse al volar sobre zonas congestionadas?",
+    "respuestas": {
+      "a": "Suficiente para un aterrizaje de emergencia",
+      "b": "1000 ft sobre el terreno",
+      "c": "Exactamente 500 ft",
+      "d": "A nivel de vuelo designado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué debe hacer el piloto ante un cambio inadvertido de velocidad verdadera (TAS) mayor al 5%?",
+    "respuestas": {
+      "a": "Ignorarlo",
+      "b": "Reportarlo al ATC",
+      "c": "Aumentar la velocidad",
+      "d": "Reducir altitud"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué es ADS-B?",
+    "respuestas": {
+      "a": "Radar primario",
+      "b": "Sistema de advertencia meteorológica",
+      "c": "Sistema de vigilancia por enlace de datos",
+      "d": "Luces de señalización"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿En qué condiciones puede operarse un vuelo VFR nocturno?",
+    "respuestas": {
+      "a": "Solo bajo IFR",
+      "b": "Solo con autorización SVFR",
+      "c": "Solo si cumple condiciones VMC y se mantiene contacto visual con el terreno",
+      "d": "Nunca está permitido"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué condición debe cumplirse para descender desde el IAF en un fallo de comunicaciones bajo IMC?",
+    "respuestas": {
+      "a": "Pasar por encima del aeródromo",
+      "b": "Esperar 20 minutos",
+      "c": "Iniciar descenso a la hora estimada de aproximación (EAT) o ETA",
+      "d": "Esperar instrucciones por voz"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué debe hacer una aeronave en un aeródromo al ver una señal de stop bar roja encendida?",
+    "respuestas": {
+      "a": "Proceder con precaución",
+      "b": "Esperar 10 segundos",
+      "c": "Detenerse inmediatamente",
+      "d": "Contactar a mantenimiento"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito principal de los procedimientos de vuelo por instrumentos según la OACI?",
+    "respuestas": {
+      "a": "Reducir el consumo de combustible",
+      "b": "Mejorar la velocidad de despegue",
+      "c": "Permitir aproximaciones y salidas seguras en condiciones inferiores a VMC",
+      "d": "Aumentar el tráfico aéreo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué documento de la OACI trata sobre los procedimientos de operaciones de aeronaves?",
+    "respuestas": {
+      "a": "Doc 4444",
+      "b": "Doc 8168",
+      "c": "Doc 9401",
+      "d": "Doc 7300"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la suposición básica de PANS-OPS en cuanto al funcionamiento de los motores?",
+    "respuestas": {
+      "a": "Un motor está apagado",
+      "b": "Todos los motores están en funcionamiento",
+      "c": "Solo los motores traseros están activos",
+      "d": "Se asume fallo de motor en el despegue"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué condición atmosférica se asume en los procedimientos PANS-OPS salvo que se indique lo contrario?",
+    "respuestas": {
+      "a": "Condiciones VMC",
+      "b": "Condiciones de tormenta",
+      "c": "Condiciones ISA",
+      "d": "Alta presión"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es el principal factor que determina el diseño de los procedimientos de salida por instrumentos?",
+    "respuestas": {
+      "a": "Reducción de ruido",
+      "b": "Ubicación del ATC",
+      "c": "Ubicación de NAVAIDS",
+      "d": "Distancia libre de obstáculos"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué tipo de salida IFR utiliza una pista publicada y un perfil de elevación?",
+    "respuestas": {
+      "a": "Salida visual",
+      "b": "Salida omnidireccional",
+      "c": "Salida estándar por instrumentos (SID)",
+      "d": "Salida de emergencia"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿A partir de qué punto se pueden iniciar normalmente los giros en una salida SID?",
+    "respuestas": {
+      "a": "200 m del inicio de la pista",
+      "b": "600 m del inicio de la pista",
+      "c": "En el punto más alto",
+      "d": "Inmediatamente después del despegue"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué tipo de salida se emplea cuando no hay ayudas a la navegación disponibles?",
+    "respuestas": {
+      "a": "SID",
+      "b": "Salida visual",
+      "c": "Salida omnidireccional",
+      "d": "Salida por vectorización radar"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué altitud mínima se requiere antes de girar más de 15° en una salida omnidireccional?",
+    "respuestas": {
+      "a": "120 m",
+      "b": "394 ft",
+      "c": "75 m",
+      "d": "600 m"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué porcentaje es el gradiente de diseño estándar para SIDs y salidas omnidireccionales?",
+    "respuestas": {
+      "a": "2.5%",
+      "b": "3.0%",
+      "c": "3.3%",
+      "d": "4.0%"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué volumen del PANS-OPS trata sobre los procedimientos de vuelo?",
+    "respuestas": {
+      "a": "Volumen I",
+      "b": "Volumen II",
+      "c": "Volumen III",
+      "d": "Todos los volúmenes"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué define una salida recta según PANS-OPS?",
+    "respuestas": {
+      "a": "Virajes de más de 15°",
+      "b": "Trayectoria de salida inicial dentro de los 15° de la línea central de pista",
+      "c": "Uso de navegación visual",
+      "d": "Ninguna guía de pista"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué condición reduce el rendimiento de ascenso según PANS-OPS?",
+    "respuestas": {
+      "a": "Rectas prolongadas",
+      "b": "Giros",
+      "c": "Altitudes bajas",
+      "d": "Condiciones ISA"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué se espera del piloto con respecto a la trayectoria en los procedimientos PANS-OPS?",
+    "respuestas": {
+      "a": "Seguir GPS automáticamente",
+      "b": "Corregir por viento y mantener la trayectoria",
+      "c": "Esperar instrucciones ATC",
+      "d": "Volar según su criterio"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué sucede si no se pueden cumplir los procedimientos omnidireccionales debido a obstáculos?",
+    "respuestas": {
+      "a": "Se cancela el vuelo",
+      "b": "Se requiere evitar obstáculos visualmente",
+      "c": "Se permite despegar con radar",
+      "d": "Se usa salida SID"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué debe garantizar una SID siempre que sea posible?",
+    "respuestas": {
+      "a": "Despegue sin restricciones",
+      "b": "Ruta directa al destino",
+      "c": "Enlace con la estructura de rutas ATS",
+      "d": "Evitación de zonas de tráfico"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué puede indicar una SID sobre puntos específicos de la trayectoria?",
+    "respuestas": {
+      "a": "Velocidades máximas",
+      "b": "Restricciones de altitud",
+      "c": "Nombres de aeropuertos",
+      "d": "Posiciones de los pasajeros"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la altura mínima de vuelo recto asumida antes de cualquier giro en una salida con viraje?",
+    "respuestas": {
+      "a": "120 m (394 ft)",
+      "b": "90 m (295 ft)",
+      "c": "75 m (246 ft)",
+      "d": "600 m"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué clase de requisitos también se considera en el diseño de procedimientos de salida además del obstáculo?",
+    "respuestas": {
+      "a": "Precio del combustible",
+      "b": "Requisitos del ATC",
+      "c": "Peso de la aeronave",
+      "d": "Velocidad del viento"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el inicio de una salida omnidireccional?",
+    "respuestas": {
+      "a": "Primer waypoint",
+      "b": "Ayuda a la navegación más cercana",
+      "c": "Extremo de salida de la pista (DER)",
+      "d": "Centro del aeródromo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué se publica si se requiere un gradiente superior al estándar?",
+    "respuestas": {
+      "a": "Sección especial del ATC",
+      "b": "Perfil de vuelo",
+      "c": "Altura mínima operacional",
+      "d": "Explícitamente en el procedimiento"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué significa DER en el contexto de salidas?",
+    "respuestas": {
+      "a": "Direct Entry Route",
+      "b": "Departure End of Runway",
+      "c": "Designated Emergency Route",
+      "d": "Departure En Route"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el volumen del PANS-OPS que cubre la construcción de procedimientos visuales e instrumentales?",
+    "respuestas": {
+      "a": "Volumen I",
+      "b": "Volumen II",
+      "c": "Volumen III",
+      "d": "Ninguno"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué tipo de salida IFR puede especificar sectores a evitar?",
+    "respuestas": {
+      "a": "SID",
+      "b": "Visual",
+      "c": "Omnidireccional",
+      "d": "Radar"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué volumen del PANS-OPS trata sobre los procedimientos de operación de aeronaves?",
+    "respuestas": {
+      "a": "Volumen I",
+      "b": "Volumen II",
+      "c": "Volumen III",
+      "d": "Todos los anteriores"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué sucede si una SID prohíbe giros hasta el DER?",
+    "respuestas": {
+      "a": "Se debe mantener vuelo recto hasta el DER",
+      "b": "Se permite girar tras el despegue",
+      "c": "Se inicia descenso",
+      "d": "Se contacta al ATC"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué representa una SID en la mayoría de los casos?",
+    "respuestas": {
+      "a": "Ruta de emergencia",
+      "b": "Plan de vuelo militar",
+      "c": "Enlace entre la pista y la ruta ATS",
+      "d": "Ruta visual"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuándo puede iniciarse un viraje en una salida recta para helicópteros?",
+    "respuestas": {
+      "a": "394 ft",
+      "b": "295 ft",
+      "c": "600 m",
+      "d": "75 m"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué instrumento ayuda a definir las SID?",
+    "respuestas": {
+      "a": "ILS",
+      "b": "GPS",
+      "c": "NAVAIDS",
+      "d": "Radar"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuántos segmentos componen la fase de aproximación en operaciones de vuelo?",
+    "respuestas": {
+      "a": "Tres",
+      "b": "Cinco",
+      "c": "Cuatro",
+      "d": "Seis"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal del diseñador del procedimiento cuando disminuye la altitud?",
+    "respuestas": {
+      "a": "Ahorrar combustible",
+      "b": "Reducir el ruido",
+      "c": "Asegurar separación de obstáculos",
+      "d": "Aumentar la velocidad"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué factor afecta más el tamaño del área protegida en los procedimientos?",
+    "respuestas": {
+      "a": "Altitud de vuelo",
+      "b": "Velocidad de la aeronave",
+      "c": "Presión atmosférica",
+      "d": "Cantidad de pasajeros"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la categoría de aeronaves con una IAS inferior a 91 kt?",
+    "respuestas": {
+      "a": "Categoría A",
+      "b": "Categoría B",
+      "c": "Categoría C",
+      "d": "Categoría H"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué altitud mínima garantiza la MSA dentro de un radio de 25 nm?",
+    "respuestas": {
+      "a": "150 m",
+      "b": "984 ft",
+      "c": "492 ft",
+      "d": "1000 ft"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cómo se divide el volumen de espacio protegido para la franqueza de obstáculos?",
+    "respuestas": {
+      "a": "En sectores verticales",
+      "b": "En áreas primarias y secundarias",
+      "c": "Por zonas de altitud",
+      "d": "En niveles de vuelo"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué cubre el segmento de llegada?",
+    "respuestas": {
+      "a": "De la pista al punto de espera",
+      "b": "Del punto de aproximación final al aterrizaje",
+      "c": "Del vuelo en ruta al IAF",
+      "d": "Del despegue al punto inicial"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Dónde comienza el segmento de aproximación inicial?",
+    "respuestas": {
+      "a": "FAF",
+      "b": "IF",
+      "c": "MAPt",
+      "d": "IAF"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué proporciona el segmento de aproximación inicial en su área primaria?",
+    "respuestas": {
+      "a": "Altitud constante",
+      "b": "984 ft de franqueza de obstáculos",
+      "c": "Desviación de 90°",
+      "d": "Visibilidad mínima"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué requisito de franqueza de obstáculos tiene el segmento intermedio?",
+    "respuestas": {
+      "a": "300 ft",
+      "b": "1000 ft",
+      "c": "492 ft",
+      "d": "600 ft"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué define una aproximación recta según el ángulo con la línea central de pista?",
+    "respuestas": {
+      "a": "15°",
+      "b": "30°",
+      "c": "45°",
+      "d": "60°"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Dónde comienza el segmento de aproximación final para una ILS?",
+    "respuestas": {
+      "a": "IAF",
+      "b": "FAF",
+      "c": "Punto donde se intercepta la senda de planeo",
+      "d": "MAPt"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es el gradiente de descenso óptimo en una aproximación ILS?",
+    "respuestas": {
+      "a": "2.5%",
+      "b": "3%",
+      "c": "5%",
+      "d": "6%"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué ocurre si la senda de planeo falla durante una aproximación ILS?",
+    "respuestas": {
+      "a": "Se continúa como si nada",
+      "b": "Se convierte en aproximación de no precisión",
+      "c": "Se aumenta el gradiente de descenso",
+      "d": "Se ignora la senda"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué se debe hacer si no hay procedimiento publicado de no G/P durante fallo de senda de planeo?",
+    "respuestas": {
+      "a": "Continuar con la aproximación",
+      "b": "Volver al punto inicial",
+      "c": "Ejecutar go-around",
+      "d": "Solicitar vectores ATC"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es la función de la altitud de decisión (DA) en una aproximación de precisión?",
+    "respuestas": {
+      "a": "Determina la altura mínima de despegue",
+      "b": "Momento para decidir aterrizar o hacer go-around",
+      "c": "Altitud máxima de aproximación",
+      "d": "Punto de intersección con el IAF"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué limita el uso de altura o altitud en una aproximación?",
+    "respuestas": {
+      "a": "Condiciones meteorológicas",
+      "b": "Altitud del aeropuerto",
+      "c": "Configuración del altímetro",
+      "d": "Tipo de aeronave"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿En qué se basa la DA/H y la MDA/H?",
+    "respuestas": {
+      "a": "En la velocidad de la aeronave",
+      "b": "En el tipo de pista",
+      "c": "En la OCA/OCH más un margen operativo",
+      "d": "En la visibilidad"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué gradiente se usa en una aproximación frustrada estándar?",
+    "respuestas": {
+      "a": "2.0%",
+      "b": "2.5%",
+      "c": "3.0%",
+      "d": "3.3%"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el punto en el que debe iniciarse el procedimiento de aproximación frustrada?",
+    "respuestas": {
+      "a": "FAF",
+      "b": "DA/H",
+      "c": "MAPt",
+      "d": "IAF"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuántas fases tiene el procedimiento de aproximación frustrada?",
+    "respuestas": {
+      "a": "Dos",
+      "b": "Cuatro",
+      "c": "Tres",
+      "d": "Cinco"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué ocurre si se pierde referencia visual durante una maniobra de circling?",
+    "respuestas": {
+      "a": "Se continúa visualmente",
+      "b": "Se detiene la aproximación",
+      "c": "Se sigue el procedimiento de go-around",
+      "d": "Se solicita nueva altitud"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué permite una maniobra de circling?",
+    "respuestas": {
+      "a": "Aterrizar en una pista cerrada",
+      "b": "Aterrizar en una pista distinta a la usada en la aproximación por instrumentos",
+      "c": "Evitar zonas ATC",
+      "d": "Reducir la visibilidad"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿En qué condición se justifica una aproximación con maniobra de circling?",
+    "respuestas": {
+      "a": "Cuando hay tráfico en espera",
+      "b": "Por condiciones de niebla",
+      "c": "Cuando la pista en uso no es adecuada por viento cruzado",
+      "d": "Para aterrizajes rápidos"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué determina el punto MAPt en una aproximación de no precisión?",
+    "respuestas": {
+      "a": "Intersección con senda de planeo",
+      "b": "Una instalación de navegación o distancia del FAF",
+      "c": "Altitud de aproximación",
+      "d": "Velocidad del viento"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué se puede hacer si hay fallo de sistema antes del MAPt?",
+    "respuestas": {
+      "a": "Se detiene la aproximación",
+      "b": "Se espera instrucciones",
+      "c": "Se puede iniciar el go-around antes",
+      "d": "Se cambia de pista"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es el cambio máximo de pista permitido en la fase intermedia de la aproximación frustrada?",
+    "respuestas": {
+      "a": "10°",
+      "b": "20°",
+      "c": "15°",
+      "d": "25°"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Dónde comienza la fase final de una aproximación frustrada?",
+    "respuestas": {
+      "a": "MAPt",
+      "b": "Donde se alcanza por primera vez separación de 50 m",
+      "c": "Inicio de la pista",
+      "d": "IAF"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito del procedimiento de espera?",
+    "respuestas": {
+      "a": "Aumentar velocidad",
+      "b": "Descender más rápido",
+      "c": "Esperar turno para aproximación",
+      "d": "Evitar tráfico terrestre"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué forma tiene el patrón de espera?",
+    "respuestas": {
+      "a": "Circular",
+      "b": "Rectangular",
+      "c": "Ovalada",
+      "d": "Triangular"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué banco de viraje se utiliza en un patrón de espera?",
+    "respuestas": {
+      "a": "30°",
+      "b": "25° o 3°/seg",
+      "c": "20°",
+      "d": "35°"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cómo se logra la separación segura entre aeronaves en espera?",
+    "respuestas": {
+      "a": "Separación lateral",
+      "b": "Zonas separadas",
+      "c": "Por altitud en intervalos de 1000 ft",
+      "d": "Tiempo entre entradas"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué aeronave se incorpora al nivel más bajo del patrón de espera?",
+    "respuestas": {
+      "a": "La más rápida",
+      "b": "La más pesada",
+      "c": "La primera en llegar",
+      "d": "La que aterriza primero"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué comprende el área de espera?",
+    "respuestas": {
+      "a": "Zona de entrada y básica",
+      "b": "Zona crítica y de escape",
+      "c": "Área de salida",
+      "d": "Solo zona básica"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuánto se extiende la zona buffer más allá del área de espera?",
+    "respuestas": {
+      "a": "3 nm",
+      "b": "10 nm",
+      "c": "2 nm",
+      "d": "5 nm"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué efecto tiene un obstáculo en la zona buffer?",
+    "respuestas": {
+      "a": "No afecta",
+      "b": "Disminuye altitud mínima",
+      "c": "Aumenta la altitud mínima de espera",
+      "d": "Se cambia de pista"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué separación mínima sobre obstáculos garantiza el nivel mínimo de espera?",
+    "respuestas": {
+      "a": "100 m",
+      "b": "200 m",
+      "c": "300 m (984 ft)",
+      "d": "150 m"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es la franqueza mínima en el borde de la zona buffer?",
+    "respuestas": {
+      "a": "100 ft",
+      "b": "197 ft (60 m)",
+      "c": "984 ft",
+      "d": "300 ft"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué debe hacer un piloto si no puede cumplir los procedimientos de espera?",
+    "respuestas": {
+      "a": "Pedir vectores",
+      "b": "Informar al ATC lo antes posible",
+      "c": "Esperar instrucciones",
+      "d": "Continuar el patrón"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué se debe hacer para mantener la geometría del patrón de espera?",
+    "respuestas": {
+      "a": "Reducir altitud",
+      "b": "Aumentar velocidad",
+      "c": "Corregir por viento y mantener velocidad adecuada",
+      "d": "Girar más rápido"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cómo puede especificarse la longitud del patrón de espera?",
+    "respuestas": {
+      "a": "Solo en millas náuticas",
+      "b": "Como tiempo o rango DME",
+      "c": "Solo como altitud",
+      "d": "En minutos únicamente"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuándo comienza el cronometraje de salida si se especifica por tiempo?",
+    "respuestas": {
+      "a": "Al llegar al fix",
+      "b": "Cuando termina el viraje de salida",
+      "c": "Cuando se alinea con la pista",
+      "d": "Después del FAF"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el tiempo máximo de salida en aire quieto por debajo de 14 000 ft?",
+    "respuestas": {
+      "a": "1 minuto",
+      "b": "2 minutos",
+      "c": "1.5 minutos",
+      "d": "45 segundos"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál es el tiempo máximo de salida en aire quieto por encima de 14 000 ft?",
+    "respuestas": {
+      "a": "1 minuto",
+      "b": "2 minutos",
+      "c": "1.5 minutos",
+      "d": "3 minutos"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué entrada se usa en el Sector 1?",
+    "respuestas": {
+      "a": "Directa",
+      "b": "Offset",
+      "c": "Paralela",
+      "d": "Circular"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es el procedimiento de entrada paralela?",
+    "respuestas": {
+      "a": "Virar a la izquierda y regresar directo al fix",
+      "b": "Virar a 30° del rumbo entrante",
+      "c": "Virar directo al patrón",
+      "d": "Virar en sentido contrario al patrón"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué entrada corresponde al Sector 2?",
+    "respuestas": {
+      "a": "Entrada directa",
+      "b": "Offset",
+      "c": "Paralela",
+      "d": "En espera"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué ángulo se utiliza para la entrada offset?",
+    "respuestas": {
+      "a": "20°",
+      "b": "45°",
+      "c": "30°",
+      "d": "10°"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué entrada corresponde al Sector 3?",
+    "respuestas": {
+      "a": "Offset",
+      "b": "Paralela",
+      "c": "Directa",
+      "d": "Indirecta"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué se hace en la entrada directa?",
+    "respuestas": {
+      "a": "Virar a la izquierda y volver al fix",
+      "b": "Virar a 30°",
+      "c": "Virar directamente al patrón",
+      "d": "Esperar confirmación"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué ocurre en la segunda llegada sobre el fix en entrada paralela?",
+    "respuestas": {
+      "a": "Se cambia de patrón",
+      "b": "Se inicia descenso",
+      "c": "Se gira a la derecha para seguir el patrón",
+      "d": "Se mantiene rumbo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué determina la elección del tipo de entrada al patrón de espera?",
+    "respuestas": {
+      "a": "Altitud",
+      "b": "Dirección de llegada",
+      "c": "Velocidad",
+      "d": "Tipo de aeronave"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué distancia puede usarse si hay DME disponible en lugar del tiempo?",
+    "respuestas": {
+      "a": "Tiempo de espera",
+      "b": "Distancia del tramo de salida",
+      "c": "Velocidad sobre el fix",
+      "d": "Altitud mínima"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué debe hacer el piloto si no puede determinar la posición a abeam?",
+    "respuestas": {
+      "a": "Iniciar descenso",
+      "b": "Solicitar vectores",
+      "c": "Iniciar el cronómetro tras completar el viraje",
+      "d": "Esperar instrucciones"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué garantiza mantenerse dentro del área de espera y zona buffer?",
+    "respuestas": {
+      "a": "Evitar tráfico",
+      "b": "Reducción de velocidad",
+      "c": "Franqueza segura de obstáculos",
+      "d": "Reducción de ruido"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué define el área básica del patrón de espera?",
+    "respuestas": {
+      "a": "Zona de entrada",
+      "b": "Nivel de altitud",
+      "c": "Área para los patrones en cada nivel",
+      "d": "Zonas de descenso"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué es una Región de Información de Vuelo (FIR)?",
+    "respuestas": {
+      "a": "Una zona de tráfico militar",
+      "b": "Una ruta aérea específica",
+      "c": "Un bloque tridimensional de espacio aéreo asignado a un Estado",
+      "d": "Una zona de exclusión aérea"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué servicio básico ofrece un FIR?",
+    "respuestas": {
+      "a": "Servicio meteorológico",
+      "b": "Información de vuelo y servicio de alerta",
+      "c": "Control de tráfico en tierra",
+      "d": "Seguimiento de mantenimiento"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué es un UIR?",
+    "respuestas": {
+      "a": "Una región de control de tráfico inferior",
+      "b": "Una zona de aproximación visual",
+      "c": "Una Región de Información de Vuelo Superior",
+      "d": "Una torre de control unificada"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué determina la separación entre espacio aéreo superior e inferior?",
+    "respuestas": {
+      "a": "Es fija a nivel mundial",
+      "b": "La determina cada Estado",
+      "c": "Está determinada por la velocidad de la aeronave",
+      "d": "Depende de la carga útil"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué tipo de espacio aéreo se encuentra donde el tráfico es bajo y no se requiere control?",
+    "respuestas": {
+      "a": "Zona de control",
+      "b": "Área Terminal",
+      "c": "Espacio aéreo no controlado",
+      "d": "Espacio aéreo peligroso"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué son las CTAs?",
+    "respuestas": {
+      "a": "Zonas de control terminal",
+      "b": "Áreas de control",
+      "c": "Rutas VFR",
+      "d": "Zonas militares"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué altura mínima puede tener una CTA?",
+    "respuestas": {
+      "a": "400 ft AGL",
+      "b": "500 ft AGL",
+      "c": "700 ft AGL",
+      "d": "900 ft AGL"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué define una CTR?",
+    "respuestas": {
+      "a": "Zona que comienza desde una altitud por encima del terreno",
+      "b": "Zona que se extiende desde la superficie hasta un nivel definido",
+      "c": "Ruta de navegación específica",
+      "d": "Área de alerta"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué categoría de espacio aéreo no provee ningún tipo de servicio ATC?",
+    "respuestas": {
+      "a": "Clase A",
+      "b": "Clase D",
+      "c": "Clase E",
+      "d": "Clase G"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué clases de espacio aéreo proveen control para vuelos IFR?",
+    "respuestas": {
+      "a": "Clase A, B, C, D y E",
+      "b": "Clase A y G",
+      "c": "Clase C, D y G",
+      "d": "Clase B, D y G"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué permite la navegación RNAV?",
+    "respuestas": {
+      "a": "Navegar solo por VOR",
+      "b": "Seguir rutas sin ayudas en tierra específicas",
+      "c": "Solo volar visualmente",
+      "d": "Utilizar solo puntos NDB"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué especifica el RNP?",
+    "respuestas": {
+      "a": "La carga máxima al despegue",
+      "b": "La resistencia estructural",
+      "c": "La precisión de navegación requerida",
+      "d": "La velocidad de crucero"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué significa RNP 10?",
+    "respuestas": {
+      "a": "Precisión de navegación dentro de 10 nm el 95% del tiempo",
+      "b": "10 minutos entre reportes de posición",
+      "c": "Radio de giro de 10 grados",
+      "d": "Altitud mínima de 10.000 pies"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué función cumple el designador de ruta ATS?",
+    "respuestas": {
+      "a": "Identifica al piloto al mando",
+      "b": "Establece los puntos de navegación de emergencia",
+      "c": "Identifica de forma única la ruta y su tipo",
+      "d": "Clasifica los niveles de alerta"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué estructura tiene un designador de ruta ATS?",
+    "respuestas": {
+      "a": "Dos letras y dos números",
+      "b": "Un número seguido de una letra",
+      "c": "Una letra y un número entre 1 y 999",
+      "d": "Tres letras sin número"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué indica un prefijo 'U' en un designador de ruta ATS?",
+    "respuestas": {
+      "a": "Ruta de helicóptero",
+      "b": "Ruta supersonic",
+      "c": "Ruta en espacio aéreo superior",
+      "d": "Ruta restringida"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué indica un prefijo 'K' en un designador ATS?",
+    "respuestas": {
+      "a": "Ruta de tráfico controlado",
+      "b": "Ruta de helicópteros",
+      "c": "Ruta combinada",
+      "d": "Ruta internacional"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué tipo de navegación permite rutas punto a punto?",
+    "respuestas": {
+      "a": "NDB",
+      "b": "GNSS",
+      "c": "VOR",
+      "d": "ILS"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué requiere una especificación RNP además de precisión?",
+    "respuestas": {
+      "a": "Velocidad constante",
+      "b": "Monitoreo y alerta de rendimiento",
+      "c": "Apoyo de controladores",
+      "d": "Radar en tierra"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Por qué las rutas aéreas tradicionales causan congestión?",
+    "respuestas": {
+      "a": "Porque requieren mucho combustible",
+      "b": "Porque siguen caminos directos",
+      "c": "Porque actúan como cuellos de botella",
+      "d": "Porque usan muchos tipos de balizas"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es un beneficio de la navegación basada en GNSS?",
+    "respuestas": {
+      "a": "Mayor dependencia de VOR",
+      "b": "Trayectorias menos flexibles",
+      "c": "Reducción del tráfico",
+      "d": "Mayor densidad de rutas y flexibilidad"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué asegura la integridad en el contexto de navegación?",
+    "respuestas": {
+      "a": "Evitar colisiones",
+      "b": "Fidelidad de navegación",
+      "c": "Confiabilidad de la información",
+      "d": "Tiempo de respuesta"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué se espera de los sistemas de navegación con RNP?",
+    "respuestas": {
+      "a": "Sin monitoreo",
+      "b": "Rendimiento continuo sin alertas",
+      "c": "Alerta en caso de falla o desviación",
+      "d": "Autonomía total"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué papel tiene un waypoint en navegación aérea?",
+    "respuestas": {
+      "a": "Determina altitud mínima",
+      "b": "Punto de verificación para reportes meteorológicos",
+      "c": "Punto de referencia para navegación RNAV",
+      "d": "Punto de inicio de un descenso"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene usar rutas RNAV sobre las tradicionales?",
+    "respuestas": {
+      "a": "Mayor coste de operación",
+      "b": "Menor precisión de navegación",
+      "c": "Menor congestión y mayor eficiencia",
+      "d": "Dependencia de radioayudas fijas"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué es necesario para volar rutas con alta densidad y poco espaciamiento?",
+    "respuestas": {
+      "a": "Permisos especiales",
+      "b": "Radar a bordo",
+      "c": "Alta precisión y fidelidad en navegación",
+      "d": "Altitud constante"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué significa que un sistema tenga continuidad en navegación?",
+    "respuestas": {
+      "a": "Se apaga en vuelo",
+      "b": "Se recalibra periódicamente",
+      "c": "Opera sin interrupciones no programadas",
+      "d": "No necesita mantenimiento"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cómo se pronuncia el prefijo 'S' en comunicaciones de voz?",
+    "respuestas": {
+      "a": "SIERRA",
+      "b": "SUPER",
+      "c": "SPEEDY",
+      "d": "SOUTH"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué indica un sufijo en un designador de ruta?",
+    "respuestas": {
+      "a": "Longitud de la ruta",
+      "b": "Altitud mínima",
+      "c": "Tipo de aeronave que puede usarla",
+      "d": "Tipo de emergencia"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es uno de los principales objetivos de los servicios de tránsito aéreo?",
+    "respuestas": {
+      "a": "Reducir el ruido en aeródromos",
+      "b": "Aumentar la velocidad de vuelo",
+      "c": "Prevenir colisiones entre aeronaves",
+      "d": "Eliminar el control radar"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuáles son los tres servicios que componen los servicios de tránsito aéreo?",
+    "respuestas": {
+      "a": "Control, coordinación y meteo",
+      "b": "Control de tráfico aéreo, información de vuelo y servicio de alerta",
+      "c": "Control, despacho y mantenimiento",
+      "d": "Radar, comunicación y vigilancia"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué servicio se encarga del tráfico en ruta?",
+    "respuestas": {
+      "a": "Control de aeródromo",
+      "b": "Servicio de aproximación",
+      "c": "Servicio de área",
+      "d": "Servicio de vigilancia"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿En qué momento se transfiere el control de un avión en salida VMC al control de aproximación?",
+    "respuestas": {
+      "a": "Al aterrizar",
+      "b": "Antes de dejar la vecindad del aeródromo o antes de entrar en IMC",
+      "c": "Después de despegar",
+      "d": "Antes del rodaje"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuándo se transfiere el control de un avión en llegada desde aproximación a torre?",
+    "respuestas": {
+      "a": "Al sobrevolar el VOR",
+      "b": "En el descenso inicial",
+      "c": "Cuando se cree que puede aterrizar con visibilidad o en VMC",
+      "d": "Tras el aterrizaje"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué puede hacer el ATC si dos aeronaves tienen indicativos similares en la misma frecuencia?",
+    "respuestas": {
+      "a": "Ignorar la similitud",
+      "b": "Solicitar un cambio temporal de indicativo",
+      "c": "Rechazar la comunicación",
+      "d": "Duplicar el canal"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué debe incluir una autorización ATC?",
+    "respuestas": {
+      "a": "El tiempo estimado de vuelo únicamente",
+      "b": "Solo el nivel de vuelo",
+      "c": "Identificación, límite, ruta, niveles e instrucciones adicionales",
+      "d": "Tipo de aeronave y peso"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué sucede si no puedes cumplir con el tiempo límite de una autorización ATC?",
+    "respuestas": {
+      "a": "Se ignora",
+      "b": "Se solicita una nueva autorización",
+      "c": "Se cambia de frecuencia",
+      "d": "Se inicia una maniobra de espera"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿De quién es la responsabilidad de mantener separación de terreno en vuelo?",
+    "respuestas": {
+      "a": "Del controlador radar",
+      "b": "Del ATC",
+      "c": "Del piloto al mando",
+      "d": "Del operador del vuelo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué debe hacer el comandante al recibir una autorización ATC?",
+    "respuestas": {
+      "a": "Esperar confirmación por parte del copiloto",
+      "b": "Leerla de nuevo en voz alta para la cabina",
+      "c": "Hacer el 'read-back'",
+      "d": "Confirmar con el operador"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué unidad suele emitir las autorizaciones fuera del aeródromo?",
+    "respuestas": {
+      "a": "La torre de control local",
+      "b": "El centro de control de área del FIR",
+      "c": "El piloto al mando",
+      "d": "El ATIS"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el propósito del ATIS?",
+    "respuestas": {
+      "a": "Reducir consumo de combustible",
+      "b": "Reducir tráfico en frecuencia VHF",
+      "c": "Controlar la pista activa",
+      "d": "Emitir autorizaciones de emergencia"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué debe contener un mensaje ATIS?",
+    "respuestas": {
+      "a": "Código de aeródromo y posición del avión",
+      "b": "Información meteorológica, pista en uso, QNH y condiciones de superficie",
+      "c": "Distancia de planeo y combustible",
+      "d": "Frecuencia y hora de despegue"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cada cuánto se actualiza un mensaje ATIS?",
+    "respuestas": {
+      "a": "Cada 30 minutos",
+      "b": "Cada hora UTC",
+      "c": "Cuando hay un cambio significativo",
+      "d": "Cada cambio de turno"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué servicio incluye la transmisión de información SIGMET?",
+    "respuestas": {
+      "a": "Control de área",
+      "b": "Servicio de radar",
+      "c": "Servicio de información de vuelo",
+      "d": "Servicio de meteo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo del servicio de alerta?",
+    "respuestas": {
+      "a": "Notificar tráfico cercano",
+      "b": "Asistir a aeronaves en emergencia",
+      "c": "Gestionar retrasos",
+      "d": "Coordinar ATIS"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué fase se inicia si no se recibe comunicación 30 minutos después del tiempo esperado?",
+    "respuestas": {
+      "a": "Fase de peligro",
+      "b": "Fase de alerta",
+      "c": "Fase de incertidumbre",
+      "d": "Fase final"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué fase se activa cuando un avión falla en aterrizar 5 minutos después de su ETA?",
+    "respuestas": {
+      "a": "Fase de emergencia",
+      "b": "Fase de alerta",
+      "c": "Fase de incertidumbre",
+      "d": "Fase de búsqueda"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué fase se inicia si se sospecha que el combustible es insuficiente para llegar a destino?",
+    "respuestas": {
+      "a": "Fase de alerta",
+      "b": "Fase de incertidumbre",
+      "c": "Fase de peligro",
+      "d": "Fase de evacuación"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué frecuencia se usa durante una emergencia?",
+    "respuestas": {
+      "a": "123.4 MHz",
+      "b": "121.5 MHz",
+      "c": "118.3 MHz",
+      "d": "112.2 MHz"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué tipo de llamadas incluye el contenido del ATIS?",
+    "respuestas": {
+      "a": "Rumbo de despegue",
+      "b": "Nombre del controlador",
+      "c": "Letra de código del mensaje",
+      "d": "Nivel de vuelo esperado"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué entidad es responsable de preparar el mensaje ATIS?",
+    "respuestas": {
+      "a": "El comandante",
+      "b": "El operador del aeropuerto",
+      "c": "El servicio de tránsito aéreo (ATSU)",
+      "d": "El servicio meteorológico"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué se debe hacer si hay interferencia ilícita con una aeronave?",
+    "respuestas": {
+      "a": "Informar solo a la aeronave",
+      "b": "No hacer ninguna referencia a menos que lo declare la aeronave",
+      "c": "Transmitir por todos los canales",
+      "d": "Contactar a otras aeronaves"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué debe hacer el ATSU si se sospecha una emergencia?",
+    "respuestas": {
+      "a": "Esperar confirmación",
+      "b": "Transmitir por VOR únicamente",
+      "c": "Informar inmediatamente al RCC",
+      "d": "Desconectar frecuencia"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué sucede si hay una situación de interferencia ilícita declarada?",
+    "respuestas": {
+      "a": "No se debe usar 121.5",
+      "b": "Se ignora",
+      "c": "No se hace referencia salvo que la aeronave lo indique",
+      "d": "Se evacúa el FIR"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué sucede si dos aeronaves están en peligro y una ya ha sido asistida?",
+    "respuestas": {
+      "a": "Se mantiene la alerta solo para la primera",
+      "b": "Se transfiere la alerta a la segunda",
+      "c": "Se reactiva la fase de incertidumbre",
+      "d": "Se cambia el procedimiento"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué debe incluir un mensaje ATIS sobre condiciones meteorológicas?",
+    "respuestas": {
+      "a": "Previsión a 10 días",
+      "b": "Solo la temperatura actual",
+      "c": "Condiciones actuales, visibilidad, QNH y viento",
+      "d": "Condiciones en otro aeródromo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué servicio puede aceptar planes de vuelo en el aire?",
+    "respuestas": {
+      "a": "Servicio meteorológico",
+      "b": "Servicio de control de aeródromo",
+      "c": "Servicio de información de vuelo",
+      "d": "Servicio de alerta"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué servicio proporciona datos como retrasos en tierra o en espera?",
+    "respuestas": {
+      "a": "ATIS",
+      "b": "Radar",
+      "c": "SIGMET",
+      "d": "TWR"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué es el PANS-ATM?",
+    "respuestas": {
+      "a": "Un reglamento europeo de aviación",
+      "b": "Un sistema de navegación por satélite",
+      "c": "Un documento que complementa los SARPS de los Anexos 2 y 11",
+      "d": "Un sistema de control meteorológico"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es la única excepción donde el ATC es responsable de la separación con el terreno?",
+    "respuestas": {
+      "a": "Cuando el avión está en crucero",
+      "b": "Durante una emergencia médica",
+      "c": "Cuando un vuelo IFR está siendo vectorizado por radar",
+      "d": "En vuelos VFR sobre ciudades"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué ley europea recoge muchos elementos del PANS-ATM?",
+    "respuestas": {
+      "a": "Reglamento 216/2008",
+      "b": "Reglamento (UE) 2017/373",
+      "c": "Reglamento 965/2012",
+      "d": "Reglamento 139/2014"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal de la gestión de afluencia de tránsito aéreo (ATFM)?",
+    "respuestas": {
+      "a": "Aumentar la velocidad de crucero",
+      "b": "Reducir los costos de las aerolíneas",
+      "c": "Evitar que la demanda de tráfico supere la capacidad del espacio aéreo",
+      "d": "Mejorar las condiciones meteorológicas"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué puede hacer la unidad ATFM ante previsión de congestión?",
+    "respuestas": {
+      "a": "Suspender vuelos indefinidamente",
+      "b": "Autorizar vuelos supersónicos",
+      "c": "Restringir las salidas para absorber retrasos en tierra",
+      "d": "Eliminar las reglas ATC"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué se incluye en una autorización ATC?",
+    "respuestas": {
+      "a": "Solo el destino y nivel de vuelo",
+      "b": "Nivel de vuelo, ruta, identificación e instrucciones adicionales",
+      "c": "Distancia a recorrer",
+      "d": "Nombre del controlador"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué debe hacer el piloto si considera inadecuada una autorización?",
+    "respuestas": {
+      "a": "Ignorarla",
+      "b": "Seguirla bajo su responsabilidad",
+      "c": "Solicitar una modificación",
+      "d": "Esperar una emergencia"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué se debe incluir en el 'read-back' obligatorio?",
+    "respuestas": {
+      "a": "Solo el número de vuelo",
+      "b": "Altitud y nivel únicamente",
+      "c": "Autorizaciones de ruta, pista, códigos SSR, nivel, rumbo y velocidad",
+      "d": "Hora y condiciones meteorológicas"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué expresión se utiliza para describir una ruta idéntica al plan de vuelo presentado?",
+    "respuestas": {
+      "a": "Cleared via IFR",
+      "b": "Cleared direct route",
+      "c": "Cleared via filed flight plan",
+      "d": "Cleared traffic vector"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué tipo de instrucciones puede dar el ATC para controlar el flujo de tráfico?",
+    "respuestas": {
+      "a": "Aumentar carga útil",
+      "b": "Ajustes de velocidad horizontal",
+      "c": "Reducir altitud máxima",
+      "d": "Cambiar destino"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué limitaciones tiene el ATC al ordenar reducciones de velocidad bajo FL150?",
+    "respuestas": {
+      "a": "No menos de 300 kt",
+      "b": "No menos de 250 kt",
+      "c": "No menos de 220 kt",
+      "d": "Solo si hay tormenta"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué debe decir el piloto para cancelar un vuelo IFR y cambiar a VFR?",
+    "respuestas": {
+      "a": "Solicito cambio a VMC",
+      "b": "Cambio a vuelo visual",
+      "c": "Cancelando mi vuelo IFR",
+      "d": "Finalizo plan de vuelo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué categoría de turbulencia de estela incluye aeronaves con MCTOM mayor a 136,000 kg?",
+    "respuestas": {
+      "a": "LIGHT",
+      "b": "MEDIUM",
+      "c": "HEAVY",
+      "d": "SUPER"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué información incluye un reporte de posición obligatorio?",
+    "respuestas": {
+      "a": "Solo el tiempo",
+      "b": "Posición, hora, nivel, siguiente punto y ETA",
+      "c": "Viento y QNH",
+      "d": "Consumo de combustible"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué tecnología permite la transmisión automática de la posición de la aeronave?",
+    "respuestas": {
+      "a": "VOR",
+      "b": "ADF",
+      "c": "ADS-B o ADS-C",
+      "d": "ILS"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué debe hacer una aeronave tras cambiar de frecuencia?",
+    "respuestas": {
+      "a": "Solicitar altitud",
+      "b": "Reportar nivel y rumbo",
+      "c": "Hacer un reporte de posición",
+      "d": "Ignorar contacto"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es una diferencia entre ADS-B y ADS-C?",
+    "respuestas": {
+      "a": "ADS-B es más lento",
+      "b": "ADS-C establece un contrato exclusivo",
+      "c": "ADS-B solo transmite en tierra",
+      "d": "ADS-C se basa en VHF"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué información contiene el reporte inicial de una emergencia aérea especial?",
+    "respuestas": {
+      "a": "Temperatura y viento",
+      "b": "Nivel, posición, hora e identificación",
+      "c": "QNH y humedad",
+      "d": "Código ATIS"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es una condición que requiere un reporte aéreo especial?",
+    "respuestas": {
+      "a": "Turbulencia ligera",
+      "b": "Alta presión",
+      "c": "Ceniza volcánica",
+      "d": "Viento cruzado leve"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué deben hacer los pilotos cuando reciben una instrucción que no pueden cumplir?",
+    "respuestas": {
+      "a": "Seguirla igual",
+      "b": "Solicitar autorización alternativa",
+      "c": "Esperar hasta estar en condiciones",
+      "d": "Avisar a otro avión"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué significa la categoría 'SUPER' para una aeronave?",
+    "respuestas": {
+      "a": "Más de 200,000 kg",
+      "b": "Categoría especial de velocidad",
+      "c": "Clasificación para turbulencia de estela superior",
+      "d": "Aeronave con turbinas múltiples"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué ocurre si un ATC da una autorización que podría implicar una infracción?",
+    "respuestas": {
+      "a": "Debe ignorarse",
+      "b": "El piloto puede seguirla sin problema",
+      "c": "El piloto sigue siendo responsable de cumplir regulaciones",
+      "d": "Se asume que el ATC asume responsabilidad"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿En qué casos no puede utilizarse la frase 'cleared via flight planned route'?",
+    "respuestas": {
+      "a": "Para rutas VFR",
+      "b": "Al aterrizar",
+      "c": "Al otorgar una reautorización",
+      "d": "Cuando se cambia el código transponder"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué instrucción se da para cambiar de IFR a VFR?",
+    "respuestas": {
+      "a": "Cambio de reglas",
+      "b": "Reinicio de plan de vuelo",
+      "c": "Cancelando vuelo IFR",
+      "d": "Finalización de contacto"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es una de las causas más comunes de accidentes fatales relacionados con autorizaciones?",
+    "respuestas": {
+      "a": "Mal cálculo de combustible",
+      "b": "Desviaciones meteorológicas",
+      "c": "Malentendidos en autorizaciones ATC",
+      "d": "Averías técnicas"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué se requiere si se asigna una velocidad específica bajo FL250?",
+    "respuestas": {
+      "a": "Cambio de código SSR",
+      "b": "Confirmación por parte del controlador",
+      "c": "Consentimiento del piloto para velocidades menores a 250 kt",
+      "d": "No se permite"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué indica el sufijo 'Heavy' en una llamada inicial?",
+    "respuestas": {
+      "a": "Altura del vuelo",
+      "b": "Carga útil excesiva",
+      "c": "Categoría de turbulencia de estela",
+      "d": "Plan de vuelo urgente"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué debe incluir una autorización si cubre solo parte de la ruta?",
+    "respuestas": {
+      "a": "Altitud máxima",
+      "b": "Frecuencia alternativa",
+      "c": "Punto hasta donde aplica",
+      "d": "Autorización automática"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué significa que una autorización tenga una hora de expiración?",
+    "respuestas": {
+      "a": "Es válida para siempre",
+      "b": "Solo se aplica durante la noche",
+      "c": "Se cancela automáticamente si no se inicia el vuelo",
+      "d": "Se renueva sola"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal del control de tránsito aéreo?",
+    "respuestas": {
+      "a": "Optimizar el consumo de combustible",
+      "b": "Evitar colisiones entre aeronaves",
+      "c": "Incrementar la velocidad de vuelo",
+      "d": "Reducir la carga de trabajo del piloto"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuáles son los tipos de separación entre aeronaves?",
+    "respuestas": {
+      "a": "Vertical y lateral solamente",
+      "b": "Longitudinal y visual",
+      "c": "Vertical, horizontal y compuesta",
+      "d": "Electrónica y visual"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué es la separación vertical estándar por debajo de FL290?",
+    "respuestas": {
+      "a": "500 ft",
+      "b": "1000 ft",
+      "c": "2000 ft",
+      "d": "1500 ft"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la separación vertical por encima de FL290 donde no aplica RVSM?",
+    "respuestas": {
+      "a": "1000 ft",
+      "b": "1500 ft",
+      "c": "2000 ft",
+      "d": "3000 ft"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué condición permite reducir la separación vertical a 1000 ft entre FL290 y FL410?",
+    "respuestas": {
+      "a": "Presión atmosférica estable",
+      "b": "Presencia de radar",
+      "c": "Aeronaves equipadas para RVSM",
+      "d": "Vuelos VFR"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué es la separación longitudinal?",
+    "respuestas": {
+      "a": "Separar aeronaves por altitud",
+      "b": "Separar por rutas geográficas",
+      "c": "Separar por tiempo o distancia en la misma ruta",
+      "d": "Separar por tipo de aeronave"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué tipo de separación se utiliza cuando se asignan radiales VOR que divergen 15°?",
+    "respuestas": {
+      "a": "Visual",
+      "b": "Lateral",
+      "c": "Vertical",
+      "d": "Longitudinal"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué separación se aplica cuando dos aeronaves usan tracks desde el mismo NDB que divergen al menos 30°?",
+    "respuestas": {
+      "a": "Longitudinal",
+      "b": "Vertical",
+      "c": "Visual",
+      "d": "Lateral"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué separación mínima por radar se aplica entre aeronaves sucesivas?",
+    "respuestas": {
+      "a": "3 nm",
+      "b": "4 nm",
+      "c": "5 nm",
+      "d": "6 nm"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué separación se aplica si la aeronave líder es al menos 20 kt más rápida que la siguiente?",
+    "respuestas": {
+      "a": "3 minutos",
+      "b": "5 minutos",
+      "c": "10 minutos",
+      "d": "15 minutos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué separación se aplica si la aeronave líder es al menos 40 kt más rápida?",
+    "respuestas": {
+      "a": "2 minutos",
+      "b": "3 minutos",
+      "c": "5 minutos",
+      "d": "10 minutos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué técnica de separación longitudinal se basa en el mantenimiento de un número de Mach?",
+    "respuestas": {
+      "a": "Técnica ADS",
+      "b": "Técnica GNSS",
+      "c": "Técnica Mach",
+      "d": "Técnica RVSM"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué deben hacer las aeronaves si se les instruye a mantener su propia separación?",
+    "respuestas": {
+      "a": "Seguir vector radar",
+      "b": "Responsabilizarse de separación de terreno y otras aeronaves",
+      "c": "Descender inmediatamente",
+      "d": "Desconectar el transpondedor"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué separación se aplica entre aeronaves en espera en patrones adyacentes?",
+    "respuestas": {
+      "a": "Lateral",
+      "b": "Radar",
+      "c": "Vertical",
+      "d": "Temporal"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es la separación mínima entre despegues si las trayectorias divergen al menos 45°?",
+    "respuestas": {
+      "a": "30 segundos",
+      "b": "1 minuto",
+      "c": "2 minutos",
+      "d": "3 minutos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuántos minutos se requieren si la aeronave que despega es más lenta y sigue la misma trayectoria?",
+    "respuestas": {
+      "a": "2 minutos",
+      "b": "3 minutos",
+      "c": "4 minutos",
+      "d": "5 minutos"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuándo puede despegar una aeronave si otra está realizando una aproximación instrumental completa?",
+    "respuestas": {
+      "a": "En cualquier momento",
+      "b": "Antes del viraje de procedimiento de la llegada",
+      "c": "Después del viraje base de la llegada",
+      "d": "Con separación mínima de 3 minutos antes de que la llegada cruce la pista"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué separación se requiere entre una aeronave ligera y una pesada en aproximación según radar?",
+    "respuestas": {
+      "a": "1 minuto",
+      "b": "2 minutos",
+      "c": "3 minutos",
+      "d": "4 minutos"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué separación se requiere entre despegues desde el mismo punto con una aeronave ligera detrás de una media o pesada?",
+    "respuestas": {
+      "a": "1 minuto",
+      "b": "2 minutos",
+      "c": "3 minutos",
+      "d": "4 minutos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué condición debe cumplirse para permitir reducciones de separación en aeródromos?",
+    "respuestas": {
+      "a": "Que todas las aeronaves estén en la misma frecuencia",
+      "b": "Que la visibilidad sea de al menos 10 km",
+      "c": "Que todas las aeronaves estén continuamente visibles entre sí o para la torre",
+      "d": "Que el tráfico sea inferior al promedio"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué tipo de separación se logra mediante rutas separadas o ubicaciones geográficas diferentes?",
+    "respuestas": {
+      "a": "Vertical",
+      "b": "Lateral",
+      "c": "Longitudinal",
+      "d": "Combinada"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué se aplica si una aeronave sobrevuela un waypoint designado durante una llegada RNAV?",
+    "respuestas": {
+      "a": "Reinicia el plan de vuelo",
+      "b": "Finaliza la separación",
+      "c": "Se puede autorizar un despegue en una trayectoria libre",
+      "d": "Inicia aproximación directa"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué separación aplica para helicópteros cuando están cerca de aeronaves ligeras?",
+    "respuestas": {
+      "a": "No aplica ninguna",
+      "b": "Visual únicamente",
+      "c": "Separación estricta debido a vórtices intensos",
+      "d": "La misma que entre aviones pesados"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué debe hacer el ATC si hay interferencia ilícita conocida?",
+    "respuestas": {
+      "a": "Reducir separación",
+      "b": "Aumentar separación mínima",
+      "c": "Suspender operaciones",
+      "d": "No cambiar separación"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué condición se requiere para que dos aeronaves mantengan separación mutua bajo VMC?",
+    "respuestas": {
+      "a": "Que ambas estén a FL290",
+      "b": "Que haya visibilidad de al menos 5 km",
+      "c": "Que ambas mantengan VMC y estén de acuerdo",
+      "d": "Que usen el mismo tipo de avión"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué acción debe tomar el piloto si no puede mantener VMC bajo separación mutua?",
+    "respuestas": {
+      "a": "Reducir velocidad",
+      "b": "Reportar a ATC",
+      "c": "Aumentar altitud",
+      "d": "Descender"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué separación se requiere para mantener distancia al usar GNSS en rutas convergentes?",
+    "respuestas": {
+      "a": "5 nm",
+      "b": "Depende del nivel de vuelo",
+      "c": "10 minutos",
+      "d": "15 nm"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué método de separación se usa para evitar conflictos en zonas de espera adyacentes?",
+    "respuestas": {
+      "a": "Separación lateral mínima",
+      "b": "Separación de frecuencia",
+      "c": "Separación vertical",
+      "d": "Separación por velocidad"
+    },
+    "correcta": "c"
   }
 ]
 
