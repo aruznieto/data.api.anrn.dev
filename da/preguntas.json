@@ -3548,7 +3548,575 @@
       "d": "Separación por velocidad"
     },
     "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué parte del aeródromo se utiliza para el estacionamiento, carga, descarga, repostaje y mantenimiento?",
+    "respuestas": {
+      "a": "Área de maniobras",
+      "b": "Apron",
+      "c": "Pista",
+      "d": "Taxiway"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué código indica el mayor tipo de aeronave que puede usar el aeródromo?",
+    "respuestas": {
+      "a": "ARP",
+      "b": "RVR",
+      "c": "ARC",
+      "d": "AIM"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué indica el elemento 1 del Aerodrome Reference Code (ARC)?",
+    "respuestas": {
+      "a": "Velocidad máxima",
+      "b": "Longitud de pista mínima para despegue",
+      "c": "Anchura de pista",
+      "d": "Presión de neumáticos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué código le corresponde a una aeronave con 1800 m de pista requerida y 52 m de envergadura?",
+    "respuestas": {
+      "a": "3D",
+      "b": "4D",
+      "c": "4E",
+      "d": "3C"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Dónde se encuentra normalmente el Aerodrome Reference Point (ARP)?",
+    "respuestas": {
+      "a": "En el centro de la terminal",
+      "b": "En la cabecera de pista más corta",
+      "c": "En el centro de la pista más larga",
+      "d": "En la torre de control"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué representa la elevación del aeródromo?",
+    "respuestas": {
+      "a": "Altura media del terminal",
+      "b": "Punto más bajo del área de maniobras",
+      "c": "Punto más alto de la zona de aterrizaje",
+      "d": "Altura media del apron"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué indica TORA?",
+    "respuestas": {
+      "a": "Distancia de despegue total",
+      "b": "Distancia disponible para rodaje",
+      "c": "Distancia de carrera de despegue disponible",
+      "d": "Distancia para aterrizaje disponible"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué indica ASDA?",
+    "respuestas": {
+      "a": "Distancia total de frenado",
+      "b": "Distancia disponible para detenerse en abortar despegue",
+      "c": "Distancia de planeo final",
+      "d": "Zona de aceleración constante"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué indica LDA?",
+    "respuestas": {
+      "a": "Longitud declarada para aterrizaje",
+      "b": "Altitud mínima de decisión",
+      "c": "Distancia máxima de rodaje",
+      "d": "Ruta lateral disponible"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué es una pista instrumental?",
+    "respuestas": {
+      "a": "La que permite aterrizajes solo de día",
+      "b": "La que permite guía no-visual",
+      "c": "La que se usa solo con VFR",
+      "d": "La que tiene superficie natural"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la característica de una pista CAT I?",
+    "respuestas": {
+      "a": "DH menor a 100 ft",
+      "b": "No tiene DH",
+      "c": "DH superior a 200 ft y RVR > 550 ft",
+      "d": "RVR sin limitación"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué indica la pista CAT IIIB?",
+    "respuestas": {
+      "a": "DH mayor a 200 ft",
+      "b": "DH < 50 ft y RVR entre 50 y 200 ft",
+      "c": "Solo para vuelos VFR",
+      "d": "Señalización limitada"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el valor límite de viento cruzado para aviones que requieren más de 1500 m de pista?",
+    "respuestas": {
+      "a": "13 kt",
+      "b": "10 kt",
+      "c": "20 kt",
+      "d": "25 kt"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué es el 'threshold' en una pista?",
+    "respuestas": {
+      "a": "Zona de frenado",
+      "b": "Final de la pista",
+      "c": "Comienzo de la pista",
+      "d": "Zona de viraje"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué función tiene una clearway?",
+    "respuestas": {
+      "a": "Zona para aterrizaje de emergencia",
+      "b": "Área para el rodaje final",
+      "c": "Espacio para parte del ascenso inicial",
+      "d": "Zona de espera previa al despegue"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué medida máxima puede tener una clearway respecto a la TORA?",
+    "respuestas": {
+      "a": "El doble",
+      "b": "Igual longitud",
+      "c": "La mitad",
+      "d": "Tres cuartos"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué es una stopway?",
+    "respuestas": {
+      "a": "Zona para acelerar antes del despegue",
+      "b": "Espacio para detener el avión si se aborta despegue",
+      "c": "Zona de planeo",
+      "d": "Zona de viraje de emergencia"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué color tiene normalmente el indicador de viento?",
+    "respuestas": {
+      "a": "Rojo y blanco",
+      "b": "Azul",
+      "c": "Verde",
+      "d": "Negro y blanco"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué indica una T blanca o naranja en el área de señales?",
+    "respuestas": {
+      "a": "Pista cerrada",
+      "b": "Pista en mantenimiento",
+      "c": "Dirección de aterrizaje",
+      "d": "Zona peligrosa"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué letra se usa para indicar pistas paralelas?",
+    "respuestas": {
+      "a": "P",
+      "b": "L, R o C",
+      "c": "A, B, C",
+      "d": "1, 2, 3"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuántas franjas tiene una pista de 30 m de ancho?",
+    "respuestas": {
+      "a": "4",
+      "b": "6",
+      "c": "8",
+      "d": "12"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué distancia hay entre el threshold y el aiming point si la pista mide entre 1200 y 2400 m?",
+    "respuestas": {
+      "a": "150 m",
+      "b": "250 m",
+      "c": "300 m",
+      "d": "400 m"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué forma tienen las marcas de touchdown?",
+    "respuestas": {
+      "a": "Círculos",
+      "b": "Rectángulos",
+      "c": "Cruces",
+      "d": "Triángulos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué es VASIS?",
+    "respuestas": {
+      "a": "Un sistema de vigilancia de pista",
+      "b": "Un sistema visual de aproximación",
+      "c": "Un equipo de rodaje",
+      "d": "Una señal radioeléctrica"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Dónde se encuentran los holding points?",
+    "respuestas": {
+      "a": "En la terminal",
+      "b": "En el clearway",
+      "c": "En la calle de rodaje antes de entrar en pista",
+      "d": "En la zona de carga"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué función tiene el apron?",
+    "respuestas": {
+      "a": "Rodaje de aeronaves",
+      "b": "Zona para despegue y aterrizaje",
+      "c": "Zona de estacionamiento y servicios",
+      "d": "Área de emergencia"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué debe hacer el piloto si detecta un fallo en las ayudas visuales?",
+    "respuestas": {
+      "a": "Ignorarlo",
+      "b": "Esperar al ATC",
+      "c": "Informar a AIS o ATS",
+      "d": "Cancelar el plan de vuelo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Dónde se realiza normalmente el chequeo del altímetro previo al vuelo?",
+    "respuestas": {
+      "a": "En la pista",
+      "b": "En el centro de control",
+      "c": "En el apron",
+      "d": "En el hangar"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué anchura mínima debe tener una clearway respecto al eje de pista?",
+    "respuestas": {
+      "a": "50 m",
+      "b": "60 m",
+      "c": "75 m",
+      "d": "100 m"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué es un 'alerting post' en el contexto SAR?",
+    "respuestas": {
+      "a": "Un radar de emergencia",
+      "b": "Un centro de entrenamiento SAR",
+      "c": "Una instalación que sirve como intermediaria entre quien reporta una emergencia y el centro de coordinación",
+      "d": "Una torre de control"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué define la 'distress phase'?",
+    "respuestas": {
+      "a": "Situación sin comunicación",
+      "b": "Pérdida de navegación",
+      "c": "Amenaza grave e inminente para la aeronave y sus ocupantes",
+      "d": "Pérdida de altitud"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué es un 'Joint Rescue Coordination Centre (JRCC)'?",
+    "respuestas": {
+      "a": "Centro para emergencias sanitarias",
+      "b": "Centro de control exclusivo para aeronaves",
+      "c": "Centro responsable de operaciones SAR tanto aeronáuticas como marítimas",
+      "d": "Centro de formación SAR"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Quién es el 'pilot-in-command'?",
+    "respuestas": {
+      "a": "El operador de la torre",
+      "b": "El dueño del aeropuerto",
+      "c": "El piloto encargado del vuelo",
+      "d": "El copiloto designado"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de un RCC?",
+    "respuestas": {
+      "a": "Controlar vuelos comerciales",
+      "b": "Coordinar operaciones de búsqueda y salvamento",
+      "c": "Emitir pronósticos meteorológicos",
+      "d": "Supervisar tráfico terrestre"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué es una 'search and rescue region (SRR)'?",
+    "respuestas": {
+      "a": "Un área delimitada asociada a un RCC",
+      "b": "Una ruta de emergencia",
+      "c": "Zona de prueba de señales",
+      "d": "Región militar restringida"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué significa 'search and rescue aircraft'?",
+    "respuestas": {
+      "a": "Avión con tripulación armada",
+      "b": "Avión comercial con radio VHF",
+      "c": "Avión con equipo especializado para misiones SAR",
+      "d": "Avión sin capacidad de búsqueda"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué condiciones activan la 'alert phase'?",
+    "respuestas": {
+      "a": "Aeronave sin combustible",
+      "b": "Temor por la seguridad de la aeronave y sus ocupantes",
+      "c": "Exceso de velocidad",
+      "d": "Comunicación con interferencias"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué define una 'uncertainty phase'?",
+    "respuestas": {
+      "a": "Confirmación de colisión",
+      "b": "Localización del accidente",
+      "c": "Incertidumbre sobre la seguridad de una aeronave",
+      "d": "Pérdida del plan de vuelo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es una obligación del Estado respecto a servicios SAR?",
+    "respuestas": {
+      "a": "Establecer servicios solo en capitales",
+      "b": "Proveer servicios SAR 8 horas al día",
+      "c": "Tener SAR disponibles 24/7",
+      "d": "Tener unidades móviles solamente"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué organismo coordina el SAR aéreo en España?",
+    "respuestas": {
+      "a": "Ministerio del Interior",
+      "b": "Jefatura de Operaciones Aéreas Especiales y Recuperación de Personal (SAO&PR)",
+      "c": "AENA",
+      "d": "DGAC"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuántas regiones SAR existen en España?",
+    "respuestas": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué documentos de la OACI sustentan el SAR?",
+    "respuestas": {
+      "a": "Anexos 1, 2, 3",
+      "b": "Anexos 10 y 14",
+      "c": "Anexos 2, 11, 12 y 13",
+      "d": "Anexos 4 y 7"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué frecuencia utilizan los ELTs?",
+    "respuestas": {
+      "a": "118.1 MHz",
+      "b": "243.0 MHz solamente",
+      "c": "121.5 MHz y 406 MHz",
+      "d": "122.5 MHz"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué debe hacer el piloto si intercepta una señal de socorro?",
+    "respuestas": {
+      "a": "Ignorarla",
+      "b": "Informar al RCC y proceder si es necesario",
+      "c": "Volver a base",
+      "d": "Esperar a que lo llame ATC"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué se debe informar al RCC en una emergencia detectada visualmente?",
+    "respuestas": {
+      "a": "Solo altitud",
+      "b": "Tipo de nave, identificación, estado y posición",
+      "c": "Hora estimada de llegada",
+      "d": "Peso de la aeronave"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué frecuencia adicional puede usar una aeronave SAR para hablar con barcos?",
+    "respuestas": {
+      "a": "123.4 MHz",
+      "b": "2182 kHz",
+      "c": "312.3 MHz",
+      "d": "110.1 MHz"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué debe hacer el primer avión en llegar a un accidente si no es SAR?",
+    "respuestas": {
+      "a": "Esperar instrucciones",
+      "b": "Asumir el control de las actividades en el lugar",
+      "c": "Regresar al aeropuerto",
+      "d": "Reportar y seguir"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué señal visual indica que un barco entiende la orden?",
+    "respuestas": {
+      "a": "Girar a estribor",
+      "b": "Agitar bandera negra",
+      "c": "Izar gallardete rojo y blanco",
+      "d": "Mostrar luces intermitentes"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué significa que el barco no puede cumplir la orden?",
+    "respuestas": {
+      "a": "Izar bandera a cuadros azul y blanco",
+      "b": "Encender luces verdes",
+      "c": "Girar en círculos",
+      "d": "Mostrar código 'Q'"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué señal hace el avión para indicar que entendió una señal desde tierra?",
+    "respuestas": {
+      "a": "Desciende",
+      "b": "Balancea alas",
+      "c": "Apaga luces",
+      "d": "Gira a la izquierda"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué señal hace un avión de noche para confirmar recepción?",
+    "respuestas": {
+      "a": "Mantiene luces encendidas",
+      "b": "Flashea luces dos veces",
+      "c": "Emite código Morse",
+      "d": "Enciende luces rojas"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué debe incluir el reporte de observación visual?",
+    "respuestas": {
+      "a": "Posición, número de personas, condiciones y hora",
+      "b": "Solo número de supervivientes",
+      "c": "Altitud de la aeronave",
+      "d": "Frecuencia de emergencia"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál es la principal responsabilidad de un SAR unit?",
+    "respuestas": {
+      "a": "Planificación de vuelos comerciales",
+      "b": "Operación de rescate rápida con personal entrenado",
+      "c": "Entrenamiento de pilotos",
+      "d": "Supervisión meteorológica"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el idioma requerido para el personal de un RCC?",
+    "respuestas": {
+      "a": "Español",
+      "b": "Francés",
+      "c": "Inglés",
+      "d": "Portugués"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué debe hacer el piloto si no puede mantener comunicación con RCC?",
+    "respuestas": {
+      "a": "Ignorar la situación",
+      "b": "Esperar instrucciones por VOR",
+      "c": "Transferir el control a otra aeronave",
+      "d": "Abandonar la zona"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué deben hacer los Estados ante aeronaves extranjeras en emergencia?",
+    "respuestas": {
+      "a": "Rechazarlas si no son nacionales",
+      "b": "Asistirlas independientemente de nacionalidad o estatus",
+      "c": "Desviar el tráfico",
+      "d": "Reportar a OACI"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué manual OACI complementa las operaciones SAR?",
+    "respuestas": {
+      "a": "DOC 8400",
+      "b": "DOC 7030",
+      "c": "DOC 9731 IAMSAR",
+      "d": "DOC 9626"
+    },
+    "correcta": "c"
   }
 ]
-
-
