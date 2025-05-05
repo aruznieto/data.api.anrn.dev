@@ -13,5 +13,10 @@
     "asignatura": "Bases de Datos",
     "nombre": "40 de examen",
     "link": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/refs/heads/main/quiz-app/bases-datos/preguntas_iv_cbe_examen.json"
+  },
+  {
+    "asignatura": "JFAC",
+    "nombre": "35 gepeteras",
+    "link": ".githubusercontent.com/odanth/derechoaereo/refs/heads/main/jfac.json"
   }
 ]
