@@ -1,0 +1,402 @@
+[
+  {
+    "pregunta": "¿Qué componente ejecuta tareas estadísticas de Oracle?",
+    "respuestas": {
+      "a": "Trigger especial utilizado para reinicios.",
+      "b": "MMON escribe estadísticas del rendimiento del sistema.",
+      "c": "Conjunto de archivos para los backups.",
+      "d": "Parte externa del listener de red."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué realiza el comando ROLLBACK en transacciones?",
+    "respuestas": {
+      "a": "Impide la escritura en la BDD.",
+      "b": "Deshace los cambios realizados por la transacción.",
+      "c": "Solo detiene triggers en ejecución activa.",
+      "d": "Elimina privilegios de cualquier usuario activo."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué define la propiedad de aislamiento en transacciones?",
+    "respuestas": {
+      "a": "Verifica que las tablas estén ordenadas.",
+      "b": "Evita ver cambios no confirmados por otras.",
+      "c": "Permite acceso sin verificar el commit.",
+      "d": "Hace rollback si ocurre cualquier error."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué privilegio permite borrar tablas de otros usuarios?",
+    "respuestas": {
+      "a": "Solo puede usarlo el rol SYS.",
+      "b": "DROP ANY TABLE permite borrar tablas ajenas.",
+      "c": "Se concede tras revisión del administrador.",
+      "d": "Actúa sobre backups no modificados directamente."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué comando se usa para asignar privilegios?",
+    "respuestas": {
+      "a": "SELECT permite compartir vistas entre esquemas.",
+      "b": "GRANT permite asignar privilegios a otros usuarios.",
+      "c": "ALTER restringe uso de tablas externas.",
+      "d": "CREATE sirve para hacer backups automáticos."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué permite el modo de servidor compartido?",
+    "respuestas": {
+      "a": "Ejecutar scripts desde interfaces gráficas.",
+      "b": "Un servidor atiende múltiples procesos de usuario.",
+      "c": "Controlar acceso a backups históricos.",
+      "d": "Repartir triggers entre varias sesiones activas."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué contiene la instancia PGA en Oracle?",
+    "respuestas": {
+      "a": "Logs de auditoría y traza de errores.",
+      "b": "Memoria dedicada a procesos del servidor individual.",
+      "c": "Fragmentos de queries no optimizadas.",
+      "d": "Permisos de acceso a funciones críticas."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué información guarda el Redo Log Buffer?",
+    "respuestas": {
+      "a": "Datos históricos guardados en archivos temporales.",
+      "b": "Los últimos cambios realizados a la BDD.",
+      "c": "Scripts usados para crear triggers activos.",
+      "d": "Datos exportados por procedimientos almacenados."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué componente de la SGA acelera las consultas?",
+    "respuestas": {
+      "a": "Library Cache guarda código ejecutable de SQL.",
+      "b": "Almacena solo índices de columnas.",
+      "c": "Procesa transacciones desde la sesión SYS.",
+      "d": "Se usa para crear objetos visuales."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué contiene el archivo control.ctl?",
+    "respuestas": {
+      "a": "Privilegios actuales del administrador principal.",
+      "b": "Datos de control necesarios para la instancia.",
+      "c": "Configura el listener para conexiones externas.",
+      "d": "Indica usuarios que ejecutaron un procedimiento."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué hace el listener en una conexión Oracle?",
+    "respuestas": {
+      "a": "Guarda los datos enviados por scripts.",
+      "b": "Escucha peticiones y las redirige al servidor.",
+      "c": "Impide que usuarios no autorizados accedan.",
+      "d": "Cierra la sesión si ocurre error."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué es un trigger en Oracle?",
+    "respuestas": {
+      "a": "Script ejecutado manualmente para cerrar sesiones.",
+      "b": "Un bloque PL/SQL que se ejecuta automáticamente.",
+      "c": "Procedimiento que debe invocarse desde línea.",
+      "d": "Función interna sin relación con tablas."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué hace el proceso CKPT en Oracle?",
+    "respuestas": {
+      "a": "Evita pérdidas de datos tras rollback.",
+      "b": "Actualiza archivos de control durante un checkpoint.",
+      "c": "Solo opera en modos de recuperación.",
+      "d": "Procesa transacciones de tablas temporales."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué función cumple el archivo redo01.log?",
+    "respuestas": {
+      "a": "Permite conexiones con usuarios externos.",
+      "b": "Registra los cambios realizados antes de confirmarlos.",
+      "c": "Cifra los datos sensibles automáticamente.",
+      "d": "Comparte claves entre bases distribuidas."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué contiene la vista DBA_USERS?",
+    "respuestas": {
+      "a": "Logs del sistema generados por procedimientos.",
+      "b": "Lista y configuración de los usuarios existentes.",
+      "c": "Respaldo automático de sesiones activas.",
+      "d": "Solo funciona si hay privilegios SYS."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué hace el comando ALTER USER?",
+    "respuestas": {
+      "a": "Modifica columnas y filas sin confirmar.",
+      "b": "Cambia propiedades de un usuario de Oracle.",
+      "c": "Solo permite cambiar contraseñas específicas.",
+      "d": "Ejecuta una vista sobre funciones activas."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué tarea realiza el proceso PMON?",
+    "respuestas": {
+      "a": "Ejecuta comandos desde SQLPlus automáticamente.",
+      "b": "Gestiona fallos de procesos de usuario Oracle.",
+      "c": "Modifica parámetros temporales de ejecución.",
+      "d": "Solo reinicia tablas en modo seguro."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué herramienta permite conexión gráfica con Oracle?",
+    "respuestas": {
+      "a": "Consola avanzada exclusiva para DBA certificados.",
+      "b": "SQL Developer permite conectarse de forma gráfica.",
+      "c": "Script automático para ejecutar sentencias DDL.",
+      "d": "Interfaz para recuperación de archivos control."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué estructura guarda índices y claves primarias?",
+    "respuestas": {
+      "a": "Segmentos de metadatos internos del sistema.",
+      "b": "Segmentos de índice almacenan estos elementos clave.",
+      "c": "Almacenamiento externo de procedimientos almacenados.",
+      "d": "Tablas vacías para reorganizar la caché."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué contiene el área de trabajo SQL?",
+    "respuestas": {
+      "a": "Funciones activadas por sesiones remotas.",
+      "b": "Zona de PGA para ejecutar instrucciones SQL.",
+      "c": "Procedimientos que no han sido validados.",
+      "d": "Funciona en backups con estructura diferente."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué estructura contiene bloques de datos más usados?",
+    "respuestas": {
+      "a": "Database Buffer Cache contiene los datos frecuentes.",
+      "b": "Solo visible para triggers activos.",
+      "c": "Depende del privilegio SELECT ANY TABLE.",
+      "d": "Almacena logs con errores de conexión."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué es la SGA en Oracle?",
+    "respuestas": {
+      "a": "Pool que almacena scripts DDL.",
+      "b": "Zona compartida de memoria para la instancia.",
+      "c": "Área visible para desarrolladores de aplicaciones.",
+      "d": "Se utiliza solo en tareas administrativas."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué estructura usa LRU en su algoritmo?",
+    "respuestas": {
+      "a": "Exclusiva para triggers de auditoría.",
+      "b": "Database Buffer Cache usa algoritmo LRU interno.",
+      "c": "Permite cambiar valores en procedimientos.",
+      "d": "Relacionada con conexiones desde SQL Developer."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué indica la propiedad de persistencia?",
+    "respuestas": {
+      "a": "Solo ejecuta triggers con conexión segura.",
+      "b": "Cambios se mantienen tras fallos del sistema.",
+      "c": "Aplica al finalizar la sesión activa.",
+      "d": "Depende del tipo de sentencia usada."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué hace el proceso SMON en Oracle?",
+    "respuestas": {
+      "a": "Optimiza consultas ordenadas en tiempo real.",
+      "b": "Recupera instancia y limpia los segmentos temporales.",
+      "c": "Borra permanentemente logs sin confirmación.",
+      "d": "Ejecuta comandos de recuperación por consola."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué contiene la Data Dictionary Cache de Oracle?",
+    "respuestas": {
+      "a": "Relación de tablas con errores sintácticos.",
+      "b": "Acceso permitido únicamente en modo administrador.",
+      "c": "Información de metadatos para el acceso eficiente.",
+      "d": "Configura claves primarias de forma dinámica."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es la función del proceso DBWn?",
+    "respuestas": {
+      "a": "Usa algoritmos para actualizar índices hash.",
+      "b": "Escribe bloques modificados del buffer a disco.",
+      "c": "Limita el uso de memoria en procedimientos grandes.",
+      "d": "Borra cachés temporales del sistema operativo."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál estructura pertenece a la memoria compartida SGA?",
+    "respuestas": {
+      "a": "Instrucciones SQL procedimentales para la web.",
+      "b": "Guarda claves en tablas privadas ocultas.",
+      "c": "Pool compartido que almacena código y datos.",
+      "d": "Se usa por scripts del SO."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué es el archivo spfile en Oracle?",
+    "respuestas": {
+      "a": "Archivo que almacena parámetros de inicialización dinámica.",
+      "b": "Respaldo de datos en el sistema.",
+      "c": "Interfaces gráficas del sistema.",
+      "d": "Triggers y procedimientos automáticos."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué extensión añade PL/SQL a SQL?",
+    "respuestas": {
+      "a": "Lenguaje procedural para procesamiento en servidor.",
+      "b": "PL/SQL extiende SQL con estructuras de programación.",
+      "c": "Herramienta gráfica para diseñar esquemas relacionales.",
+      "d": "Framework de Java para conectividad JDBC."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cómo se concatena texto en PL/SQL?",
+    "respuestas": {
+      "a": "Con + entre las dos cadenas.",
+      "b": "Con la función CONCAT de Oracle.",
+      "c": "Haciendo uso del operador de doble barra.",
+      "d": "Con la cláusula APPEND STRING INTO."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cómo lanzas un error personalizado?",
+    "respuestas": {
+      "a": "USE RAISE_SYSTEM_ERROR con mensaje estándar.",
+      "b": "Llamando a RAISE_APPLICATION_ERROR con código y mensaje.",
+      "c": "Lanzando EXCEPTION sin mensaje descriptivo.",
+      "d": "Usando DBMS_ALERT para notificar al usuario."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué sentencia sale inmediatamente de un bucle?",
+    "respuestas": {
+      "a": "BREAK sale completamente del bucle.",
+      "b": "RETURN termina todo el bloque actual.",
+      "c": "GOTO etiqueta definida dentro del loop.",
+      "d": "EXIT corta el bucle y sigue ejecución."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué devuelve SQLCODE en un manejador?",
+    "respuestas": {
+      "a": "Mensaje textual completo de error.",
+      "b": "Descripción extendida del código de excepción.",
+      "c": "Número de error Oracle tras última excepción.",
+      "d": "Booleano si hay o no error."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Dónde NO se permite COMMIT?",
+    "respuestas": {
+      "a": "Dentro de un procedimiento almacenado cualquiera.",
+      "b": "En bloques anónimos de SQL*Plus.",
+      "c": "Dentro de trigger a nivel de fila.",
+      "d": "En funciones usadas dentro de SELECT."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué predicado indica actualización en trigger?",
+    "respuestas": {
+      "a": "WHEN UPDATE THEN cláusula de trigger.",
+      "b": "Predicado UPDATING detecta evento UPDATE en trigger.",
+      "c": "REFERENCING NEW AS NEW_ROW variable.",
+      "d": "ENABLED condiciona activación del trigger."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué hace el proceso SMON al iniciar Oracle?",
+    "respuestas": {
+      "a": "Actualiza índices secundarios durante cada reinicio.",
+      "b": "Recupera instancia y limpia segmentos no usados.",
+      "c": "Actúa cuando se lanza un trigger.",
+      "d": "Comprime las tablas más utilizadas."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué guarda el área PGA en Oracle?",
+    "respuestas": {
+      "a": "Datos compartidos por todo el sistema.",
+      "b": "La información exclusiva del proceso servidor correspondiente.",
+      "c": "Variables globales de todas las sesiones.",
+      "d": "Parámetros duplicados para procesos distribuidos Oracle."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué estructura lógica agrupa objetos como tablas?",
+    "respuestas": {
+      "a": "Diccionario de datos del sistema Oracle.",
+      "b": "Tablespace agrupa objetos de base de datos.",
+      "c": "Índices hash definidos para múltiples sesiones.",
+      "d": "Áreas de usuario sin control compartido."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué contiene el Data Dictionary Cache?",
+    "respuestas": {
+      "a": "Los planes de ejecución de todas las vistas.",
+      "b": "La información de metadatos para acceso eficiente.",
+      "c": "Funciones almacenadas en la memoria PGA.",
+      "d": "Procedimientos duplicados para consultas temporales externas."
+    },
+    "correcta": "b"
+  }
+]
