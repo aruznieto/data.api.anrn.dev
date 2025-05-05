@@ -18,5 +18,10 @@
     "asignatura": "JFAC",
     "nombre": "35 gepeteras",
     "link": "https://raw.githubusercontent.com/odanth/derechoaereo/refs/heads/main/jfac.json"
+  },
+  {
+    "asignatura": "Seguridad",
+    "nombre": "33 preguntas",
+    "link": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/refs/heads/main/quiz-app/seguridad/preguntas.json"
   }
 ]
