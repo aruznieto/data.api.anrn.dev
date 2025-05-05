@@ -1,1 +1,12 @@
-
+[
+  {
+    "asignatura": "Derecho Aereo",
+    "nombre": "524 ChatGPT Generated",
+    "link": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/refs/heads/main/da/preguntas.json"
+  },
+  {
+    "asignatura": "Derecho Aereo",
+    "nombre": "187 vacas",
+    "link": "https://raw.githubusercontent.com/odanth/derechoaereo/refs/heads/main/vaconcias.json"
+  }
+]
