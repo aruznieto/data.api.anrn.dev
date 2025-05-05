@@ -1,0 +1,326 @@
+[
+  {
+    "pregunta": "El conjunto de medidas tendentes a garantizar la seguridad personal ante cualquier agente externo es:",
+    "respuestas": {
+      "a": "Defensa",
+      "b": "Escolta",
+      "c": "Seguridad",
+      "d": "Autoprotección"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Un cuadro de Goya es:",
+    "respuestas": {
+      "a": "Un bien material",
+      "b": "Un bien mixto",
+      "c": "No es un bien",
+      "d": "Un bien inmaterial"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es una de las reglas de oro en seguridad?",
+    "respuestas": {
+      "a": "Romper la rutina y contemplar el paisaje",
+      "b": "Oír y escuchar",
+      "c": "Seguridad y defensa",
+      "d": "Hacer mi vida de manera habitual y tener una actitud pasiva"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Los planes de seguridad tendrán la clasificación de:",
+    "respuestas": {
+      "a": "Buenos, malos o regulares",
+      "b": "Reservado, pudiendo alguno de sus subplanes o documentos tener una clasificación inferior",
+      "c": "Secreto, pudiendo alguno de sus subplanes o documentos tener una clasificación inferior",
+      "d": "Confidencial, pudiendo alguno de sus subplanes o documentos tener una clasificación inferior"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La INTEGRIDAD es:",
+    "respuestas": {
+      "a": "Una característica de la información que indica que sólo es alterada o modificada por personas autorizadas",
+      "b": "Un término que indica la resistencia de un sistema a ser penetrado",
+      "c": "Una característica de las personas honradas",
+      "d": "Una cualidad permanente en los Sistemas de Información"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El conjunto de medidas necesarias para minimizar los efectos de un ataque enemigo, tanto aéreo como terrestre, se denomina:",
+    "respuestas": {
+      "a": "Defensa activa",
+      "b": "GBAD",
+      "c": "Protective security",
+      "d": "Defensa pasiva"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "El proceso organizado para prevenir y controlar las pérdidas originadas por factores de riesgo puro derivados de actividades antisociales es:",
+    "respuestas": {
+      "a": "Antivirus",
+      "b": "Antivandalismo",
+      "c": "Safety",
+      "d": "Security"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuál es el área que se encarga de la adopción de medidas orientadas a reducir los riesgos derivados e inherentes a la propia acción?",
+    "respuestas": {
+      "a": "Defensa pasiva",
+      "b": "Seguridad",
+      "c": "Defensa activa",
+      "d": "Recuperación"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La inecuación de tiempos es:",
+    "respuestas": {
+      "a": "Ninguna de éstas",
+      "b": "Una manera teórica de evaluar la eficacia de un Sistema de Seguridad",
+      "c": "Una ecuación difícil de resolver en seguridad",
+      "d": "El tiempo meteorológico que puede afectar a un Sistema de Seguridad"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Respecto al proceso de planeamiento es cierto que:",
+    "respuestas": {
+      "a": "Se definen las vulnerabilidades como aquellas deficiencias propias. Según el proceso de planeamiento deberemos tenerlas en cuenta todas siempre sin tener en cuenta la misión y sus necesidades de operación",
+      "b": "El proceso de planeamiento debe de ser en todo momento flexible, pero no dinámico",
+      "c": "Se define un riesgo dado, como la conjugación de una amenaza y la probabilidad de que esta se produzca",
+      "d": "El proceso de planeamiento de la FP, sólo se va a llevar a cabo a nivel Operacional"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué tipos de puestos de observación existen?",
+    "respuestas": {
+      "a": "Estático o móvil",
+      "b": "Abierto, cerrado o disimulado",
+      "c": "Fijo o móvil",
+      "d": "Buenos, malos o regulares"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Cuando hablamos de seguridad, podríamos definir dentro de este área:",
+    "respuestas": {
+      "a": "Seguridad física, seguridad del personal civil, seguridad del personal militar, seguridad de la información, seguridad en las instalaciones y seguridad en las bases",
+      "b": "Seguridad de las instalaciones, seguridad en las operaciones, equipos de protección de personalidades, seguridad de las operaciones y prevención de riesgos laborales",
+      "c": "Defensa terrestre, personnel recovery, seguridad de la información, seguridad de las instalaciones, seguridad de las operaciones y prevención de riesgos laborales",
+      "d": "Seguridad en las instalaciones, seguridad en el personal, Seguridad de la información y Seguridad en las operaciones"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes unidades no tiene como capacidad fundamental la defensa terrestre?",
+    "respuestas": {
+      "a": "GRUMOCA",
+      "b": "EZAPAC",
+      "c": "SEADA",
+      "d": "EDHEA"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En cuanto a la Función de Evaluación de la Force Protection indica:",
+    "respuestas": {
+      "a": "Discriminar, Identificar, Verificar, Localizar y Notificar",
+      "b": "Verificar y Localizar",
+      "c": "Ninguna"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "La doctrina de FP en el EA viene recogida en:",
+    "respuestas": {
+      "a": "La IG-002",
+      "b": "La IG-003",
+      "c": "La IG-004"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "JPF será el responsable de:",
+    "respuestas": {
+      "a": "Asesorar al jefe de la misma en las áreas y capacidades PF",
+      "b": "Velar por el cumplimiento del PDPF",
+      "c": "De la ejecución del PDPF",
+      "d": "A y B CIERTAS"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "El conjunto organizado de medios y medidas que tiene como objetivo minimizar la vulnerabilidad del personal, sistema de armas, equipos, instalaciones, actividades, información o imagen ante la amenaza contemplada para cada situación con el objetivo de preservar la libertad de acción del comandante aéreo y la operatividad de la fuerza, contribuyendo al éxito de la misión:",
+    "respuestas": {
+      "a": "FP",
+      "b": "PP",
+      "c": "PRF",
+      "d": "PRT"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿De quién es la tarea de la FP?",
+    "respuestas": {
+      "a": "En exclusiva de quienes se encuadran en los elementos orgánicos que tienen asignados este cometido",
+      "b": "De la totalidad de los componentes del EA",
+      "c": "Ninguna"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La Seguridad incluye:",
+    "respuestas": {
+      "a": "Seguridad de las instalaciones, Información, Personal, Operaciones (OPSEC), Riesgos Laborales",
+      "b": "Seguridad Contra Incendios y Evacuaciones, Asistencia Médica, Reparación de Daños, Servicios Básicos, Reconocimientos Post-Ataque/Emergencia, EOD",
+      "c": "Seguridad nuclear, biológica, química, medioambiental y radiológica",
+      "d": "Vigilancia física exclusivamente"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Respecto al riesgo prevalente es cierto que:",
+    "respuestas": {
+      "a": "Todas las opciones son verdaderas",
+      "b": "Los riesgos serán más peligrosos tanto mayor sea su impacto en las operaciones, la probabilidad de que este se produzca y el tipo de respuesta a implementar",
+      "c": "Una correcta gestión de riesgos debe de trabajar en tres fases: evitar, mitigar y aceptar",
+      "d": "La persona encargada y responsable de hacer una correcta gestión de riesgos será el JFC"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "La defensa pasiva comprende:",
+    "respuestas": {
+      "a": "La defensa física de la unidad sólo contra ataques aéreos mientras que de los terrestres se encarga la defensa activa",
+      "b": "Las medidas para reducir o anular la efectividad de un ataque",
+      "c": "Las tareas de contrainteligencia",
+      "d": "Desactivación de artefactos y municiones de carácter militar no explosionadas, y artefactos de carácter NRBQ"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Complete esta sentencia: Las Funciones de combate de la FP, por su complejidad y especificidad, requieren un sistema de Mando y Control Robusto y ______ garantizando los principios irrenunciables de _______, _______ y ______.",
+    "respuestas": {
+      "a": "Concreto, flexibilidad, redundancia y disponibilidad",
+      "b": "Flexible, integridad, confidencialidad y disponibilidad",
+      "c": "Seguro, integridad, confidencialidad y disponibilidad",
+      "d": "Potente, flexibilidad, integridad y confidencialidad"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Conjunto de actividades que permiten DISUADIR, DETECTAR, PREVENIR o NEUTRALIZAR las acciones de un potencial adversario que, llevadas a cabo, o en desde el exterior de las instalaciones, persiguen influir directa o indirectamente en el desarrollo de las operaciones aéreas:",
+    "respuestas": {
+      "a": "Defensa SHORAD",
+      "b": "Defensa activa",
+      "c": "Defensa GBAD"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el área cuya activación nos diferencia entre un grado medio y alto?",
+    "respuestas": {
+      "a": "Seguridad",
+      "b": "Defensa pasiva",
+      "c": "Defensa activa",
+      "d": "Recuperación"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Seguridad física es:",
+    "respuestas": {
+      "a": "El conjunto de medidas para salvaguardar al personal, impedir accesos no autorizados y evitar sus daños",
+      "b": "El conjunto de instalaciones e infraestructuras de seguridad",
+      "c": "Ninguna de las alternativas es cierta",
+      "d": "El conjunto de medios técnicos"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El objetivo de la FP es:",
+    "respuestas": {
+      "a": "Anular la vulnerabilidad del personal, sistema de armas, equipos, instalaciones, actividades, información e imagen ante la amenaza contemplada para cada situación con el objetivo de preservar la libertad de acción del comandante aéreo y la operatividad de la fuerza contribuyendo así al éxito de la misión",
+      "b": "El objeto no es anular, ya que es imposible anular la vulnerabilidad del personal, el sistema de armas, instalaciones, actividades información o imagen ante la amenaza contemplada para cada situación con el objetivo de preservar la libertad de acción del comandante aéreo y la operatividad de la fuerza contribuyendo así al éxito de la misión"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Concepto del área de seguridad:",
+    "respuestas": {
+      "a": "Conjunto de medios y medidas que se organizan para hacer frente a las amenazas a las que, con carácter permanente, se encuentran sometidos los elementos que componen la fuerza, de forma que se garantice un entorno estable y seguro alrededor de la misma",
+      "b": "Conjunto de medios y medidas que se organizan para hacer frente a las amenazas a las que, con carácter puntual, se encuentran sometidos los elementos que componen la fuerza, de forma que se garantice un entorno estable y seguro alrededor de la misma",
+      "c": "Conjunto de medios que se organizan para hacer frente a las amenazas a las que, con carácter permanente, se encuentran sometidos los elementos que componen la fuerza, de forma que se garantice un entorno estable y seguro alrededor de la misma",
+      "d": "Conjunto de medios y medidas que se organizan para hacer frente a las amenazas a las que, con carácter eventual, se encuentran sometidos los elementos que componen la fuerza, de forma que se garantice un entorno estable y seguro alrededor de la misma"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "La prevención de riesgos laborales la englobaremos dentro del área de:",
+    "respuestas": {
+      "a": "Defensa terrestre",
+      "b": "Defensa pasiva",
+      "c": "Defensa activa",
+      "d": "Seguridad"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Continuo y sistemático proceso que hace posible mantener actualizadas las amenazas y vulnerabilidades propias, el grado de exposición al riesgo y la apreciación de su impacto en la Fuerza. Mantener la exposición al riesgo dentro de unos límites aceptables.",
+    "respuestas": {
+      "a": "Priorización",
+      "b": "Valoración",
+      "c": "Gestión de riesgos",
+      "d": "Interoperabilidad"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿A qué circunstancias puede hacer frente el área de Recuperación?",
+    "respuestas": {
+      "a": "Ataques a los elementos de la Fuerza",
+      "b": "Enfermedades y accidentes",
+      "c": "Efectos derivados de la climatología adversa",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Acerca de la gestión de riesgos, indique la incorrecta:",
+    "respuestas": {
+      "a": "La gestión de riesgos se incluye dentro de la fase de planeamiento",
+      "b": "El JFC es el responsable de la gestión de riesgos",
+      "c": "El objetivo de la gestión de riesgos es detectar el riesgo lo antes posible",
+      "d": "Podemos diferenciar 3 fases: evitar el riesgo, mitigar el riesgo y aceptar el riesgo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El proceso organizado para prevenir y controlar las pérdidas originadas por factores de riesgo puro derivados de actividades antisociales es:",
+    "respuestas": {
+      "a": "Security",
+      "b": "Antivirus",
+      "c": "Antivandalismo",
+      "d": "Safety"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El responsable último de la seguridad de una base aérea es:",
+    "respuestas": {
+      "a": "El jefe de la escuadrilla de policía aérea",
+      "b": "El jefe de seguridad",
+      "c": "El jefe de la base aérea",
+      "d": "La sección de asistencia religiosa"
+    },
+    "correcta": "c"
+  }
+]
