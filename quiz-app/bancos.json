@@ -23,5 +23,10 @@
     "asignatura": "Seguridad",
     "nombre": "33 preguntas",
     "link": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/refs/heads/main/quiz-app/seguridad/preguntas.json"
+  },
+  {
+    "asignatura": "Doctrina",
+    "nombre": "Vacas",
+    "link": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/refs/heads/main/quiz-app/doctrina/preguntas.json"
   }
 ]
