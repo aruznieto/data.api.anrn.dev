@@ -1,0 +1,502 @@
+[
+  {
+    "pregunta": "Según el \"Concepto Conjunto de RPAS\" del EMAD (febrero 2015), ¿cuál de los siguientes elementos NO forma parte de las características comunes de un sistema RPAS?",
+    "respuestas": {
+      "a": "Segmento Aéreo (RPA + Carga Útil).",
+      "b": "Segmento de Superficie (GCS y elementos de apoyo).",
+      "c": "Enlaces de Datos (LOS y BLOS).",
+      "d": "Protocolos de ciberseguridad ofensiva."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "La clasificación OTAN/EMAD para RPAS considera un sistema con un MTOW de 120 kg y una altitud de operación normal de 4.000 ft AGL principalmente como:",
+    "respuestas": {
+      "a": "Micro",
+      "b": "Mini",
+      "c": "Small",
+      "d": "Táctico"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El Reglamento de Circulación Aérea Operativa (RCAO) en España, ¿en qué libro aborda específicamente las generalidades y necesidades de espacio aéreo para los UAS/UAV?",
+    "respuestas": {
+      "a": "Libro Primero: Definiciones y abreviaturas.",
+      "b": "Libro Tercero: Organización y funciones.",
+      "c": "Libro Noveno: Sistemas aéreos no tripulados.",
+      "d": "Anexo A: Clasificación de UAS."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Una de las limitaciones generales de los RPAS, especialmente los de menores prestaciones, es su vulnerabilidad al fuego enemigo. ¿A qué factor principal se atribuye esta vulnerabilidad según el temario?",
+    "respuestas": {
+      "a": "A la complejidad de sus sistemas de guiado.",
+      "b": "A sus escasas performances (velocidad, maniobrabilidad).",
+      "c": "A la dependencia de enlaces de datos satelitales.",
+      "d": "Al limitado campo de visión de sus sensores."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Para la operación de RPAS militares de Clase II y III en España, ¿qué tipo de asistencia es un requisito en todas las fases de la operación?",
+    "respuestas": {
+      "a": "Asistencia meteorológica continua desde la AEMET.",
+      "b": "Cobertura de enlace de datos por fibra óptica.",
+      "c": "Asistencia radar (RDR) por una dependencia designada.",
+      "d": "Escolta por aeronaves tripuladas en espacio aéreo no segregado."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El Nivel II de interoperabilidad de RPAS (STANAG 4586) se caracteriza por permitir:",
+    "respuestas": {
+      "a": "El control total del RPA, incluyendo lanzamiento y recuperación.",
+      "b": "Controlar la carga útil del RPA.",
+      "c": "Recibir imágenes y datos directamente desde el RPA mediante terminales dedicados (RVT).",
+      "d": "Únicamente recibir datos procesados a través de una red general."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El concepto C-UAS (Contra-Sistemas Aéreos no Tripulados) se enfoca en contrarrestar la amenaza de UAS. ¿Cuál es una característica de los UAS LSS (Low, Slow, Small) que dificulta su neutralización por sistemas de defensa aérea tradicionales?",
+    "respuestas": {
+      "a": "Su alta velocidad supersónica y gran altitud de operación.",
+      "b": "Su firma radar y térmica muy elevada y predecible.",
+      "c": "Su capacidad para transportar armamento nuclear táctico.",
+      "d": "Su baja firma acústica, radar e infrarroja y su pequeño tamaño."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "El RPAS \"Predator B MQ-9 Reaper\", utilizado por el Ejército del Aire español, se clasifica como:",
+    "respuestas": {
+      "a": "RPAS Táctico de corto alcance.",
+      "b": "RPAS HALE (High Altitude Long Endurance).",
+      "c": "RPAS MALE (Medium Altitude Long Endurance).",
+      "d": "RPAS Small para misiones de reconocimiento urbano."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "En el planeamiento de misiones RPAS, ¿qué significa la \"misión de emergencia\" o \"lost link\"?",
+    "respuestas": {
+      "a": "Una misión asignada con menos de 24 horas de antelación.",
+      "b": "Un procedimiento predefinido que sigue el RPA en caso de pérdida del enlace de datos.",
+      "c": "El despliegue rápido de un RPAS para una situación de catástrofe.",
+      "d": "La cancelación de la misión por condiciones meteorológicas adversas."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La Escuela de UAS Militar en Salamanca, España, otorga la licencia Tipo II (Tarjeta Naranja) para operar RPAS militares con un MTOW:",
+    "respuestas": {
+      "a": "Menor o igual a 150 kg.",
+      "b": "Superior a 150 kg.",
+      "c": "Exclusivamente superior a 600 kg (Clase III).",
+      "d": "Menor o igual a 25 kg para operaciones civiles."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la principal diferencia entre las Operaciones Counter Air (CA) Ofensivas y Defensivas?",
+    "respuestas": {
+      "a": "Las CA Ofensivas usan solo misiles A/A y las Defensivas solo cañones.",
+      "b": "Las CA Ofensivas buscan destruir el poder aéreo enemigo cerca de sus fuentes, mientras las Defensivas buscan anular la acción aérea hostil.",
+      "c": "Las CA Ofensivas se realizan de día y las Defensivas de noche.",
+      "d": "Las CA Ofensivas son exclusivas de los RPAS y las Defensivas de la aviación tripulada."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El cañón aéreo embarcado VULCAN M-61 A, utilizado en el F-18 del Ejército del Aire, es de tipo:",
+    "respuestas": {
+      "a": "Revólver, con un solo tubo de 27 mm.",
+      "b": "Gatling, con varios tubos rotatorios y calibre 20 mm.",
+      "c": "De ánima lisa, optimizado para munición subcalibrada.",
+      "d": "Electromagnético, con alta cadencia de proyectiles no explosivos."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En el combate A/A con cañón, el modo \"Tracking\" (deliberado) se diferencia del \"Snap\" (disparo de oportunidad) en que el Tracking implica:",
+    "respuestas": {
+      "a": "Disparar una ráfaga corta sin predicción de impacto.",
+      "b": "Un seguimiento sostenido del objetivo para calcular la solución de tiro.",
+      "c": "Utilizar únicamente la mira de hierro del cañón.",
+      "d": "Disparar con el avión en postcombustión para máxima energía."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La munición tipo HEI-T para cañón aéreo significa:",
+    "respuestas": {
+      "a": "High-Explosive Incendiary - Training (Alto Explosivo Incendiario - Prácticas).",
+      "b": "Hard-Effect Impenetrable - Titanium (Efecto Duro Impenetrable - Titanio).",
+      "c": "High-Explosive Incendiary - Tracer (Alto Explosivo Incendiario - Trazadora).",
+      "d": "Hyper-Velocity Energy Impact - Target (Impacto Energético Hiperveloz - Blanco)."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El misil Aire-Aire IRIS-T, en servicio en el Ejército del Aire, pertenece a la:",
+    "respuestas": {
+      "a": "Segunda Generación, con campo de visión de 45º.",
+      "b": "Tercera Generación, con capacidad \"todo aspecto\" limitada.",
+      "c": "Cuarta Generación, con ángulo fuera de eje de 60º.",
+      "d": "Quinta Generación, con buscador de imágenes infrarrojas (IIR)."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "El modo de operación \"LOAL\" (Lock On After Launch) en un misil como el IRIS-T permite:",
+    "respuestas": {
+      "a": "Fijar el objetivo solo si está perfectamente alineado con el eje del misil (boresight).",
+      "b": "Lanzar el misil sin blocaje previo, buscando este una fuente de calor post-lanzamiento.",
+      "c": "Que el misil se guíe exclusivamente por el data-link de la aeronave hasta el impacto.",
+      "d": "Mantener el blocaje del objetivo incluso si la aeronave lanzadora realiza maniobras evasivas extremas."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El misil Aire-Aire AIM-120 AMRAAM, utilizado por el Ejército del Aire, en su fase terminal de guiado utiliza:",
+    "respuestas": {
+      "a": "Un sistema de navegación inercial exclusivamente.",
+      "b": "Su cabeza buscadora de radar activa monopulso.",
+      "c": "Un sensor infrarrojo para seguir la firma térmica del blanco.",
+      "d": "Guiado por el radar de la aeronave lanzadora (semiactivo)."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El misil METEOR es un desarrollo pan-europeo en el que participa España. ¿Qué tipo de motor lo caracteriza y le otorga gran alcance y velocidad sostenida?",
+    "respuestas": {
+      "a": "Motor cohete de combustible sólido de doble impulso.",
+      "b": "Motor turbofán de bajo consumo.",
+      "c": "Motor Ramjet (estatorreactor).",
+      "d": "Motor de plasma de alta eficiencia."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Los misiles Aire-Aire de guiado radárico semiactivo (SARH), como el AIM-7 Sparrow, requieren que:",
+    "respuestas": {
+      "a": "El misil ilumine el blanco con su propio radar y siga los ecos.",
+      "b": "El blanco emita una señal de radiofrecuencia específica para ser seguido.",
+      "c": "La aeronave lanzadora ilumine continuamente el blanco con su radar hasta el impacto.",
+      "d": "El misil utilice un sistema de guiado GPS para alcanzar las coordenadas del blanco."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Las bombas de propósito general (GPB) de la serie Mk-80 (Mk-82, Mk-83, Mk-84) se caracterizan por tener un contenido explosivo aproximado de:",
+    "respuestas": {
+      "a": "10-15% de su peso total, priorizando la penetración.",
+      "b": "40-50% de su peso total, buscando un equilibrio de efectos.",
+      "c": "70-80% de su peso total, para máxima onda expansiva.",
+      "d": "Menos del 5%, siendo principalmente cuerpos inertes para entrenamiento."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Una bomba GBU-39 SDB (Small Diameter Bomb) se caracteriza por:",
+    "respuestas": {
+      "a": "Ser una bomba de 2000 lb con alta capacidad de penetración.",
+      "b": "Tener un guiado exclusivamente láser y ser efectiva contra objetivos móviles.",
+      "c": "Pesar alrededor de 250 lb, guiarse por INS/GPS y tener alas para planear a gran distancia.",
+      "d": "Ser una bomba termobárica de gran efecto de área."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El misil AGM-65 Maverick, en servicio en el F-18 del Ejército del Aire, puede utilizar varios tipos de guiado, EXCEPTO:",
+    "respuestas": {
+      "a": "Imágenes infrarrojas (IIR).",
+      "b": "Radar pasivo anti-radiación.",
+      "c": "Electro-óptico (EO) / TV.",
+      "d": "Láser."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La bomba guiada GBU-48 (EGBU-16) utilizada por el Ejército del Aire combina un cuerpo de bomba Mk-83 con un kit de guiado:",
+    "respuestas": {
+      "a": "Exclusivamente GPS/INS (tipo JDAM).",
+      "b": "Exclusivamente láser (tipo Paveway II).",
+      "c": "Dual GPS/INS y Láser (tipo Enhanced Paveway II).",
+      "d": "Infrarrojo (IIR) para detección de calor."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "En el procedimiento de \"Buddy Lasing\", ¿quién realiza la iluminación láser del objetivo?",
+    "respuestas": {
+      "a": "Un equipo en tierra (FAC).",
+      "b": "La propia aeronave que lanza el armamento.",
+      "c": "Otra aeronave diferente a la que lanza el armamento.",
+      "d": "Un satélite con capacidad de designación láser."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El Polígono de Tiro de Bardenas Reales, según la IG 30-10, tiene una zona peligrosa asociada (D50) que normalmente está activa hasta qué Límite Vertical?",
+    "respuestas": {
+      "a": "FL100",
+      "b": "FL235",
+      "c": "FL350",
+      "d": "FL460"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En el proceso de weaponeering, si se necesita un efecto de fragmentación óptimo contra personal en trincheras o equipos expuestos, ¿qué modo de espoleta sería el más adecuado?",
+    "respuestas": {
+      "a": "Instantánea (impacto directo).",
+      "b": "Retardo largo (para penetración profunda).",
+      "c": "Proximidad (Airburst) a una altitud predefinida.",
+      "d": "Hidrostática (para uso subacuático)."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La terminología RPAS/RPA, según el EMAD, se prefiere sobre UAS/UA en el ámbito militar español para enfatizar:",
+    "respuestas": {
+      "a": "La total autonomía del sistema sin intervención humana.",
+      "b": "Que la aeronave es pilotada, aunque sea remotamente, existiendo un piloto al mando.",
+      "c": "Su uso exclusivo para misiones de reconocimiento y no para portar armamento.",
+      "d": "Su desarrollo y fabricación exclusivamente nacional."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Un RPAS clasificado como MICRO (<66J o aprox. <2kg) tiene un alcance típico de:",
+    "respuestas": {
+      "a": "Hasta 50 km.",
+      "b": "Hasta 25 km.",
+      "c": "Hasta 5 km.",
+      "d": "Más de 200 km con enlace satelital."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La capacidad de \"Transferencia de Control\" (Handover/Switch) en un sistema RPAS permite principalmente:",
+    "respuestas": {
+      "a": "Cambiar el tipo de carga útil en pleno vuelo.",
+      "b": "Aumentar el tiempo en objetivo (TOT) mediante el relevo de tripulaciones o GCS.",
+      "c": "Convertir un RPA de reconocimiento en uno de ataque remotamente.",
+      "d": "Transferir los datos de la misión a una aeronave tripulada cercana."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En el contexto del espacio aéreo para RPAS, ¿qué es ARSEA en España?",
+    "respuestas": {
+      "a": "La Agencia de Regulación y Seguridad de Espacio Aéreo.",
+      "b": "La Autoridad Responsable de la Segregación de Espacio Aéreo (SEJEMA).",
+      "c": "El Área Restringida para Sistemas Experimentales Aéreos.",
+      "d": "La Asociación de Radioaficionados y Sistemas Electrónicos Aéreos."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Para operar un RPAS militar de Clase II o III en España, además de la asistencia radar, ¿qué tipo de equipamiento de comunicaciones es requerido?",
+    "respuestas": {
+      "a": "Un único equipo de radio VHF con alcance de 50 NM.",
+      "b": "Comunicación exclusiva por señales visuales con la torre de control.",
+      "c": "Dos equipos de radio/satélite o línea telefónica punto a punto dedicado.",
+      "d": "Un sistema de mensajería de texto encriptado con la GCS."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El RPAS SIVA (Sistema Integrado de Vigilancia Aérea) es un desarrollo nacional (INTA) utilizado por el Ejército del Aire y el Ejército de Tierra. ¿En qué categoría de peso se encuadra principalmente?",
+    "respuestas": {
+      "a": "Micro (<2kg).",
+      "b": "Small (15-150kg).",
+      "c": "Táctico (150-600kg, con un MTOW de unos 300kg).",
+      "d": "MALE (>600kg)."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El futuro sistema de combate aéreo FCAS (Future Combat Air System) se concibe como:",
+    "respuestas": {
+      "a": "Un único modelo de caza de sexta generación para reemplazar todos los aviones existentes.",
+      "b": "Un sistema compuesto exclusivamente por enjambres de drones autónomos.",
+      "c": "Una mezcla de componentes tripulados de 4ª/5ª generación y componentes no tripulados (UCAV).",
+      "d": "Una red de satélites de combate y defensa espacial."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Al planear una misión RPAS, el concepto \"4 Ts\" (Task / Target / Threat / Tactics) es un método para:",
+    "respuestas": {
+      "a": "Calcular el consumo de combustible y la autonomía.",
+      "b": "Determinar la frecuencia óptima para el enlace de datos.",
+      "c": "Realizar un planeamiento exhaustivo de la misión considerando todos los aspectos clave.",
+      "d": "Seleccionar el personal DUO más adecuado para la misión."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La principal ventaja de los misiles Aire-Aire de guiado infrarrojo (IR) frente a los radáricos es:",
+    "respuestas": {
+      "a": "Su mayor alcance efectivo en cualquier condición meteorológica.",
+      "b": "Su inmunidad total a las contramedidas (bengalas).",
+      "c": "No necesitar iluminación externa del blanco, siendo \"Fire & Forget\".",
+      "d": "Su menor coste de adquisición y mayor simplicidad, lo que los hace más fiables."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El misil Aire-Aire AIM-9L Sidewinder, en servicio en el Ejército del Aire, utiliza un detector de energía infrarroja de:",
+    "respuestas": {
+      "a": "Plomo-Sulfuro (PbS) refrigerado, característico de primeras generaciones.",
+      "b": "Indio-Antimonio (InSb), con capacidad todo-aspecto.",
+      "c": "Mercurio-Cadmio-Telurio (MCT) para imágenes térmicas detalladas.",
+      "d": "Un bolómetro no refrigerado de bajo coste."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué es un \"Rolleron\" en el contexto de un misil como el AIM-9 Sidewinder?",
+    "respuestas": {
+      "a": "Un pequeño motor cohete para correcciones de trayectoria en la fase terminal.",
+      "b": "Una antena de recepción para el sistema de guiado.",
+      "c": "Una rueda giroscópica en los extremos de las aletas de cola que proporciona estabilización al reducir el giro del misil.",
+      "d": "Un tipo de espoleta de proximidad basada en ultrasonidos."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El misil Aire-Aire AIM-7 Sparrow, utilizado por el F-18A del Ala 46, es un ejemplo de misil con guiado:",
+    "respuestas": {
+      "a": "Infrarrojo pasivo de corto alcance.",
+      "b": "Radárico activo de medio alcance (BVR).",
+      "c": "Radárico semiactivo (SARH) de medio alcance.",
+      "d": "Por Mando en Línea de Visión (CLOS)."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Las bombas antipista, como la Durandal, suelen utilizar un sistema de propulsión intermedio (cohetes) para:",
+    "respuestas": {
+      "a": "Aumentar su alcance significativamente antes de la caída.",
+      "b": "Proporcionar una explosión secundaria de dispersión.",
+      "c": "Acelerar la bomba verticalmente contra la pista para mejorar la penetración.",
+      "d": "Permitir su lanzamiento desde helicópteros a baja velocidad."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Una bomba GBU (Guided Bomb Unit) como la GBU-12 Paveway II está formada por un cuerpo de bomba Mk-82 y un kit de guiado que incluye:",
+    "respuestas": {
+      "a": "Un motor cohete y aletas de control vectorial.",
+      "b": "Un receptor GPS y un sistema de navegación inercial.",
+      "c": "Una unidad de guía láser, una unidad de control de vuelo y aletas estabilizadoras.",
+      "d": "Un paracaídas de frenado y una espoleta de retardo variable."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El sistema de guiado de una bomba Paveway III se diferencia del Paveway II porque el Paveway III utiliza un guiado:",
+    "respuestas": {
+      "a": "Tipo \"bang-bang\" con correcciones bruscas.",
+      "b": "Exclusivamente inercial tras el lanzamiento.",
+      "c": "Proporcional, permitiendo un vuelo más suave y perfiles seleccionables.",
+      "d": "Basado en el contraste de imagen de una cámara de TV."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La bomba guiada GBU-54 Laser JDAM es esencialmente una GBU-38 (JDAM con guiado GPS/INS) a la que se le ha añadido:",
+    "respuestas": {
+      "a": "Un motor cohete para mayor alcance.",
+      "b": "Alas desplegables para planeo extendido.",
+      "c": "Un buscador láser para atacar objetivos móviles o mejorar la precisión terminal.",
+      "d": "Una cabeza de guerra de fragmentación optimizada."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El misil AGM-114 Hellfire es conocido por su capacidad antiblindaje y puede ser lanzado desde múltiples plataformas. Su guiado puede ser mediante:",
+    "respuestas": {
+      "a": "Radar pasivo anti-radiación exclusivamente.",
+      "b": "Guiado inercial con correcciones GPS.",
+      "c": "Seeker láser o radar de ondas milimétricas.",
+      "d": "Fibra óptica para control manual del operador."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "En el procedimiento \"Ground Lasing\", ¿cuál es un inconveniente principal para el equipo en tierra que realiza la designación?",
+    "respuestas": {
+      "a": "La necesidad de utilizar equipos de muy alta potencia y gran tamaño.",
+      "b": "La exposición al fuego enemigo y la dependencia de la batería del designador.",
+      "c": "La imposibilidad de iluminar objetivos más allá de 500 metros.",
+      "d": "La interferencia causada por las comunicaciones del avión lanzador."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La metodología CDE (Estimación de Daños Colaterales) en el ciclo de targeting tiene como uno de sus principales beneficios:",
+    "respuestas": {
+      "a": "Aumentar el radio de acción de las armas de efecto expansivo.",
+      "b": "Seleccionar el armamento más barato disponible para la misión.",
+      "c": "Predecir y mitigar los daños no deseados a personas o bienes protegidos.",
+      "d": "Asegurar la destrucción total del objetivo sin considerar la proporcionalidad."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La doctrina OTAN AJP-3.9 \"Allied Joint Doctrine for Joint Targeting\" es un documento de referencia para:",
+    "respuestas": {
+      "a": "La clasificación de los RPAS según su tamaño y autonomía.",
+      "b": "Los procedimientos de mantenimiento de aeronaves en zona de operaciones.",
+      "c": "El proceso conjunto de selección, priorización de objetivos y aplicación de capacidades.",
+      "d": "Las normas de certificación de aeronavegabilidad para sistemas no tripulados."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El término \"Sistema de Armas\", en un enfoque logístico, implica:",
+    "respuestas": {
+      "a": "Únicamente el arma en sí misma y su munición asociada.",
+      "b": "El proceso de diseño y desarrollo del software de guiado del armamento.",
+      "c": "Un proceso de trabajo planificado para proveer todo lo necesario para que el arma funcione, incluyendo equipos de apoyo y personal.",
+      "d": "La evaluación del rendimiento del arma en condiciones de combate simulado exclusivamente."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Las Operaciones de Apoyo Aéreo Ofensivo (OAS), como el CAS (Close Air Support), se distinguen de la Interdicción Aérea (AI) porque:",
+    "respuestas": {
+      "a": "El CAS se realiza a mayor distancia de las fuerzas propias que la AI.",
+      "b": "El CAS requiere una total coordinación e integración con el fuego y movimiento de las fuerzas de superficie apoyadas.",
+      "c": "La AI utiliza exclusivamente armamento guiado de precisión, mientras que el CAS usa armamento no guiado.",
+      "d": "El CAS tiene como objetivo principal la infraestructura logística enemiga y la AI las unidades de combate en el frente."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En el contexto de los RPAS en España, ¿qué organización es responsable de la formación inicial y la expedición de las licencias de operador de RPAS militares Tipo I y Tipo II?",
+    "respuestas": {
+      "a": "El Estado Mayor de la Defensa (EMAD) directamente.",
+      "b": "La Agencia Estatal de Seguridad Aérea (AESA).",
+      "c": "La Escuela de UAS Militar ubicada en el Grupo de Escuelas de Matacán (Salamanca).",
+      "d": "El Instituto Nacional de Técnica Aeroespacial (INTA)."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El RPAS \"Fulmar\", utilizado por el Ejército del Aire y el Ejército de Tierra españoles, se encuadra dentro de la categoría:",
+    "respuestas": {
+      "a": "Micro, con un peso inferior a 2 kg.",
+      "b": "Small, con un peso aproximado de 20 kg.",
+      "c": "Táctico, con un MTOW superior a 150 kg.",
+      "d": "MALE, con capacidad de vuelo de larga duración."
+    },
+    "correcta": "b"
+  }
+]
