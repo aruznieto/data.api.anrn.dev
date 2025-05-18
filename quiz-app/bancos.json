@@ -28,5 +28,10 @@
     "asignatura": "Doctrina",
     "nombre": "Vacas",
     "link": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/refs/heads/main/quiz-app/doctrina/preguntas.json"
+  },
+  {
+    "asignatura": "RPAS",
+    "nombre": "Preguntas",
+    "link": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/refs/heads/main/quiz-app/rpas/preguntas.json"
   }
 ]
