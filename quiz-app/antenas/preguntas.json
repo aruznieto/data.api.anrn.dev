@@ -1,0 +1,252 @@
+[
+  {
+    "pregunta": "¿Qué tipo de sensor utiliza el satélite Sentinel-1?",
+    "respuestas": {
+      "a": "Radar de apertura sintética (SAR)",
+      "b": "Cámara multiespectral",
+      "c": "Sensor infrarrojo",
+      "d": "Altímetro láser"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes Sentinel lleva cámaras ópticas multiespectrales?",
+    "respuestas": {
+      "a": "Sentinel-6",
+      "b": "Sentinel-2",
+      "c": "Sentinel-5",
+      "d": "Sentinel-1"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la misión principal del Sentinel-3?",
+    "respuestas": {
+      "a": "Medir gases contaminantes",
+      "b": "Controlar fronteras",
+      "c": "Monitorear océanos y clima",
+      "d": "Detectar incendios forestales"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes Sentinel no es un satélite independiente?",
+    "respuestas": {
+      "a": "Sentinel-6",
+      "b": "Sentinel-3",
+      "c": "Sentinel-2",
+      "d": "Sentinel-4"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Qué tipo de órbita tiene Sentinel-1?",
+    "respuestas": {
+      "a": "Polar heliosíncrona",
+      "b": "No heliosíncrona",
+      "c": "Baja terrestre",
+      "d": "Geoestacionaria"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué tipo de órbitas se utilizan en internet satelital?",
+    "respuestas": {
+      "a": "Se utilizan GEO, MEO y LEO satélites",
+      "b": "Solo satélites cercanos a la Tierra",
+      "c": "Únicamente satélites geoestacionarios activos",
+      "d": "Satélites de baja latencia únicamente"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué permite el beam steering en antenas?",
+    "respuestas": {
+      "a": "Detectar la velocidad del satélite",
+      "b": "Reforzar el tamaño de la señal",
+      "c": "Permite cambiar la dirección del lóbulo principal",
+      "d": "Sintonizar múltiples frecuencias a la vez"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué puede afectar la señal satelital?",
+    "respuestas": {
+      "a": "La lluvia intensa o nieve pueden degradarla",
+      "b": "Altas temperaturas o días soleados",
+      "c": "Luz solar directa al plato receptor",
+      "d": "Viento fuerte en zonas montañosas"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué organización usa internet en emergencias?",
+    "respuestas": {
+      "a": "La UME en despliegues por desastres naturales",
+      "b": "El INE durante elecciones nacionales",
+      "c": "Las universidades en zonas rurales",
+      "d": "El ministerio de turismo en ferias"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué empresa revolucionó el acceso satelital?",
+    "respuestas": {
+      "a": "Starlink ha revolucionado el acceso directo",
+      "b": "Hispasat provee internet en oficinas",
+      "c": "Viasat conecta redes de televisión",
+      "d": "OneWeb desarrolla software para empresas"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Por qué los satélites GNSS usan frecuencias tan altas (en la banda L)?",
+    "respuestas": {
+      "a": "Porque se reflejan fácilmente en el suelo.",
+      "b": "Porque permiten ahorrar batería.",
+      "c": "Porque atraviesan la atmósfera con poca distorsión.",
+      "d": "Porque ocupan menos espacio en órbita."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Para qué se necesita un cuarto satélite al calcular la posición con GNSS?",
+    "respuestas": {
+      "a": "Para detectar satélites enemigos.",
+      "b": "Para corregir el reloj del receptor.",
+      "c": "Para calcular la altitud.",
+      "d": "Para mejorar la cobertura de señal."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es la principal ventaja de usar múltiples sistemas GNSS (GPS, Galileo, GLONASS, BeiDou) a la vez?",
+    "respuestas": {
+      "a": "Aumentar el número de satélites disponibles y mejorar la precisión.",
+      "b": "Poder recibir canales de televisión.",
+      "c": "Evitar el uso de relojes atómicos.",
+      "d": "Ahorrar ancho de banda en la transmisión."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué hace una estación base en un sistema RTK?",
+    "respuestas": {
+      "a": "Mide la altitud con láser.",
+      "b": "Calcula errores y envía correcciones al receptor móvil.",
+      "c": "Lanza satélites a la órbita.",
+      "d": "Multiplica la señal de los satélites para más potencia."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Por qué GLONASS es menos compatible con otros sistemas GNSS?",
+    "respuestas": {
+      "a": "Porque usa CDMA como los demás.",
+      "b": "Porque tiene menos satélites.",
+      "c": "Porque sus satélites están más bajos.",
+      "d": "Porque usa FDMA, con frecuencias distintas por satélite."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuál es una consecuencia directa del efecto Kessler en órbita baja terrestre?",
+    "respuestas": {
+      "a": "Todos los satélites aumentan su potencia eléctrica considerablemente",
+      "b": "Se requiere más escudo térmico en los satélites",
+      "c": "Las colisiones generan más fragmentos en cadena",
+      "d": "Los satélites pierden la conexión con la Tierra"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué maniobra orbital es cada vez más necesaria debido a la basura espacial?",
+    "respuestas": {
+      "a": "Cambio de plano para órbitas polares",
+      "b": "Aumento de la masa del satélite",
+      "c": "Maniobra evasiva para evitar las colisiones orbitales",
+      "d": "El encendido del GPS en todos los satélites"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es una solución propuesta por la ESA para mitigar la basura espacial?",
+    "respuestas": {
+      "a": "Lanzar más cohetes desde Europa",
+      "b": "Captura activa mediante satélites con brazos robóticos",
+      "c": "Aumentar la densidad de las órbitas GEO y LEO",
+      "d": "Uso de cámaras térmicas para detectar los satélites"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué relación tiene el diseño de satélites con la basura espacial?",
+    "respuestas": {
+      "a": "Solo afecta a los colores exteriores del satélite",
+      "b": "Se instalan protecciones contra posibles impactos orbitales",
+      "c": "Se reduce el número de paneles solares utilizados para su autonomía",
+      "d": "Se aumenta la velocidad de transmisión de datos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué sucede al final de la vida útil de muchos satélites si no se planifica adecuadamente?",
+    "respuestas": {
+      "a": "Se funden con el Sol tras años de uso",
+      "b": "Permanecen como basura espacial en órbita terrestre",
+      "c": "Se convierten en drones atmosféricos militares",
+      "d": "Bajan por gravedad hasta un punto concreto del océano Índico"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué significa SAR en el contexto de radares?",
+    "respuestas": {
+      "a": "Sistema alternativo de reconocimiento aéreo por satélite",
+      "b": "Sensor automático de registro de actividad terrestre hostil",
+      "c": "Radar de Apertura Sintética, para imágenes de radar",
+      "d": "Red avanzada de supervisión aérea para clima extremo"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué ventaja importante tienen las imágenes SAR?",
+    "respuestas": {
+      "a": "Solo funcionan en climas secos y despejados",
+      "b": "Funcionan sin luz ni clima favorable, siempre operan",
+      "c": "Usan cámaras ópticas para obtener imágenes claras",
+      "d": "Solo detectan objetos metálicos en campo abierto"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué detecta principalmente la interferometría InSAR?",
+    "respuestas": {
+      "a": "Movimientos de tropas ocultas en zonas forestales",
+      "b": "Cambios en el clima extremo de grandes regiones",
+      "c": "Deformaciones submilimétricas del terreno, incluso ocultas",
+      "d": "Variación de temperatura en estructuras de hormigón"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Dónde se emplea normalmente la técnica PS-InSAR?",
+    "respuestas": {
+      "a": "En océanos, para vigilar corrientes marítimas activas",
+      "b": "En ciudades, para detectar movimientos del terreno",
+      "c": "En selvas, por la alta cobertura vegetal densa",
+      "d": "En volcanes, para medir calor subterráneo directo"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál de estas opciones no es uso militar?",
+    "respuestas": {
+      "a": "Generar energía eléctrica para consumo de satélites",
+      "b": "Reconocimiento estratégico desde órbita ante amenazas",
+      "c": "Apoyo táctico en operaciones de inteligencia avanzada",
+      "d": "Detección de daños tras ataques con armamento pesado"
+    },
+    "correcta": "a"
+  }
+]
