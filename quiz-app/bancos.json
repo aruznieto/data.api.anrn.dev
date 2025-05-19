@@ -33,5 +33,10 @@
     "asignatura": "RPAS",
     "nombre": "Preguntas",
     "link": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/refs/heads/main/quiz-app/rpas/preguntas.json"
+  },
+  {
+    "asignatura": "Antenas",
+    "nombre": "Preguntas",
+    "link": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/refs/heads/main/quiz-app/antenas/preguntas.json"
   }
 ]
