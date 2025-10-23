@@ -1,0 +1,192 @@
+[
+  {
+    "pregunta": "¿Qué tipos de señales envía un VOR?",
+    "respuestas": {
+      "a": "Ninguna de las otras respuestas es correcta.",
+      "b": "una señal de determinación de distancia basada en la distancia de dos impulsos",
+      "c": "una señal de identificación de la aeronave en Código Morse Internacional 1020Hz",
+      "d": "solamente señales de navegación e identificación del VOR"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Dónde se pueden consultar las relaciones que hay entre las frecuencias VHF y UHF usadas en el DME y las radioayudas asociadas?",
+    "respuestas": {
+      "a": "Anexo 10 de la OACI.",
+      "b": "Anexo 4 de la OACI",
+      "c": "Anexo 7 de la OACI",
+      "d": "Anexo 14 de la OACI"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Respecto al sistema ILS, seleccione la opción incorrecta:",
+    "respuestas": {
+      "a": "La señal portadora del Localizador opera en UHF mientras que la de la Senda de Planeo lo hace en VHF.",
+      "b": "Uno de sus principales inconvenientes es que ofrece únicamente una trayectoria de descenso.",
+      "c": "La categoría del ILS no es el único factor que determina la disponibilidad del aeródromo/aeropuerto.",
+      "d": "Todas las otras respuestas son correctas."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Respecto al VOR:",
+    "respuestas": {
+      "a": "Ninguna de las anteriores es correcta.",
+      "b": "La medición de distancia no es tan precisa como en el DME.",
+      "c": "Proporciona información para el aterrizaje instrumental en un aeropuerto.",
+      "d": "La medición de distancia no es tan precisa como en el TACAN."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El alcance de un VOR...",
+    "respuestas": {
+      "a": "Ninguna de las otras respuestas es correcta.",
+      "b": "No depende del tipo de VOR.",
+      "c": "El CVOR y el TVOR tienen un alcance de unos 200 km.",
+      "d": "El CVOR tiene un alcance de 90 Km."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Respecto a la antena de cuadro:",
+    "respuestas": {
+      "a": "Cuando el plano es paralelo a la dirección de desplazamiento de las ondas, las ramas recogerán unas cantidades de señal distintas.",
+      "b": "El plano de la antena suele ser paralelo al ala de la aeronave.",
+      "c": "Cuando el plano es perpendicular a la dirección de desplazamiento de las ondas, las ramas recogerán una cantidades de señal distintas.",
+      "d": "Ninguna de las otras respuestas es correcta."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes factores influye en el alcance de un NDB-ADF?",
+    "respuestas": {
+      "a": "Todas son correctas.",
+      "b": "Momento del día (con o sin luz diurna, o al amanecer y al atardecer)",
+      "c": "Potencia de transmisión",
+      "d": "Frecuencia de transmisión"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Cuando el DME trabaja en modo búsqueda...",
+    "respuestas": {
+      "a": "Éste modo dura como mucho 20 segundos.",
+      "b": "Todas las respuestas son correctas.",
+      "c": "El ritmo de interrogación es de 200 p.p.s.",
+      "d": "Se obtiene una lectura continua y sincronizada de la distancia."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Cual de las afirmaciones del VOR Doppler es correcta:",
+    "respuestas": {
+      "a": "Se basa en un array de antenas circulares y una antena central de referencia.",
+      "b": "Las antenas se activan de forma progresiva en grupos de cuatro.",
+      "c": "Es necesario un receptor de a bordo distinto para poder usar el DVOR.",
+      "d": "Todas las preguntas son correctas."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Para el NDB:",
+    "respuestas": {
+      "a": "Se usan antenas en T o paraguas.",
+      "b": "El objetivo de la antena en T es reducir el efecto de las condiciones meteorológicas.",
+      "c": "La polarización es horizontal.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Sobre el DME, señale la correcta...",
+    "respuestas": {
+      "a": "Ninguna de las otras respuestas es correcta.",
+      "b": "La diferencia entre la distancia medida en tierra y la directa aumenta cuanto más lejos nos encontremos del DME.",
+      "c": "La medida real se corresponde con la distancia proyectada en el plano DME-AERONAVE.",
+      "d": "La aeronave se identificará utilizando Código Morse Internacional a 1020Hz."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Respecto a las diferencias entre VOR y TACAN, señale la incorrecta:",
+    "respuestas": {
+      "a": "Ambos se caracterizan por usar modulación espacial basándose en trenes de impulsos.",
+      "b": "La frecuencia de trabajo del TACAN es mayor que la del VOR.",
+      "c": "El TACAN es más preciso que el VOR.",
+      "d": "El VOR tiene dimensiones mayores que el TACAN."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Las frecuencias de trabajo de un VOR:",
+    "respuestas": {
+      "a": "Se encuentran en el rango de los 108 a 117,975 MHz.",
+      "b": "Se encuentran en el rango de los 108 a 112 MHz.",
+      "c": "Se encuentran en el rango de los 108 a 112 KHz.",
+      "d": "Se encuentran en el rango de los 108 a 117,975 KHz."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En la radiogoniometría NDB-ADF:",
+    "respuestas": {
+      "a": "Ninguna es correcta.",
+      "b": "El NDB es el receptor del sistema embarcado.",
+      "c": "El NDB transmite señales de navegación bajo demanda del piloto.",
+      "d": "El ADF es el emisor embarcado en la aeronave."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el ADF:",
+    "respuestas": {
+      "a": "Es preferible no tener componentes móviles.",
+      "b": "Es mejor tener una antena que pueda girar con la ayuda de un motor.",
+      "c": "Usar dos antenas de cuadro situadas ortogonalmente empeora las prestaciones.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Sobre el efecto Doppler:",
+    "respuestas": {
+      "a": "Ninguna de las otras respuestas es correcta.",
+      "b": "Sólo afecta a ondas mecánicas.",
+      "c": "Sólo afecta a ondas electromagnéticas.",
+      "d": "Es prioritario su estudio en el diseño del CVOR."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El DME se basa en la tecnología:",
+    "respuestas": {
+      "a": "Del Radar secundario.",
+      "b": "Del Radar primario.",
+      "c": "De modulación espacial.",
+      "d": "De la modulación Doppler."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué tipo de información proporciona el TACAN?",
+    "respuestas": {
+      "a": "Aporta información de acimut y distancia.",
+      "b": "Aporta información de distancia.",
+      "c": "Ninguna de las otras respuestas es correcta.",
+      "d": "Aporta información de azimut."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Respecto al Doppler VOR (DVOR), señale la respuesta correcta:",
+    "respuestas": {
+      "a": "Como norma general está menos afectado por las reflexiones en objetos que el CVOR.",
+      "b": "Hay que modificar los equipos VOR convencionales embarcados para poder hacer uso de este sistema.",
+      "c": "En todo momento hay alimentada dos antenas, una de referencia y otra que genera la rotación aparente.",
+      "d": "Tiene una precisión angular cercana a 2 grados."
+    },
+    "correcta": "a"
+  }
+]
