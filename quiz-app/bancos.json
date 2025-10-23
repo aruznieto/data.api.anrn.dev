@@ -42,6 +42,6 @@
   {
     "asignatura": "Radiocomunicacion",
     "nombre": "Preguntas",
-    "link": "https://github.com/aruznieto/data.api.anrn.dev/blob/main/quiz-app/exploracion_electromangetica/radioayudas.json"
+    "link": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/refs/heads/main/quiz-app/exploracion_electromangetica/radioayudas.json"
   }
 ]
