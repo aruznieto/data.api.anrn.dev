@@ -43,5 +43,10 @@
     "asignatura": "Radioayudas",
     "nombre": "Preguntas",
     "link": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/refs/heads/main/quiz-app/exploracion_electromangetica/radioayudas.json"
+  },
+  {
+    "asignatura": "Radar",
+    "nombre": "Preguntas",
+    "link": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/refs/heads/main/quiz-app/radar/exam.json"
   }
 ]
