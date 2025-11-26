@@ -1,0 +1,142 @@
+[
+  {
+    "pregunta": "Con respecto al radar CHAIN HOME marque la incorrecta",
+    "respuestas": {
+      "a": "Trabajaba en banda HF.",
+      "b": "Es un RADAR de tipo monoestático.",
+      "c": "Se considera el primer sistema de alerta temprana.",
+      "d": "Su desarrollo comenzó en la década de los 30."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Con respecto a las ondas electromagnéticas y su naturaleza marque la incorrecta",
+    "respuestas": {
+      "a": "Su propagación se rige por la teoría de Maxwell.",
+      "b": "La dirección de propagación es perpendicular a los campos eléctricos y magnéticos.",
+      "c": "El funcionamiento de un RADAR primario no sería posible sin el efecto de la reflexión.",
+      "d": "La energía de una onda está directamente relacionada con su λ."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "El horizonte radar",
+    "respuestas": {
+      "a": "Es un parámetro que no afecta a la hora de planificar la posición de un RADAR.",
+      "b": "Es inversamente proporcional a la altura de instalación del RADAR.",
+      "c": "Entre otros factores, está asociado con la geometría del terreno y el procesamiento de la señal.",
+      "d": "Las respuestas b y c correctas."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La detección de un objetivo dentro de alcance por nuestro radar dependerá de (marque la incorrecta)",
+    "respuestas": {
+      "a": "El ruido o clutter que presente el entorno.",
+      "b": "De la potencia de transmisión de nuestro RADAR.",
+      "c": "De la velocidad del blanco u objetivo.",
+      "d": "De la RCS del objetivo."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La posición de un blanco aéreo",
+    "respuestas": {
+      "a": "Quedará determinada en distancia y elevación.",
+      "b": "El cálculo de la distancia es el resultado de multiplicar la velocidad de la luz por el tiempo de retorno del eco del último pulso.",
+      "c": "La velocidad del blanco se calcula a través del Efecto Doppler.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Indique la correcta",
+    "respuestas": {
+      "a": "Los radares de tipo cuasi coherentes fueron los primeros modelos de RADAR.",
+      "b": "Un radar coherent-on-receive COR sabe en todo momento la fase que está transmitiendo y cuál ha transmitido.",
+      "c": "El radar no coherente es la versión menos compleja y barata de un radar.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Con respecto al patrón de radiación de una antena direccional marque la incorrecta",
+    "respuestas": {
+      "a": "El patrón de radiación de una antena es independiente del diseño de la antena.",
+      "b": "El lóbulo o haz principal es la dirección donde la antena concentra la mayor parte de la energía.",
+      "c": "Los lóbulos secundarios pueden provocar interferencias o reducir la precisión del radar.",
+      "d": "El lóbulo principal se caracteriza por una mayor ganancia."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Elemento que diseña la forma de onda/pulso",
+    "respuestas": {
+      "a": "WFG.",
+      "b": "COHO.",
+      "c": "RCS.",
+      "d": "STALO."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes afirmaciones NO se corresponde con el Procesador de Señal?",
+    "respuestas": {
+      "a": "Entre sus funciones se encuentra eliminar el ruido de la señal recibida.",
+      "b": "Aplica algoritmos para la identificación de blancos.",
+      "c": "Puede detectar cambios Doppler para identificar blancos en movimiento.",
+      "d": "Lleva a cabo la etapa de Adquisición de blancos pero no la de Seguimiento."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Entre las funciones del Duplexor NO se encuentra",
+    "respuestas": {
+      "a": "Realizar la primera conversión de frecuencias en recepción.",
+      "b": "Realizar el aislamiento entre parte receptora y transmisora.",
+      "c": "Mejorar la sensibilidad del sistema filtrando el ruido fuera de la banda EM de interés.",
+      "d": "Proteger al receptor de niveles elevados de potencia."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Si quisiera mejorar la resolución de mi radar podría modificar desde mi consola, ¿qué parámetro y cómo?",
+    "respuestas": {
+      "a": "Reducir la frecuencia de transmisión.",
+      "b": "Reducir la PRF del RADAR (Pulse Repetition Frequency).",
+      "c": "Aumentar el ancho de pulso.",
+      "d": "Reduciendo la PRT (Pulse Repetition Time)."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuál es la ventaja principal de utilizar frecuencias más altas en un RADAR?",
+    "respuestas": {
+      "a": "Mayor alcance de detección.",
+      "b": "Mejor penetración a través de la atmósfera.",
+      "c": "Mayor resolución en rango.",
+      "d": "Menor absorción por la lluvia y la niebla."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cómo afecta la frecuencia de transmisión a la estructura física de los equipos de RADAR?",
+    "respuestas": {
+      "a": "Mayor frecuencia, equipos más compactos.",
+      "b": "Mayor frecuencia, equipos más grandes.",
+      "c": "La frecuencia no afecta la estructura física.",
+      "d": "Menor frecuencia, equipos más compactos."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál es la importancia del diagrama de haz en un RADAR",
+    "respuestas": {
+      "a": "Determinar la frecuencia de operación.",
+      "b": "Controlar la potencia transmitida.",
+      "c": "Definir la dirección de máxima irradiación.",
+      "d": "Medir la distancia al blanco."
+    },
+    "correcta": "c"
+  }
+]
