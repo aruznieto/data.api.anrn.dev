@@ -48,5 +48,10 @@
     "asignatura": "Radar",
     "nombre": "Preguntas",
     "link": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/refs/heads/main/quiz-app/radar/exam.json"
+  },
+  {
+    "asignatura": "Fundamentos de ciberdefensa",
+    "nombre": "GPT Generated",
+    "link": "https://raw.githubusercontent.com/aruznieto/data.api.anrn.dev/refs/heads/main/quiz-app/f_ciber/preguntas.json"
   }
 ]
