@@ -1,0 +1,2002 @@
+[
+  {
+    "pregunta": "¿Qué fue Stuxnet según el temario?",
+    "respuestas": {
+      "a": "Un virus de macro para Office",
+      "b": "Un gusano que afectaba a Windows y atacó sistemas industriales",
+      "c": "Un troyano bancario orientado a credenciales",
+      "d": "Un spyware para móviles"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué característica destacada se atribuye a Stuxnet?",
+    "respuestas": {
+      "a": "Usaba 4 vulnerabilidades de día cero",
+      "b": "Solo se propagaba por redes Wi‑Fi abiertas",
+      "c": "No afectaba a infraestructuras críticas",
+      "d": "Se limitaba a cifrar archivos para pedir rescate"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué tipo de sistemas se menciona que fueron afectados por Stuxnet?",
+    "respuestas": {
+      "a": "Sistemas SCADA de control y monitorización de procesos",
+      "b": "Sistemas de correo POP3/IMAP exclusivamente",
+      "c": "Sistemas de entretenimiento doméstico",
+      "d": "Redes P2P de intercambio de ficheros"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué país se asocia en el temario con el objetivo industrial de Stuxnet?",
+    "respuestas": {
+      "a": "España",
+      "b": "Irán",
+      "c": "Brasil",
+      "d": "Canadá"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El ataque a Estonia (abril–mayo 2007) se describe principalmente como:",
+    "respuestas": {
+      "a": "Un ataque DDoS",
+      "b": "Un ataque MITM",
+      "c": "Un ataque de ransomware",
+      "d": "Un ataque por USB aislado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el caso Estonia 2007, ¿qué se usó para saturar servidores?",
+    "respuestas": {
+      "a": "Minería de criptomonedas",
+      "b": "Botnets enviando spam masivo",
+      "c": "Exploit de macros de Office",
+      "d": "Inyección SQL"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué objetivo general persigue un ciberataque según la introducción del tema?",
+    "respuestas": {
+      "a": "Mejorar la disponibilidad del sistema",
+      "b": "Dañar, desestabilizar o comprometer la seguridad de la información",
+      "c": "Optimizar el rendimiento de la red",
+      "d": "Reducir el consumo eléctrico"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué se destaca como factor que incrementa las amenazas en el ciberespacio?",
+    "respuestas": {
+      "a": "Disminución de dispositivos conectados",
+      "b": "Aumento de dispositivos conectados y sofisticación de amenazas",
+      "c": "Eliminación de redes sociales",
+      "d": "Uso exclusivo de redes aisladas"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué se menciona como posible impacto de amenazas en el ciberespacio sobre España?",
+    "respuestas": {
+      "a": "Solo afecta a videojuegos",
+      "b": "Pueden afectar infraestructuras críticas y servicios, e incluso estabilidad nacional",
+      "c": "Solo afecta a impresoras",
+      "d": "No tiene impacto fuera de Internet"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Según el temario, la ciberseguridad es:",
+    "respuestas": {
+      "a": "Un conjunto de acciones preventivas para asegurar uso de redes/equipos y negar acceso a terceros",
+      "b": "Una técnica para cifrar discos duros",
+      "c": "Un tipo de malware",
+      "d": "Un protocolo de enrutamiento"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál NO aparece como categoría de ciberseguridad en el tema?",
+    "respuestas": {
+      "a": "Seguridad de red",
+      "b": "Seguridad de las aplicaciones",
+      "c": "Seguridad física de aeronaves",
+      "d": "Concienciación del usuario"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La seguridad de la información protege principalmente:",
+    "respuestas": {
+      "a": "Solo la confidencialidad",
+      "b": "Los 3 pilares: confidencialidad, integridad y disponibilidad",
+      "c": "Solo la integridad",
+      "d": "Solo la disponibilidad"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Confidencialidad significa:",
+    "respuestas": {
+      "a": "Que los datos no se modifiquen",
+      "b": "Que solo accedan los autorizados",
+      "c": "Que siempre haya acceso a los datos",
+      "d": "Que los datos estén comprimidos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Integridad significa:",
+    "respuestas": {
+      "a": "Acceso continuo a los datos",
+      "b": "Exactitud y completitud; que no se han modificado",
+      "c": "Cifrado obligatorio",
+      "d": "Acceso público"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Disponibilidad significa:",
+    "respuestas": {
+      "a": "Que nadie pueda acceder a la información",
+      "b": "Que los usuarios autorizados acceden cuando lo requieran",
+      "c": "Que el sistema esté desconectado",
+      "d": "Que la información esté en papel"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La ciberdefensa se define como:",
+    "respuestas": {
+      "a": "Acciones de defensa activas/pasivas, preventivas/reactivas para asegurar uso propio del ciberespacio y negarlo al enemigo",
+      "b": "Solo instalación de antivirus",
+      "c": "Solo auditorías anuales",
+      "d": "Solo cifrado simétrico"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué describe mejor al 'PC Aduana'?",
+    "respuestas": {
+      "a": "Equipo conectado a la red a proteger",
+      "b": "Equipo aislado de la red para analizar archivos antes de introducirlos en redes aisladas",
+      "c": "Servidor DNS público",
+      "d": "Router con Wi‑Fi abierto"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El 'PC Frontera' se caracteriza por:",
+    "respuestas": {
+      "a": "Estar siempre desconectado",
+      "b": "Estar conectado a la red a proteger y verificar archivos a introducir",
+      "c": "Tener un SO distinto al de la red",
+      "d": "No tener antivirus"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En redes aisladas clasificadas, el PC Aduana constituye:",
+    "respuestas": {
+      "a": "La última defensa",
+      "b": "La primera defensa",
+      "c": "Un elemento decorativo",
+      "d": "Un sistema de respaldo en la nube"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En el PC Aduana, el sistema operativo y antivirus se actualizan:",
+    "respuestas": {
+      "a": "Solo por Wi‑Fi",
+      "b": "Mediante procedimientos offline",
+      "c": "Nunca se actualizan",
+      "d": "Con actualizaciones automáticas diarias"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En el PC Frontera, las actualizaciones de S.O. y protección se realizan:",
+    "respuestas": {
+      "a": "Con la misma frecuencia/política que el resto de la red",
+      "b": "Solo una vez al año",
+      "c": "Nunca",
+      "d": "Solo cuando hay incidente"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál se considera el 'eslabón más débil' de un sistema según el temario?",
+    "respuestas": {
+      "a": "Los switches",
+      "b": "Los usuarios",
+      "c": "Los cables de red",
+      "d": "Los discos SSD"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La concienciación del usuario busca principalmente:",
+    "respuestas": {
+      "a": "Eliminar el correo electrónico",
+      "b": "Capacitar para reaccionar adecuadamente ante amenazas",
+      "c": "Instalar más RAM",
+      "d": "Cambiar a IPv6"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué es una contraseña robusta según buenas prácticas habituales del temario?",
+    "respuestas": {
+      "a": "Una palabra del diccionario",
+      "b": "Una combinación larga y compleja (longitud + variedad de caracteres)",
+      "c": "Tu nombre y fecha",
+      "d": "La misma para todos los servicios"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué práctica es más segura?",
+    "respuestas": {
+      "a": "Reutilizar contraseñas",
+      "b": "Usar contraseñas distintas por servicio",
+      "c": "Compartir contraseñas por chat",
+      "d": "Guardar contraseñas en texto plano"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El riesgo principal de una contraseña débil es:",
+    "respuestas": {
+      "a": "Mejorar el rendimiento",
+      "b": "Facilitar ataques de fuerza bruta o diccionario",
+      "c": "Reducir el phishing",
+      "d": "Evitar ransomware"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué ayuda a mitigar robo de contraseña?",
+    "respuestas": {
+      "a": "Desactivar actualizaciones",
+      "b": "Autenticación multifactor (MFA)",
+      "c": "Usar Wi‑Fi público",
+      "d": "Publicar la contraseña"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En el temario, los 'fake vídeos y audios' se relacionan con:",
+    "respuestas": {
+      "a": "Disponibilidad",
+      "b": "Manipulación y desinformación apoyada por IA",
+      "c": "Firmware de routers",
+      "d": "Cifrado simétrico"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Un riesgo asociado a deepfakes en entorno de seguridad es:",
+    "respuestas": {
+      "a": "Aumentar integridad automáticamente",
+      "b": "Suplantación y engaño (p.ej., órdenes falsas)",
+      "c": "Reducir ingeniería social",
+      "d": "Eliminar malware"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué medida es razonable ante contenidos potencialmente manipulados?",
+    "respuestas": {
+      "a": "Creer siempre lo primero que llega",
+      "b": "Verificar fuentes y usar canales alternativos",
+      "c": "Desactivar antivirus",
+      "d": "Usar contraseñas cortas"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P31)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P32)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P33)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P34)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P35)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P36)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P37)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P38)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P39)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P40)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P41)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P42)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P43)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P44)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P45)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P46)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P47)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P48)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P49)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En el análisis de situación actual, ¿qué elemento se destaca como clave para mejorar la seguridad organizativa? (P50)",
+    "respuestas": {
+      "a": "Formación y procedimientos",
+      "b": "Solo comprar hardware nuevo",
+      "c": "Eliminar copias de seguridad",
+      "d": "Permitir software no autorizado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El ciberespacio se define como:",
+    "respuestas": {
+      "a": "Un entorno físico de cables",
+      "b": "Entorno no físico creado por ordenadores interconectados; no es solo Internet",
+      "c": "Una red aislada sin crecimiento",
+      "d": "Solo redes sociales"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La ciberseguridad tiene como objetivo principal:",
+    "respuestas": {
+      "a": "Asegurar uso propio de redes y negar acceso a terceros",
+      "b": "Aumentar el número de dispositivos conectados",
+      "c": "Crear malware para pruebas",
+      "d": "Eliminar el cifrado"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál es un ejemplo de 'seguridad de red' según el temario?",
+    "respuestas": {
+      "a": "Mantener el software original",
+      "b": "Configurar permisos de acceso y electrónica de red para proteger de intrusos",
+      "c": "Hacer capturas de RAM",
+      "d": "Crear reglas YARA"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La 'seguridad de aplicaciones' incluye:",
+    "respuestas": {
+      "a": "Desactivar actualizaciones",
+      "b": "Mantener software/dispositivos libres de amenazas y analizar vulnerabilidades",
+      "c": "Eliminar antivirus",
+      "d": "Abrir adjuntos desconocidos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La 'seguridad operativa' se refiere a:",
+    "respuestas": {
+      "a": "Solo hardware",
+      "b": "Procedimientos/decisiones para manejar y proteger datos (dónde almacenar/compartir, permisos)",
+      "c": "Reglas de firewall únicamente",
+      "d": "Cifrado de archivos siempre"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La recuperación ante desastres trata sobre:",
+    "respuestas": {
+      "a": "Evitar contraseñas",
+      "b": "Restaurar operaciones e información tras un incidente a capacidad previa",
+      "c": "Crear botnets",
+      "d": "Ofuscar código"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El malware se caracteriza por:",
+    "respuestas": {
+      "a": "Ejecutarse con autorización del usuario",
+      "b": "Ejecutarse sin conocimiento/autorización y realizar funciones perjudiciales",
+      "c": "No ser intrusivo",
+      "d": "Ser siempre software legal"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué facilita la distribución de malware según el temario?",
+    "respuestas": {
+      "a": "Menos navegación web",
+      "b": "Intercambio en RRSS/email y compartición P2P",
+      "c": "Uso exclusivo de redes aisladas",
+      "d": "Eliminar adjuntos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál se menciona como ejemplo de amenazas favorecidas por el contexto actual?",
+    "respuestas": {
+      "a": "Hoax, spam y ransomware",
+      "b": "Solo ping",
+      "c": "Solo HTTPS",
+      "d": "Solo VLAN"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "La ofuscación en malware busca principalmente:",
+    "respuestas": {
+      "a": "Hacer el código más legible",
+      "b": "Dificultar análisis estático e impedir análisis de comportamiento por antivirus",
+      "c": "Aumentar la velocidad de red",
+      "d": "Eliminar persistencia"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Según el temario, al ejecutarse un código ofuscado suele ocurrir que:",
+    "respuestas": {
+      "a": "Nunca se descifra",
+      "b": "Se llama a funciones que descifran el código real y lo ejecutan",
+      "c": "Se convierte en PDF",
+      "d": "Se borra solo"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Un 'packer' (empaquetador) se usa para:",
+    "respuestas": {
+      "a": "Aumentar tamaño del ejecutable",
+      "b": "Reducir tamaño, generalmente comprimiendo el ejecutable",
+      "c": "Cifrar bases de datos",
+      "d": "Crear reglas YARA"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué porcentaje aproximado del nuevo malware usa empaquetado según el temario?",
+    "respuestas": {
+      "a": "10%",
+      "b": "50%",
+      "c": "80%",
+      "d": "100%"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál NO es un propósito del empaquetado mencionado?",
+    "respuestas": {
+      "a": "Dificultar análisis estático",
+      "b": "Unir varios ficheros maliciosos en uno",
+      "c": "Hacer el código más fácil de leer",
+      "d": "Ocultar código ante antivirus"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La persistencia moderna del malware se explica porque:",
+    "respuestas": {
+      "a": "Destruir el sistema da más beneficio",
+      "b": "Hoy busca lucro y mantener acceso; usa herramientas del sistema (tareas/registro)",
+      "c": "No existe persistencia",
+      "d": "Solo afecta a BIOS siempre"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El polimorfismo pretende:",
+    "respuestas": {
+      "a": "Cambiar apariencia binaria manteniendo funcionalidad para evadir firmas",
+      "b": "Eliminar cifrado",
+      "c": "Hacer el código fijo",
+      "d": "Aumentar uso de CPU sin motivo"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "El metamorfismo se diferencia del polimorfismo porque:",
+    "respuestas": {
+      "a": "Mantiene un núcleo detectable",
+      "b": "Reorganiza profundamente todo el código en cada iteración y evita firmas por bytes",
+      "c": "No cambia nunca",
+      "d": "Solo cambia el nombre del fichero"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Autonomía, conexión e IA en malware implica que:",
+    "respuestas": {
+      "a": "Siempre requiere intervención del usuario",
+      "b": "Puede actuar solo, conectarse a servidores remotos y usar IA para evadir/seleccionar objetivos",
+      "c": "No roba datos",
+      "d": "No descarga componentes"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Los documentos maliciosos se distribuyen habitualmente por:",
+    "respuestas": {
+      "a": "Radio",
+      "b": "Correo electrónico (phishing)",
+      "c": "Cable coaxial",
+      "d": "Solo Bluetooth"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En documentos con macros, la infección suele requerir:",
+    "respuestas": {
+      "a": "Solo abrir el documento",
+      "b": "Interacción del usuario habilitando contenido/Enable Content",
+      "c": "Reiniciar el router",
+      "d": "Cambiar el SSID"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El código de macros maliciosas suele estar escrito en:",
+    "respuestas": {
+      "a": "C",
+      "b": "VBA (Visual Basic for Applications)",
+      "c": "Java puro",
+      "d": "SQL"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En documentos con OLE, para infectar normalmente hace falta:",
+    "respuestas": {
+      "a": "Nada, se infecta al descargar",
+      "b": "Doble clic sobre el objeto embebido dentro del documento",
+      "c": "Cambiar el fondo de pantalla",
+      "d": "Abrir en modo avión"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Los PDF pueden ser vectores porque soportan:",
+    "respuestas": {
+      "a": "Solo texto plano",
+      "b": "JavaScript, formularios, objetos embebidos, acciones y enlaces externos",
+      "c": "Solo imágenes",
+      "d": "Solo audio"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Los documentos que explotan vulnerabilidades 0‑day se describen como:",
+    "respuestas": {
+      "a": "Comunes y poco peligrosos",
+      "b": "No comunes pero muy peligrosos; suelen corregirse rápido",
+      "c": "Imposibles",
+      "d": "Solo en Linux"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Un virus, según el temario, suele:",
+    "respuestas": {
+      "a": "No necesitar ejecución del usuario nunca",
+      "b": "Reproducirse infectando ficheros y alterando funcionamiento; suele requerir ejecución",
+      "c": "Ser siempre un gusano",
+      "d": "Ser un ransomware"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Un gusano se diferencia del virus en que:",
+    "respuestas": {
+      "a": "Necesita infectar ficheros para replicarse",
+      "b": "No necesita infectar ficheros ni intervención del usuario para reproducirse",
+      "c": "No se replica",
+      "d": "Solo cifra archivos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Un troyano se caracteriza por:",
+    "respuestas": {
+      "a": "Autorreplicación masiva por red",
+      "b": "Disfrazarse de programa legítimo y abrir backdoor para acceso/robo",
+      "c": "Ser solo hardware",
+      "d": "No afectar antivirus"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El ransomware:",
+    "respuestas": {
+      "a": "Espía pulsaciones",
+      "b": "Cifra/‘secuestra’ información para pedir rescate",
+      "c": "Solo acelera el PC",
+      "d": "No afecta datos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Según el temario, ante ransomware normalmente se recomienda:",
+    "respuestas": {
+      "a": "Pagar siempre",
+      "b": "No pagar el rescate",
+      "c": "Formatear sin copia",
+      "d": "Publicar claves"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La principal salvaguarda frente a ransomware indicada es:",
+    "respuestas": {
+      "a": "Desactivar firewall",
+      "b": "Política correcta de copias de seguridad (backup)",
+      "c": "Usar redes P2P",
+      "d": "Instalar software pirata"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El spyware busca:",
+    "respuestas": {
+      "a": "Ser visible",
+      "b": "Pasar desapercibido mientras espía al usuario",
+      "c": "Solo cifrar",
+      "d": "Solo desinstalar apps"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Un keylogger registra:",
+    "respuestas": {
+      "a": "Tráfico DNS",
+      "b": "Pulsaciones de teclado",
+      "c": "Temperatura del CPU",
+      "d": "Logs de impresora"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Un rootkit permite al atacante:",
+    "respuestas": {
+      "a": "Acceso de invitado",
+      "b": "Control remoto con privilegios de administrador y ocultamiento",
+      "c": "Solo enviar emails",
+      "d": "Solo generar hashes"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Una botnet es:",
+    "respuestas": {
+      "a": "Una base de datos de firmas",
+      "b": "Red de equipos infectados controlados remotamente (zombies)",
+      "c": "Un antivirus",
+      "d": "Un firewall"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El rogueware es:",
+    "respuestas": {
+      "a": "Un gusano de red",
+      "b": "Un falso antivirus que en realidad es un troyano",
+      "c": "Un IDS",
+      "d": "Un parche de seguridad"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Un backdoor es:",
+    "respuestas": {
+      "a": "Un backup",
+      "b": "Código que permite saltarse autenticación para realizar tareas",
+      "c": "Un tipo de cifrado",
+      "d": "Un packer"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo típico de la 'ingeniería social' en el contexto de malware? (P37)",
+    "respuestas": {
+      "a": "Mejorar la disponibilidad",
+      "b": "Engañar al usuario para que ejecute/entregue información",
+      "c": "Reducir vulnerabilidades 0-day",
+      "d": "Aumentar la integridad automáticamente"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo típico de la 'ingeniería social' en el contexto de malware? (P38)",
+    "respuestas": {
+      "a": "Mejorar la disponibilidad",
+      "b": "Engañar al usuario para que ejecute/entregue información",
+      "c": "Reducir vulnerabilidades 0-day",
+      "d": "Aumentar la integridad automáticamente"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo típico de la 'ingeniería social' en el contexto de malware? (P39)",
+    "respuestas": {
+      "a": "Mejorar la disponibilidad",
+      "b": "Engañar al usuario para que ejecute/entregue información",
+      "c": "Reducir vulnerabilidades 0-day",
+      "d": "Aumentar la integridad automáticamente"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo típico de la 'ingeniería social' en el contexto de malware? (P40)",
+    "respuestas": {
+      "a": "Mejorar la disponibilidad",
+      "b": "Engañar al usuario para que ejecute/entregue información",
+      "c": "Reducir vulnerabilidades 0-day",
+      "d": "Aumentar la integridad automáticamente"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo típico de la 'ingeniería social' en el contexto de malware? (P41)",
+    "respuestas": {
+      "a": "Mejorar la disponibilidad",
+      "b": "Engañar al usuario para que ejecute/entregue información",
+      "c": "Reducir vulnerabilidades 0-day",
+      "d": "Aumentar la integridad automáticamente"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo típico de la 'ingeniería social' en el contexto de malware? (P42)",
+    "respuestas": {
+      "a": "Mejorar la disponibilidad",
+      "b": "Engañar al usuario para que ejecute/entregue información",
+      "c": "Reducir vulnerabilidades 0-day",
+      "d": "Aumentar la integridad automáticamente"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo típico de la 'ingeniería social' en el contexto de malware? (P43)",
+    "respuestas": {
+      "a": "Mejorar la disponibilidad",
+      "b": "Engañar al usuario para que ejecute/entregue información",
+      "c": "Reducir vulnerabilidades 0-day",
+      "d": "Aumentar la integridad automáticamente"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo típico de la 'ingeniería social' en el contexto de malware? (P44)",
+    "respuestas": {
+      "a": "Mejorar la disponibilidad",
+      "b": "Engañar al usuario para que ejecute/entregue información",
+      "c": "Reducir vulnerabilidades 0-day",
+      "d": "Aumentar la integridad automáticamente"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo típico de la 'ingeniería social' en el contexto de malware? (P45)",
+    "respuestas": {
+      "a": "Mejorar la disponibilidad",
+      "b": "Engañar al usuario para que ejecute/entregue información",
+      "c": "Reducir vulnerabilidades 0-day",
+      "d": "Aumentar la integridad automáticamente"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo típico de la 'ingeniería social' en el contexto de malware? (P46)",
+    "respuestas": {
+      "a": "Mejorar la disponibilidad",
+      "b": "Engañar al usuario para que ejecute/entregue información",
+      "c": "Reducir vulnerabilidades 0-day",
+      "d": "Aumentar la integridad automáticamente"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo típico de la 'ingeniería social' en el contexto de malware? (P47)",
+    "respuestas": {
+      "a": "Mejorar la disponibilidad",
+      "b": "Engañar al usuario para que ejecute/entregue información",
+      "c": "Reducir vulnerabilidades 0-day",
+      "d": "Aumentar la integridad automáticamente"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo típico de la 'ingeniería social' en el contexto de malware? (P48)",
+    "respuestas": {
+      "a": "Mejorar la disponibilidad",
+      "b": "Engañar al usuario para que ejecute/entregue información",
+      "c": "Reducir vulnerabilidades 0-day",
+      "d": "Aumentar la integridad automáticamente"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo típico de la 'ingeniería social' en el contexto de malware? (P49)",
+    "respuestas": {
+      "a": "Mejorar la disponibilidad",
+      "b": "Engañar al usuario para que ejecute/entregue información",
+      "c": "Reducir vulnerabilidades 0-day",
+      "d": "Aumentar la integridad automáticamente"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo típico de la 'ingeniería social' en el contexto de malware? (P50)",
+    "respuestas": {
+      "a": "Mejorar la disponibilidad",
+      "b": "Engañar al usuario para que ejecute/entregue información",
+      "c": "Reducir vulnerabilidades 0-day",
+      "d": "Aumentar la integridad automáticamente"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Una función hash es:",
+    "respuestas": {
+      "a": "Un cifrado reversible",
+      "b": "Resultado de aplicar una función matemática a datos binarios; identificador de longitud fija",
+      "c": "Un firewall",
+      "d": "Un virus"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Una característica de hash según el temario es:",
+    "respuestas": {
+      "a": "Difícil de calcular",
+      "b": "Un mínimo cambio en la entrada produce un hash diferente",
+      "c": "Longitud variable según archivo",
+      "d": "Es bidireccional"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Las funciones hash se consideran:",
+    "respuestas": {
+      "a": "Funciones unidireccionales (prácticamente imposible recuperar la entrada desde el hash)",
+      "b": "Funciones reversibles siempre",
+      "c": "Solo para texto",
+      "d": "Solo para imágenes"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En PowerShell, el comando citado para calcular hash es:",
+    "respuestas": {
+      "a": "ipconfig",
+      "b": "get-filehash",
+      "c": "netstat",
+      "d": "whoami"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Los antivirus pueden usar hashes para:",
+    "respuestas": {
+      "a": "Aumentar el tamaño del malware",
+      "b": "Comparar el hash del fichero con bases de datos de malware conocido",
+      "c": "Crear certificados",
+      "d": "Hacer análisis de memoria"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En distribución de software, muchas empresas publican:",
+    "respuestas": {
+      "a": "El código fuente completo siempre",
+      "b": "El hash del fichero para que el usuario verifique integridad",
+      "c": "La contraseña del admin",
+      "d": "La lista de bots"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué riesgo se menciona sobre sitios clonados?",
+    "respuestas": {
+      "a": "No existe riesgo",
+      "b": "Pueden publicar el hash del fichero malicioso; importancia de navegación segura (HTTPS)",
+      "c": "Solo afectan a impresoras",
+      "d": "Solo a móviles"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La firma digital se describe como:",
+    "respuestas": {
+      "a": "Un mecanismo que garantiza integridad y no repudio usando cifrado asimétrico",
+      "b": "Un hash reversible",
+      "c": "Un antivirus",
+      "d": "Una regla YARA"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Para firmar digitalmente, el emisor:",
+    "respuestas": {
+      "a": "Cifra el documento con clave pública del receptor",
+      "b": "Genera y cifra el hash del documento con su clave privada y adjunta certificado",
+      "c": "Solo envía un enlace",
+      "d": "Hace un zip"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En verificación, el destinatario:",
+    "respuestas": {
+      "a": "Usa la clave privada del emisor",
+      "b": "Descifra el hash con la clave pública y lo compara con el hash calculado",
+      "c": "No calcula hash",
+      "d": "Siempre confía sin comprobar"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Las contraseñas en sistemas operativos suelen almacenarse como:",
+    "respuestas": {
+      "a": "Texto plano",
+      "b": "Hashes",
+      "c": "Imágenes",
+      "d": "Cifrado simétrico con clave pública"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Las tablas Rainbow sirven para:",
+    "respuestas": {
+      "a": "Evitar phishing",
+      "b": "Acelerar ataques de diccionario usando hashes precomputados de contraseñas comunes",
+      "c": "Crear malware polimórfico",
+      "d": "Detectar MITM"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál es un ejemplo de herramienta/servicio para consultar hashes de malware?",
+    "respuestas": {
+      "a": "Paint",
+      "b": "VirusTotal",
+      "c": "WordPad",
+      "d": "Calculadora"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "YARA es:",
+    "respuestas": {
+      "a": "Un IDS propietario",
+      "b": "Herramienta open-source para identificar/clasificar malware mediante reglas de patrones",
+      "c": "Un packer",
+      "d": "Un ransomware"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Las reglas YARA pueden detectar:",
+    "respuestas": {
+      "a": "Solo direcciones IP",
+      "b": "Cadenas, secuencias de instrucciones, regex y otros patrones",
+      "c": "Solo contraseñas",
+      "d": "Solo puertos abiertos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Un riesgo de hacer públicas reglas YARA es que:",
+    "respuestas": {
+      "a": "Mejoran la detección siempre",
+      "b": "Los creadores de malware pueden verlas y cambiar cadenas identificativas",
+      "c": "El malware deja de existir",
+      "d": "Se rompe HTTPS"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Los IOC (Indicadores de Compromiso) se refieren a:",
+    "respuestas": {
+      "a": "Contraseñas robustas",
+      "b": "Evidencias técnicas (ficheros, registro, procesos, servicios) para identificar equipos comprometidos",
+      "c": "Solo políticas de RRHH",
+      "d": "Solo logs de vuelo"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Una CVE es:",
+    "respuestas": {
+      "a": "Un antivirus",
+      "b": "Lista registrada de vulnerabilidades conocidas con CVE-ID, descripción, versiones afectadas y mitigación",
+      "c": "Un tipo de botnet",
+      "d": "Una regla YARA"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Formato típico de CVE-ID según el temario:",
+    "respuestas": {
+      "a": "CVE-NNNN-YYYY",
+      "b": "CVE-YYYY-NNNN",
+      "c": "CVE-XX-AAAA",
+      "d": "CVE-HTTP-SSL"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El análisis dinámico consiste en:",
+    "respuestas": {
+      "a": "Analizar ensamblador sin ejecutar",
+      "b": "Ejecutar la amenaza en entorno controlado (p.ej. máquina virtual) y monitorizar cambios",
+      "c": "Solo leer emails",
+      "d": "Cambiar hashes"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Una utilidad mencionada para simular Internet en análisis dinámico es:",
+    "respuestas": {
+      "a": "fakenet",
+      "b": "notepad",
+      "c": "calc.exe",
+      "d": "scp"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Para monitorizar conexiones del malware, se citan herramientas como:",
+    "respuestas": {
+      "a": "Wireshark",
+      "b": "Photoshop",
+      "c": "Excel",
+      "d": "PowerPoint"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Una sandbox es:",
+    "respuestas": {
+      "a": "Un firewall físico",
+      "b": "Ejecución en espacio virtual limitado para controlar procesos y evitar daño al resto del equipo",
+      "c": "Un hash",
+      "d": "Un exploit 0-day"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El análisis estático consiste en:",
+    "respuestas": {
+      "a": "Ejecutar malware en red real",
+      "b": "Analizar el código (ensamblador) sin ejecutar el binario; usando desensamblador",
+      "c": "Solo usar VirusTotal",
+      "d": "Cifrar archivos"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Herramientas citadas para análisis estático incluyen:",
+    "respuestas": {
+      "a": "Radare2, IdaPro, Ollydbg",
+      "b": "Chrome, Firefox, Edge",
+      "c": "Brutus, Hydra, John",
+      "d": "Word, Excel, PPT"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Un problema típico del análisis estático es:",
+    "respuestas": {
+      "a": "Falta de CPU",
+      "b": "Código ofuscado",
+      "c": "Exceso de backups",
+      "d": "Uso de HTTPS"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El análisis de memoria RAM es útil para:",
+    "respuestas": {
+      "a": "Detectar malware desconocido y extraer IOC incluso si no lo detecta el antivirus",
+      "b": "Evitar fuerza bruta",
+      "c": "Crear botnets",
+      "d": "Hacer phishing"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Según el temario, una herramienta muy utilizada para análisis de RAM es:",
+    "respuestas": {
+      "a": "Volatility",
+      "b": "YARA",
+      "c": "Brutus",
+      "d": "UPX"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Se recomienda Volatility idealmente en:",
+    "respuestas": {
+      "a": "Linux por plugins adicionales",
+      "b": "Solo macOS",
+      "c": "Solo Android",
+      "d": "MS-DOS"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué propiedad de las funciones hash permite usarlas como identificadores?",
+    "respuestas": {
+      "a": "Que son reversibles",
+      "b": "Longitud fija",
+      "c": "Que requieren Internet",
+      "d": "Que son aleatorias sin relación"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué ocurre si se modifica mínimamente un fichero respecto a su hash?",
+    "respuestas": {
+      "a": "El hash suele mantenerse",
+      "b": "El hash cambia completamente",
+      "c": "El hash se vuelve más corto",
+      "d": "El hash se convierte en CVE"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué suele descargarse al actualizar un antivirus según el temario?",
+    "respuestas": {
+      "a": "Reglas YARA privadas",
+      "b": "Hashes de los últimos malware descubiertos",
+      "c": "Tablas rainbow completas",
+      "d": "Claves privadas"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué describe mejor un IOC?",
+    "respuestas": {
+      "a": "Una vulnerabilidad registrada",
+      "b": "Un conjunto de evidencias técnicas para detectar una amenaza en otros equipos",
+      "c": "Un algoritmo de compresión",
+      "d": "Un certificado caducado"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Por qué puede fallar fakenet ante malware moderno?",
+    "respuestas": {
+      "a": "Porque no existe",
+      "b": "Porque el malware detecta conexión simulada",
+      "c": "Porque cifra los paquetes",
+      "d": "Porque elimina el router"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué ventaja clave tiene el análisis estático frente al dinámico para ciertos RAT?",
+    "respuestas": {
+      "a": "Permite observar comandos sin interacción del atacante",
+      "b": "Requiere Internet real",
+      "c": "Es más peligroso",
+      "d": "No necesita desensamblador"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué se recomienda hacer con ficheros sospechosos en entorno corporativo antes de abrirlos?",
+    "respuestas": {
+      "a": "Abrirlos directamente",
+      "b": "Analizarlos en sandbox/entorno controlado",
+      "c": "Desactivar antivirus",
+      "d": "Compartirlos por P2P"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué tipo de regla usa expresiones booleanas y comienza por 'rule'?",
+    "respuestas": {
+      "a": "CVE",
+      "b": "YARA",
+      "c": "DNS",
+      "d": "HTTP"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué componente contiene la clave pública en el contexto de firma digital?",
+    "respuestas": {
+      "a": "El hash",
+      "b": "El certificado digital adjunto",
+      "c": "El packer",
+      "d": "El IOC"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué garantiza una firma digital según el temario?",
+    "respuestas": {
+      "a": "Confidencialidad y disponibilidad",
+      "b": "Integridad y no repudio",
+      "c": "Solo disponibilidad",
+      "d": "Solo anonimato"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué campo NO suele incluir una entrada CVE según el temario?",
+    "respuestas": {
+      "a": "Descripción de la vulnerabilidad",
+      "b": "Versiones afectadas",
+      "c": "Receta de cocina",
+      "d": "Mitigación/solución o configuración"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿En un análisis dinámico, qué se observa típicamente?",
+    "respuestas": {
+      "a": "Cambios en registro, ficheros, conexiones",
+      "b": "Solo colores de pantalla",
+      "c": "Solo rendimiento de GPU",
+      "d": "Solo logs de Office"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué estrategia se menciona para sandboxing de malware?",
+    "respuestas": {
+      "a": "Ejecutar varios malware en la misma MV siempre",
+      "b": "Clonar la MV para cada prueba (uno por MV)",
+      "c": "Ejecutar en PC de producción",
+      "d": "Publicar el binario"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué puede intentar hacer un malware con conexión C2?",
+    "respuestas": {
+      "a": "Recibir órdenes o exfiltrar datos",
+      "b": "Solo imprimir documentos",
+      "c": "Solo apagar la pantalla",
+      "d": "Solo cambiar idioma"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué aporta el análisis de RAM ante malware que se descifra en ejecución?",
+    "respuestas": {
+      "a": "Puede revelar contenido/clave al residir en memoria",
+      "b": "No aporta nada",
+      "c": "Solo borra logs",
+      "d": "Solo cambia hash"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué es un desensamblador en análisis estático?",
+    "respuestas": {
+      "a": "Un packer",
+      "b": "Herramienta para decodificar código máquina a ensamblador",
+      "c": "Un antivirus",
+      "d": "Un IDS"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué componente se compara al verificar una firma?",
+    "respuestas": {
+      "a": "El tamaño del archivo",
+      "b": "El hash descifrado vs hash calculado",
+      "c": "El nombre del usuario",
+      "d": "El SSID Wi‑Fi"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué se busca con consultas de hash en servicios como VirusTotal?",
+    "respuestas": {
+      "a": "Saber si un hash corresponde a malware conocido",
+      "b": "Obtener la clave privada",
+      "c": "Eliminar el ransomware",
+      "d": "Crear CVE"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué afirmación es correcta sobre colisiones hash según el temario?",
+    "respuestas": {
+      "a": "Son muy probables",
+      "b": "La probabilidad de obtener resultados iguales con entradas diferentes es ínfima",
+      "c": "Ocurren siempre",
+      "d": "Solo en archivos PDF"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué se menciona como limitación de reglas YARA ante contramedidas?",
+    "respuestas": {
+      "a": "Siempre detectan todo",
+      "b": "Cifrado/compresión/polimorfismo pueden producir muestras diferentes que no coincidan con firmas",
+      "c": "No pueden usarse en Windows",
+      "d": "Solo sirven para imágenes"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Según el temario, un ataque es:",
+    "respuestas": {
+      "a": "Una actualización de software",
+      "b": "Maniobra ofensiva deliberada para dañar/desestabilizar/tomar control o comprometer seguridad de la información",
+      "c": "Un backup",
+      "d": "Una firma digital"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Los ataques generalmente:",
+    "respuestas": {
+      "a": "No necesitan vulnerabilidades",
+      "b": "Aprovechan y explotan vulnerabilidades del sistema objetivo",
+      "c": "Solo ocurren offline",
+      "d": "Son siempre accidentales"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Una característica común de ciberataques es:",
+    "respuestas": {
+      "a": "Coste siempre alto",
+      "b": "Bajo coste por disponibilidad de herramientas gratuitas o baratas",
+      "c": "Imposibles de automatizar",
+      "d": "Siempre requieren acceso físico"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Otra característica común citada es:",
+    "respuestas": {
+      "a": "Simplicidad de ejecución en muchos casos",
+      "b": "Necesidad de doctorado siempre",
+      "c": "Ausencia de impacto",
+      "d": "Imposibilidad de repetición"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Phishing hace alusión a:",
+    "respuestas": {
+      "a": "Cifrado",
+      "b": "Pesca: intentar que usuarios muerdan el anzuelo",
+      "c": "Firewall",
+      "d": "Hashing"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El objetivo del phishing suele ser:",
+    "respuestas": {
+      "a": "Mejorar la red",
+      "b": "Obtener información confidencial (contraseñas, datos bancarios, etc.) fraudulentamente",
+      "c": "Instalar parches",
+      "d": "Crear certificados"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Smishing se refiere a phishing vía:",
+    "respuestas": {
+      "a": "SMS/mensajería instantánea",
+      "b": "Videojuegos",
+      "c": "Bluetooth",
+      "d": "DNS"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Vishing se refiere a phishing vía:",
+    "respuestas": {
+      "a": "Llamadas telefónicas",
+      "b": "Correo postal",
+      "c": "USB",
+      "d": "Impresión"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Pharming es:",
+    "respuestas": {
+      "a": "Fuerza bruta a contraseñas",
+      "b": "Explotar vulnerabilidad en DNS/cliente para redirigir dominio a otra IP",
+      "c": "Cifrado de discos",
+      "d": "Análisis estático"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En pharming, un usuario puede ser engañado porque:",
+    "respuestas": {
+      "a": "La web falsa puede parecer idéntica y robar credenciales",
+      "b": "El navegador se apaga",
+      "c": "El teclado deja de funcionar",
+      "d": "El hash cambia"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Un ataque de fuerza bruta consiste en:",
+    "respuestas": {
+      "a": "Ataque de ransomware",
+      "b": "Prueba y error repetitivo para descifrar contraseñas/recursos; también llamado diccionario",
+      "c": "Ataque físico a servidor",
+      "d": "MITM en Wi‑Fi"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Herramientas citadas para fuerza bruta incluyen:",
+    "respuestas": {
+      "a": "Wireshark",
+      "b": "Brutus / Medusa / THC Hydra / John The Ripper",
+      "c": "Ollydbg",
+      "d": "Volatility"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "MITM (Man in the Middle) implica:",
+    "respuestas": {
+      "a": "Cifrar archivos",
+      "b": "Interceptar comunicación entre interlocutores y poder modificar/suplantar sin ser visto",
+      "c": "Solo escanear puertos",
+      "d": "Solo DDoS"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Un riesgo típico para MITM son:",
+    "respuestas": {
+      "a": "Redes Wi‑Fi públicas o con poca seguridad",
+      "b": "Redes con WPA2-AES y HTTPS siempre",
+      "c": "Equipos aislados sin red",
+      "d": "Copias offline"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Una medida para minimizar MITM según el temario es:",
+    "respuestas": {
+      "a": "Usar solo sitios HTTPS con SSL",
+      "b": "Desactivar cifrado",
+      "c": "Usar contraseña '1234'",
+      "d": "Compartir SSID"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Otra medida para minimizar MITM citada es:",
+    "respuestas": {
+      "a": "Usar WPA2-AES en Wi‑Fi",
+      "b": "Usar Wi‑Fi abierta",
+      "c": "Desactivar firewall",
+      "d": "No actualizar"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Las salvaguardas se definen como:",
+    "respuestas": {
+      "a": "Ataques automatizados",
+      "b": "Medidas necesarias para proteger información en equipos y redes",
+      "c": "Solo backups en nube",
+      "d": "Solo IDS"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El concepto de resiliencia se refiere a:",
+    "respuestas": {
+      "a": "Parar el sistema ante ataque",
+      "b": "Continuar operando aun bajo ataque (quizá degradado) y recuperarse rápido",
+      "c": "Eliminar usuarios",
+      "d": "Solo cifrar"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Las salvaguardas técnicas son:",
+    "respuestas": {
+      "a": "Medidas tecnológicas como antivirus, cortafuegos, copias de seguridad",
+      "b": "Formación del personal",
+      "c": "Control de acceso físico",
+      "d": "Auditorías psicológicas"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Las salvaguardas organizativas se centran en:",
+    "respuestas": {
+      "a": "Los switches",
+      "b": "Las personas (formación, responsables, procedimientos de alta/baja)",
+      "c": "El cableado",
+      "d": "La temperatura del CPD"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Las salvaguardas físicas incluyen:",
+    "respuestas": {
+      "a": "Cambiar contraseñas cada hora",
+      "b": "Acondicionar sala de servidores y controles de acceso, proteger backups",
+      "c": "Crear reglas YARA",
+      "d": "Configurar DNS público"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Según el temario, el coste de salvaguardas debe ser:",
+    "respuestas": {
+      "a": "Siempre máximo",
+      "b": "Proporcional al riesgo",
+      "c": "Siempre cero",
+      "d": "Independiente del riesgo"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "DDoS significa:",
+    "respuestas": {
+      "a": "Denial of Data Storage",
+      "b": "Distributed Denial of Service",
+      "c": "Dynamic DNS over SSL",
+      "d": "Digital Degree of Security"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En DDoS, el objetivo típico es:",
+    "respuestas": {
+      "a": "Mejorar disponibilidad",
+      "b": "Saturar servicios/servidores con tráfico distribuido para dejarlos inoperativos",
+      "c": "Cifrar discos",
+      "d": "Robar certificados"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Un ejemplo histórico citado de DDoS en el temario es:",
+    "respuestas": {
+      "a": "Stuxnet 2010",
+      "b": "Estonia 2007",
+      "c": "WannaCry 2019",
+      "d": "Zeus 2025"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué combinación describe bien un paquete de prevención ante ataques?",
+    "respuestas": {
+      "a": "Ignorar parches",
+      "b": "Políticas de seguridad + sensibilización + controles técnicos",
+      "c": "Usar software pirata",
+      "d": "Compartir credenciales"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Cuál de estas medidas es una buena práctica general?",
+    "respuestas": {
+      "a": "Abrir adjuntos inesperados",
+      "b": "Mantener software y sistemas actualizados",
+      "c": "Desactivar antivirus",
+      "d": "Reutilizar contraseñas"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En estrategia de respuesta/recuperación, una prioridad habitual es:",
+    "respuestas": {
+      "a": "Borrar evidencias",
+      "b": "Restaurar funciones esenciales y recuperar servicios",
+      "c": "Publicar credenciales",
+      "d": "Deshabilitar backups"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En un incidente, un objetivo clave de recuperación es:",
+    "respuestas": {
+      "a": "Volver a operar como antes del suceso",
+      "b": "Mantener el sistema degradado para siempre",
+      "c": "Eliminar la red",
+      "d": "Cambiar a P2P"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Las guías del CCN-CERT se mencionan en el tema como:",
+    "respuestas": {
+      "a": "Recetas de hashing",
+      "b": "Referencias/guías de seguridad para aplicar medidas y buenas prácticas",
+      "c": "Herramientas de fuerza bruta",
+      "d": "Nombres de malware"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P31)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P32)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P33)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P34)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P35)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P36)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P37)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P38)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P39)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P40)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P41)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P42)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P43)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P44)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P45)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P46)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P47)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P48)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P49)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué acción reduce el riesgo de ataques basados en credenciales? (P50)",
+    "respuestas": {
+      "a": "Usar contraseñas robustas y MFA",
+      "b": "Publicar la contraseña en un post-it",
+      "c": "Desactivar registros del sistema",
+      "d": "Conectarse siempre a Wi‑Fi abierta"
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Pregunta de control: ¿Cuántos bloques de 50 preguntas incluye este conjunto?",
+    "respuestas": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "correcta": "c"
+  }
+]
